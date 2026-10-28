@@ -1,6 +1,6 @@
 {
-  "version_code": 59,
-  "version_name": "2.1.7",
+  "version_code": 60,
+  "version_name": "2.1.8",
   "apk_url": "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
-  "changelog": "2.1.7: VPN снова работает в России — трафик идёт через резервные HTTPS-каналы (WebSocket), даже когда IP сервера заблокирован. Плюс защита от блокировок API и автообновлений."
+  "changelog": "2.1.8: VPN снова подключается даже в России — трафик идёт через защищённые HTTPS-каналы (WebSocket), а служебные соединения больше не попадают в собственный туннель. Добавлено автопереключение резервных каналов при обрыве."
 }
