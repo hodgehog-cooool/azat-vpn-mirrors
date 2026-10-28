@@ -2,5 +2,5 @@
   "version_code": 58,
   "version_name": "2.1.6",
   "apk_url": "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
-  "changelog": "2.1.6: обход блокировок — API и проверка обновлений работают через резервные каналы (GitHub), даже когда azatn.ru недоступен."
+  "changelog": "2.1.6: обход блокировок — API и проверка обновлений работают через резервные каналы (GitHub), даже когда azatn.ru недоступен. Список серверов обновляется удалённо."
 }
