@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://radius-franchise-library-consolidated.trycloudflare.com",
     "https://36d8d5f9855e25.lhr.life",
     "https://495e43af5270b34b-38-114-101-136.serveousercontent.com",
     "https://azatn.ru"
@@ -18,10 +17,9 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "live_api_bases": [
-    "https://radius-franchise-library-consolidated.trycloudflare.com",
     "https://36d8d5f9855e25.lhr.life",
     "https://495e43af5270b34b-38-114-101-136.serveousercontent.com"
   ],
-  "api_url": "https://radius-franchise-library-consolidated.trycloudflare.com",
-  "updated": "2026-10-28T10:42:23Z"
+  "api_url": "https://36d8d5f9855e25.lhr.life",
+  "updated": "2026-10-28T10:42:54Z"
 }
