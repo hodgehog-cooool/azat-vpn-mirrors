@@ -1,6 +1,6 @@
 {
-  "version_code": 61,
-  "version_name": "2.1.9",
+  "version_code": 62,
+  "version_name": "2.1.10",
   "apk_url": "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
-  "changelog": "2.1.9: VPN больше не обрывается в России — канал заранее переключается на резервный, поэтому соединение остаётся стабильным."
+  "changelog": "2.1.10: улучшена стабильность соединения — при переключении канала ответы продолжают приниматься, поэтому видео и загрузки идут без рывков."
 }
