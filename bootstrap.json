@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "notice": "Remote bootstrap for AZAT VPN Android app. api_bases order = priority.",
   "api_bases": [
+    "https://5dc6ecd9347e51aa-38-114-101-136.serveousercontent.com",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -14,5 +14,7 @@
   "apk_urls": [
     "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
-  ]
+  ],
+  "api_url": "https://5dc6ecd9347e51aa-38-114-101-136.serveousercontent.com",
+  "updated": "2026-10-28T10:17:13Z"
 }
