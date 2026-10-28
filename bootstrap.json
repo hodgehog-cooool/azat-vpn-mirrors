@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://kdryr-2605-e440--2-324.free.pinggy.net",
-    "https://777bbc1bf1506524-38-114-101-136.serveousercontent.com",
     "https://663df189192e5e.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://kdryr-2605-e440--2-324.free.pinggy.net",
-    "https://777bbc1bf1506524-38-114-101-136.serveousercontent.com",
     "https://663df189192e5e.lhr.life"
   ],
   "api_url": "https://kdryr-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-10-28T21:42:21Z"
+  "updated": "2026-10-28T21:44:02Z"
 }
