@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://ajoke-38-114-101-136.run.pinggy-free.link",
-    "https://16e2bc747c1d59db-38-114-101-136.serveousercontent.com",
     "https://3db765f61bf712.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://ajoke-38-114-101-136.run.pinggy-free.link",
-    "https://16e2bc747c1d59db-38-114-101-136.serveousercontent.com",
     "https://3db765f61bf712.lhr.life"
   ],
   "api_url": "https://ajoke-38-114-101-136.run.pinggy-free.link",
-  "updated": "2026-10-29T02:08:31Z"
+  "updated": "2026-10-29T02:10:54Z"
 }
