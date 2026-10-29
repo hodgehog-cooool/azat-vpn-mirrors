@@ -3,7 +3,7 @@
   "api_bases": [
     "https://ajoke-38-114-101-136.run.pinggy-free.link",
     "https://df2f4c32976ed208-38-114-101-136.serveousercontent.com",
-    "https://3db765f61bf712.lhr.life",
+    "https://cd7a270be5fa71.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -20,8 +20,8 @@
   "live_api_bases": [
     "https://ajoke-38-114-101-136.run.pinggy-free.link",
     "https://df2f4c32976ed208-38-114-101-136.serveousercontent.com",
-    "https://3db765f61bf712.lhr.life"
+    "https://cd7a270be5fa71.lhr.life"
   ],
   "api_url": "https://ajoke-38-114-101-136.run.pinggy-free.link",
-  "updated": "2026-10-29T02:21:20Z"
+  "updated": "2026-10-29T02:23:22Z"
 }
