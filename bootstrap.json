@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://gjfop-2605-e440--2-324.run.pinggy-free.link",
-    "https://858b943a716ba75a-38-114-101-136.serveousercontent.com",
     "https://e7ae923603ff24.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://gjfop-2605-e440--2-324.run.pinggy-free.link",
-    "https://858b943a716ba75a-38-114-101-136.serveousercontent.com",
     "https://e7ae923603ff24.lhr.life"
   ],
   "api_url": "https://gjfop-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-10-29T03:12:34Z"
+  "updated": "2026-10-29T03:22:40Z"
 }
