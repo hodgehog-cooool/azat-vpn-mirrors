@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://behae-2605-e440--2-324.run.pinggy-free.link",
+    "https://790feacb6f4917d6-38-114-101-136.serveousercontent.com",
     "https://29e0e7105bc635.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://behae-2605-e440--2-324.run.pinggy-free.link",
+    "https://790feacb6f4917d6-38-114-101-136.serveousercontent.com",
     "https://29e0e7105bc635.lhr.life"
   ],
   "api_url": "https://behae-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-10-29T12:05:49Z"
+  "updated": "2026-10-29T12:06:10Z"
 }
