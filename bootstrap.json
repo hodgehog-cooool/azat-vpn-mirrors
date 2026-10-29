@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://nbtha-2605-e440--2-324.free.pinggy.net",
-    "https://62104530922e5f2a-38-114-101-136.serveousercontent.com",
     "https://a159a7df0745b5.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://nbtha-2605-e440--2-324.free.pinggy.net",
-    "https://62104530922e5f2a-38-114-101-136.serveousercontent.com",
     "https://a159a7df0745b5.lhr.life"
   ],
   "api_url": "https://nbtha-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-10-29T06:58:48Z"
+  "updated": "2026-10-29T07:08:38Z"
 }
