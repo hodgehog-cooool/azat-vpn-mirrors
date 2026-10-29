@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://rueyp-2605-e440--2-324.run.pinggy-free.link",
-    "https://aa911771a82808f8-38-114-101-136.serveousercontent.com",
     "https://e56bc1f155bbdc.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://rueyp-2605-e440--2-324.run.pinggy-free.link",
-    "https://aa911771a82808f8-38-114-101-136.serveousercontent.com",
     "https://e56bc1f155bbdc.lhr.life"
   ],
   "api_url": "https://rueyp-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-10-29T16:22:51Z"
+  "updated": "2026-10-29T16:32:56Z"
 }
