@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://odasq-2605-e440--2-324.free.pinggy.net",
-    "https://292ead513ce31432-38-114-101-136.serveousercontent.com",
     "https://62358efecbe331.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://odasq-2605-e440--2-324.free.pinggy.net",
-    "https://292ead513ce31432-38-114-101-136.serveousercontent.com",
     "https://62358efecbe331.lhr.life"
   ],
   "api_url": "https://odasq-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-10-29T00:04:22Z"
+  "updated": "2026-10-29T00:07:45Z"
 }
