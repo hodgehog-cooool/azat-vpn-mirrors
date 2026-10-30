@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://jwoci-38-114-101-136.free.pinggy.net",
-    "https://91e3f8f407388d2d-38-114-101-136.serveousercontent.com",
     "https://d4dbd3b62de3bb.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://jwoci-38-114-101-136.free.pinggy.net",
-    "https://91e3f8f407388d2d-38-114-101-136.serveousercontent.com",
     "https://d4dbd3b62de3bb.lhr.life"
   ],
   "api_url": "https://jwoci-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-30T23:07:57Z"
+  "updated": "2026-10-30T23:13:20Z"
 }
