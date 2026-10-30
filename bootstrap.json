@@ -3,6 +3,7 @@
   "api_bases": [
     "https://ibsad-38-114-101-136.free.pinggy.net",
     "https://44f6a7570c1954aa-38-114-101-136.serveousercontent.com",
+    "https://eed0756c4c6b4c.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://ibsad-38-114-101-136.free.pinggy.net",
-    "https://44f6a7570c1954aa-38-114-101-136.serveousercontent.com"
+    "https://44f6a7570c1954aa-38-114-101-136.serveousercontent.com",
+    "https://eed0756c4c6b4c.lhr.life"
   ],
   "api_url": "https://ibsad-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-30T11:34:04Z"
+  "updated": "2026-10-30T11:34:25Z"
 }
