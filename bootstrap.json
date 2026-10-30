@@ -3,6 +3,7 @@
   "api_bases": [
     "https://jwoci-38-114-101-136.free.pinggy.net",
     "https://65d28fb4bedbdc40-38-114-101-136.serveousercontent.com",
+    "https://da836f2107fed9.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://jwoci-38-114-101-136.free.pinggy.net",
-    "https://65d28fb4bedbdc40-38-114-101-136.serveousercontent.com"
+    "https://65d28fb4bedbdc40-38-114-101-136.serveousercontent.com",
+    "https://da836f2107fed9.lhr.life"
   ],
   "api_url": "https://jwoci-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-30T23:20:06Z"
+  "updated": "2026-10-30T23:20:28Z"
 }
