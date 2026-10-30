@@ -3,7 +3,6 @@
   "api_bases": [
     "https://ctjli-38-114-101-136.free.pinggy.net",
     "https://5a4965ae9d668683-38-114-101-136.serveousercontent.com",
-    "https://47039995738e89.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://ctjli-38-114-101-136.free.pinggy.net",
-    "https://5a4965ae9d668683-38-114-101-136.serveousercontent.com",
-    "https://47039995738e89.lhr.life"
+    "https://5a4965ae9d668683-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://ctjli-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-30T13:42:59Z"
+  "updated": "2026-10-30T13:47:22Z"
 }
