@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://ibsad-38-114-101-136.free.pinggy.net",
+    "https://57cbb78c29548948-38-114-101-136.serveousercontent.com",
     "https://eed0756c4c6b4c.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://ibsad-38-114-101-136.free.pinggy.net",
+    "https://57cbb78c29548948-38-114-101-136.serveousercontent.com",
     "https://eed0756c4c6b4c.lhr.life"
   ],
   "api_url": "https://ibsad-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-30T11:45:32Z"
+  "updated": "2026-10-30T11:45:53Z"
 }
