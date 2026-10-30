@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://jdjal-2605-e440--2-324.free.pinggy.net",
     "https://c3002eef59426b1b-38-114-101-136.serveousercontent.com",
     "https://1f93113c14c44d.lhr.life",
     "https://azatn.ru"
@@ -17,9 +18,10 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "live_api_bases": [
+    "https://jdjal-2605-e440--2-324.free.pinggy.net",
     "https://c3002eef59426b1b-38-114-101-136.serveousercontent.com",
     "https://1f93113c14c44d.lhr.life"
   ],
-  "api_url": "https://c3002eef59426b1b-38-114-101-136.serveousercontent.com",
-  "updated": "2026-10-30T07:55:31Z"
+  "api_url": "https://jdjal-2605-e440--2-324.free.pinggy.net",
+  "updated": "2026-10-30T07:55:53Z"
 }
