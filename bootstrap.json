@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://hqxji-38-114-101-136.free.pinggy.net",
-    "https://414d02dc5a163a70-38-114-101-136.serveousercontent.com",
     "https://acd419ece07f30.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://hqxji-38-114-101-136.free.pinggy.net",
-    "https://414d02dc5a163a70-38-114-101-136.serveousercontent.com",
     "https://acd419ece07f30.lhr.life"
   ],
   "api_url": "https://hqxji-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-30T06:41:56Z"
+  "updated": "2026-10-30T06:48:00Z"
 }
