@@ -3,6 +3,7 @@
   "api_bases": [
     "https://battf-38-114-101-136.free.pinggy.net",
     "https://d8450300a9e775e5-38-114-101-136.serveousercontent.com",
+    "https://f0d9f67827dfdd.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://battf-38-114-101-136.free.pinggy.net",
-    "https://d8450300a9e775e5-38-114-101-136.serveousercontent.com"
+    "https://d8450300a9e775e5-38-114-101-136.serveousercontent.com",
+    "https://f0d9f67827dfdd.lhr.life"
   ],
   "api_url": "https://battf-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-31T13:14:26Z"
+  "updated": "2026-10-31T13:14:47Z"
 }
