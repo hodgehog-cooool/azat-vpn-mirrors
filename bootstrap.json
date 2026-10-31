@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://kkmdi-2605-e440--2-324.run.pinggy-free.link",
-    "https://332f27df847c67de-38-114-101-136.serveousercontent.com",
     "https://cff4d8ff8fe756.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://kkmdi-2605-e440--2-324.run.pinggy-free.link",
-    "https://332f27df847c67de-38-114-101-136.serveousercontent.com",
     "https://cff4d8ff8fe756.lhr.life"
   ],
   "api_url": "https://kkmdi-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-10-31T06:30:09Z"
+  "updated": "2026-10-31T06:34:52Z"
 }
