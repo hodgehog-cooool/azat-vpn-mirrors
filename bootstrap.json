@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://dldhd-2605-e440--2-324.free.pinggy.net",
-    "https://634a3659a737bc25-38-114-101-136.serveousercontent.com",
     "https://38431be2358dec.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://dldhd-2605-e440--2-324.free.pinggy.net",
-    "https://634a3659a737bc25-38-114-101-136.serveousercontent.com",
     "https://38431be2358dec.lhr.life"
   ],
   "api_url": "https://dldhd-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-10-31T09:38:56Z"
+  "updated": "2026-10-31T09:39:38Z"
 }
