@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://battf-38-114-101-136.free.pinggy.net",
-    "https://ba65753879906604-38-114-101-136.serveousercontent.com",
     "https://4d9c242d7e7912.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://battf-38-114-101-136.free.pinggy.net",
-    "https://ba65753879906604-38-114-101-136.serveousercontent.com",
     "https://4d9c242d7e7912.lhr.life"
   ],
   "api_url": "https://battf-38-114-101-136.free.pinggy.net",
-  "updated": "2026-10-31T13:25:38Z"
+  "updated": "2026-10-31T13:35:43Z"
 }
