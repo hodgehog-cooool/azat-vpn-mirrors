@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://jiltc-2605-e440--2-324.free.pinggy.net",
-    "https://504bf5796ac9cfdb-38-114-101-136.serveousercontent.com",
     "https://2e19c5498298e0.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://jiltc-2605-e440--2-324.free.pinggy.net",
-    "https://504bf5796ac9cfdb-38-114-101-136.serveousercontent.com",
     "https://2e19c5498298e0.lhr.life"
   ],
   "api_url": "https://jiltc-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-10-31T22:09:15Z"
+  "updated": "2026-10-31T22:10:57Z"
 }
