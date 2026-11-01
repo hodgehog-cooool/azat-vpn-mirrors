@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://bcgel-2605-e440--2-324.free.pinggy.net",
+    "https://celeg-2605-e440--2-324.run.pinggy-free.link",
     "https://2608fbdac8057d5d-38-114-101-136.serveousercontent.com",
     "https://252964925b6e54.lhr.life",
     "https://azatn.ru"
@@ -18,10 +18,10 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "live_api_bases": [
-    "https://bcgel-2605-e440--2-324.free.pinggy.net",
+    "https://celeg-2605-e440--2-324.run.pinggy-free.link",
     "https://2608fbdac8057d5d-38-114-101-136.serveousercontent.com",
     "https://252964925b6e54.lhr.life"
   ],
-  "api_url": "https://bcgel-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-01T20:15:09Z"
+  "api_url": "https://celeg-2605-e440--2-324.run.pinggy-free.link",
+  "updated": "2026-11-01T20:21:13Z"
 }
