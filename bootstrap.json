@@ -3,7 +3,7 @@
   "api_bases": [
     "https://gnmtv-2605-e440--2-324.free.pinggy.net",
     "https://89b60cbccdd73713-38-114-101-136.serveousercontent.com",
-    "https://7b16b2389374f3.lhr.life",
+    "https://387f2000643be1.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -20,8 +20,8 @@
   "live_api_bases": [
     "https://gnmtv-2605-e440--2-324.free.pinggy.net",
     "https://89b60cbccdd73713-38-114-101-136.serveousercontent.com",
-    "https://7b16b2389374f3.lhr.life"
+    "https://387f2000643be1.lhr.life"
   ],
   "api_url": "https://gnmtv-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-01T11:31:37Z"
+  "updated": "2026-11-01T11:37:20Z"
 }
