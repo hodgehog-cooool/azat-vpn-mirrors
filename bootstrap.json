@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://celeg-2605-e440--2-324.run.pinggy-free.link",
-    "https://e276e914c20c11f4-38-114-101-136.serveousercontent.com",
+    "https://e87a656a3618c899-38-114-101-136.serveousercontent.com",
     "https://d039dddd4843a5.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://celeg-2605-e440--2-324.run.pinggy-free.link",
-    "https://e276e914c20c11f4-38-114-101-136.serveousercontent.com",
+    "https://e87a656a3618c899-38-114-101-136.serveousercontent.com",
     "https://d039dddd4843a5.lhr.life"
   ],
   "api_url": "https://celeg-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-01T20:41:50Z"
+  "updated": "2026-11-01T20:45:53Z"
 }
