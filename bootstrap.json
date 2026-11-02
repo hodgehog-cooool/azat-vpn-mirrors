@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://gppam-38-114-101-136.run.pinggy-free.link",
-    "https://f89cb86513e61e45-38-114-101-136.serveousercontent.com",
     "https://5207725796ed7a.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://gppam-38-114-101-136.run.pinggy-free.link",
-    "https://f89cb86513e61e45-38-114-101-136.serveousercontent.com",
     "https://5207725796ed7a.lhr.life"
   ],
   "api_url": "https://gppam-38-114-101-136.run.pinggy-free.link",
-  "updated": "2026-11-02T23:23:40Z"
+  "updated": "2026-11-02T23:27:03Z"
 }
