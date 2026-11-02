@@ -2,8 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://fgyod-2605-e440--2-324.free.pinggy.net",
-    "https://e895fcb72886d405-38-114-101-136.serveousercontent.com",
-    "https://7797180d22b841.lhr.life",
+    "https://5778b1cd681084.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://fgyod-2605-e440--2-324.free.pinggy.net",
-    "https://e895fcb72886d405-38-114-101-136.serveousercontent.com",
-    "https://7797180d22b841.lhr.life"
+    "https://5778b1cd681084.lhr.life"
   ],
   "api_url": "https://fgyod-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-02T21:13:45Z"
+  "updated": "2026-11-02T21:23:50Z"
 }
