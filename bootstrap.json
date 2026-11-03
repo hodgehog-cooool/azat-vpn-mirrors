@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://actno-38-114-101-136.free.pinggy.net",
+    "https://74db54b072be66ea-38-114-101-136.serveousercontent.com",
     "https://38f4934d87025a.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://actno-38-114-101-136.free.pinggy.net",
+    "https://74db54b072be66ea-38-114-101-136.serveousercontent.com",
     "https://38f4934d87025a.lhr.life"
   ],
   "api_url": "https://actno-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-03T20:40:18Z"
+  "updated": "2026-11-03T20:40:39Z"
 }
