@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://htcql-38-114-101-136.run.pinggy-free.link",
-    "https://b75d28823744d201-38-114-101-136.serveousercontent.com",
     "https://62faaff6726024.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://htcql-38-114-101-136.run.pinggy-free.link",
-    "https://b75d28823744d201-38-114-101-136.serveousercontent.com",
     "https://62faaff6726024.lhr.life"
   ],
   "api_url": "https://htcql-38-114-101-136.run.pinggy-free.link",
-  "updated": "2026-11-03T16:03:23Z"
+  "updated": "2026-11-03T16:13:28Z"
 }
