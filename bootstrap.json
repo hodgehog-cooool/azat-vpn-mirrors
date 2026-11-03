@@ -3,7 +3,6 @@
   "api_bases": [
     "https://actno-38-114-101-136.free.pinggy.net",
     "https://26a9f37bd66637ed-38-114-101-136.serveousercontent.com",
-    "https://b7876d15176000.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://actno-38-114-101-136.free.pinggy.net",
-    "https://26a9f37bd66637ed-38-114-101-136.serveousercontent.com",
-    "https://b7876d15176000.lhr.life"
+    "https://26a9f37bd66637ed-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://actno-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-03T20:09:37Z"
+  "updated": "2026-11-03T20:15:20Z"
 }
