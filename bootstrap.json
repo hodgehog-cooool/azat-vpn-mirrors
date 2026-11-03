@@ -3,6 +3,7 @@
   "api_bases": [
     "https://glifs-2605-e440--2-324.run.pinggy-free.link",
     "https://7e6d503332a2a026-38-114-101-136.serveousercontent.com",
+    "https://ea49521ae07b80.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://glifs-2605-e440--2-324.run.pinggy-free.link",
-    "https://7e6d503332a2a026-38-114-101-136.serveousercontent.com"
+    "https://7e6d503332a2a026-38-114-101-136.serveousercontent.com",
+    "https://ea49521ae07b80.lhr.life"
   ],
   "api_url": "https://glifs-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-03T13:51:29Z"
+  "updated": "2026-11-03T13:51:50Z"
 }
