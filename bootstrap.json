@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://iknuj-2605-e440--2-324.free.pinggy.net",
+    "https://d168c7bd71728745-38-114-101-136.serveousercontent.com",
     "https://05e2033440c2d1.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://iknuj-2605-e440--2-324.free.pinggy.net",
+    "https://d168c7bd71728745-38-114-101-136.serveousercontent.com",
     "https://05e2033440c2d1.lhr.life"
   ],
   "api_url": "https://iknuj-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-03T02:42:01Z"
+  "updated": "2026-11-03T02:42:23Z"
 }
