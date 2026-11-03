@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://tvwaw-2605-e440--2-324.run.pinggy-free.link",
-    "https://f1e916f2b3371ee2-38-114-101-136.serveousercontent.com",
     "https://0887f9b9566b0d.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://tvwaw-2605-e440--2-324.run.pinggy-free.link",
-    "https://f1e916f2b3371ee2-38-114-101-136.serveousercontent.com",
     "https://0887f9b9566b0d.lhr.life"
   ],
   "api_url": "https://tvwaw-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-03T21:21:51Z"
+  "updated": "2026-11-03T21:31:36Z"
 }
