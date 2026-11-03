@@ -3,7 +3,7 @@
   "api_bases": [
     "https://lemyj-2605-e440--2-324.free.pinggy.net",
     "https://2ee06424924a299d-38-114-101-136.serveousercontent.com",
-    "https://09ab10736c2712.lhr.life",
+    "https://668f64dbb6b2ed.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -20,8 +20,8 @@
   "live_api_bases": [
     "https://lemyj-2605-e440--2-324.free.pinggy.net",
     "https://2ee06424924a299d-38-114-101-136.serveousercontent.com",
-    "https://09ab10736c2712.lhr.life"
+    "https://668f64dbb6b2ed.lhr.life"
   ],
   "api_url": "https://lemyj-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-03T06:28:16Z"
+  "updated": "2026-11-03T06:31:38Z"
 }
