@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://gwhai-2605-e440--2-324.run.pinggy-free.link",
-    "https://f98107c119e76989-38-114-101-136.serveousercontent.com",
+    "https://f01062170ae4fa69-38-114-101-136.serveousercontent.com",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +18,8 @@
   ],
   "live_api_bases": [
     "https://gwhai-2605-e440--2-324.run.pinggy-free.link",
-    "https://f98107c119e76989-38-114-101-136.serveousercontent.com"
+    "https://f01062170ae4fa69-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://gwhai-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-04T12:09:07Z"
+  "updated": "2026-11-04T12:09:29Z"
 }
