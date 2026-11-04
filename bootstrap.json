@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://hauni-2605-e440--2-324.free.pinggy.net",
-    "https://f4ab5e8be80969fb-38-114-101-136.serveousercontent.com",
+    "https://ca01dc17499b034c-38-114-101-136.serveousercontent.com",
     "https://e071705bbf9f3f.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://hauni-2605-e440--2-324.free.pinggy.net",
-    "https://f4ab5e8be80969fb-38-114-101-136.serveousercontent.com",
+    "https://ca01dc17499b034c-38-114-101-136.serveousercontent.com",
     "https://e071705bbf9f3f.lhr.life"
   ],
   "api_url": "https://hauni-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-04T17:11:18Z"
+  "updated": "2026-11-04T17:17:22Z"
 }
