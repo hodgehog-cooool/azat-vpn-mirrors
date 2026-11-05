@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://omimi-2605-e440--2-324.free.pinggy.net",
-    "https://668ca8fe1c1e9169-38-114-101-136.serveousercontent.com",
     "https://4a426f496a3ef5.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://omimi-2605-e440--2-324.free.pinggy.net",
-    "https://668ca8fe1c1e9169-38-114-101-136.serveousercontent.com",
     "https://4a426f496a3ef5.lhr.life"
   ],
   "api_url": "https://omimi-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-05T18:06:05Z"
+  "updated": "2026-11-05T18:16:10Z"
 }
