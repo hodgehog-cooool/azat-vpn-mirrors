@@ -3,6 +3,7 @@
   "api_bases": [
     "https://agpux-38-114-101-136.free.pinggy.net",
     "https://490aed1fcd59685f-38-114-101-136.serveousercontent.com",
+    "https://35113a69c3dcfc.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://agpux-38-114-101-136.free.pinggy.net",
-    "https://490aed1fcd59685f-38-114-101-136.serveousercontent.com"
+    "https://490aed1fcd59685f-38-114-101-136.serveousercontent.com",
+    "https://35113a69c3dcfc.lhr.life"
   ],
   "api_url": "https://agpux-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-05T08:54:47Z"
+  "updated": "2026-11-05T08:55:09Z"
 }
