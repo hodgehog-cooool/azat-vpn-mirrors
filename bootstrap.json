@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://spmrp-2605-e440--2-324.run.pinggy-free.link",
-    "https://4661132285ab839a-38-114-101-136.serveousercontent.com",
     "https://b5acf8932c76fa.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://spmrp-2605-e440--2-324.run.pinggy-free.link",
-    "https://4661132285ab839a-38-114-101-136.serveousercontent.com",
     "https://b5acf8932c76fa.lhr.life"
   ],
   "api_url": "https://spmrp-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-05T19:58:26Z"
+  "updated": "2026-11-05T19:58:47Z"
 }
