@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://agpux-38-114-101-136.free.pinggy.net",
+    "https://3e6ebb46ed4fe772-38-114-101-136.serveousercontent.com",
     "https://0dae2d98dfe902.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://agpux-38-114-101-136.free.pinggy.net",
+    "https://3e6ebb46ed4fe772-38-114-101-136.serveousercontent.com",
     "https://0dae2d98dfe902.lhr.life"
   ],
   "api_url": "https://agpux-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-05T09:22:26Z"
+  "updated": "2026-11-05T09:22:47Z"
 }
