@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://gimoi-2605-e440--2-324.free.pinggy.net",
-    "https://325536634696f350-38-114-101-136.serveousercontent.com",
     "https://150416a2c40180.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://gimoi-2605-e440--2-324.free.pinggy.net",
-    "https://325536634696f350-38-114-101-136.serveousercontent.com",
     "https://150416a2c40180.lhr.life"
   ],
   "api_url": "https://gimoi-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-06T03:22:43Z"
+  "updated": "2026-11-06T03:30:27Z"
 }
