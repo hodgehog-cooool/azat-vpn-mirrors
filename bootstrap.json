@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://ksxlo-2605-e440--2-324.run.pinggy-free.link",
-    "https://3116e21c5c1d076d-38-114-101-136.serveousercontent.com",
     "https://d754dc79a08529.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://ksxlo-2605-e440--2-324.run.pinggy-free.link",
-    "https://3116e21c5c1d076d-38-114-101-136.serveousercontent.com",
     "https://d754dc79a08529.lhr.life"
   ],
   "api_url": "https://ksxlo-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-06T08:29:32Z"
+  "updated": "2026-11-06T08:39:37Z"
 }
