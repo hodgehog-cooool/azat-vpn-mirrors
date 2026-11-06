@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://dvbxa-2605-e440--2-324.run.pinggy-free.link",
-    "https://7c8a5431c386fdc5-38-114-101-136.serveousercontent.com",
     "https://91d24425fa91fb.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://dvbxa-2605-e440--2-324.run.pinggy-free.link",
-    "https://7c8a5431c386fdc5-38-114-101-136.serveousercontent.com",
     "https://91d24425fa91fb.lhr.life"
   ],
   "api_url": "https://dvbxa-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-06T20:57:23Z"
+  "updated": "2026-11-06T20:59:05Z"
 }
