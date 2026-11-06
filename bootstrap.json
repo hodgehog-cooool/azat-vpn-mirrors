@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://kuipl-2605-e440--2-324.run.pinggy-free.link",
-    "https://ff781c1e2b80397e-38-114-101-136.serveousercontent.com",
+    "https://676903f98a75531c-38-114-101-136.serveousercontent.com",
     "https://c104ea08a35b8e.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://kuipl-2605-e440--2-324.run.pinggy-free.link",
-    "https://ff781c1e2b80397e-38-114-101-136.serveousercontent.com",
+    "https://676903f98a75531c-38-114-101-136.serveousercontent.com",
     "https://c104ea08a35b8e.lhr.life"
   ],
   "api_url": "https://kuipl-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-06T14:25:58Z"
+  "updated": "2026-11-06T14:28:41Z"
 }
