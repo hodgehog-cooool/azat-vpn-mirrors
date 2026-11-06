@@ -3,6 +3,7 @@
   "api_bases": [
     "https://gimoi-2605-e440--2-324.free.pinggy.net",
     "https://c31553cb79669902-38-114-101-136.serveousercontent.com",
+    "https://f9883f9c6e5b49.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://gimoi-2605-e440--2-324.free.pinggy.net",
-    "https://c31553cb79669902-38-114-101-136.serveousercontent.com"
+    "https://c31553cb79669902-38-114-101-136.serveousercontent.com",
+    "https://f9883f9c6e5b49.lhr.life"
   ],
   "api_url": "https://gimoi-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-06T03:34:51Z"
+  "updated": "2026-11-06T03:35:12Z"
 }
