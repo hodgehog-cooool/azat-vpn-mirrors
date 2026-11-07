@@ -3,6 +3,7 @@
   "api_bases": [
     "https://viveq-2605-e440--2-324.run.pinggy-free.link",
     "https://a2211aee54777f72-38-114-101-136.serveousercontent.com",
+    "https://b543e64f7f0196.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://viveq-2605-e440--2-324.run.pinggy-free.link",
-    "https://a2211aee54777f72-38-114-101-136.serveousercontent.com"
+    "https://a2211aee54777f72-38-114-101-136.serveousercontent.com",
+    "https://b543e64f7f0196.lhr.life"
   ],
   "api_url": "https://viveq-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-07T06:53:51Z"
+  "updated": "2026-11-07T06:54:12Z"
 }
