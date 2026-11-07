@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://viveq-2605-e440--2-324.run.pinggy-free.link",
+    "https://6ea5e9e2b6a7c25f-38-114-101-136.serveousercontent.com",
     "https://b543e64f7f0196.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://viveq-2605-e440--2-324.run.pinggy-free.link",
+    "https://6ea5e9e2b6a7c25f-38-114-101-136.serveousercontent.com",
     "https://b543e64f7f0196.lhr.life"
   ],
   "api_url": "https://viveq-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-07T06:57:14Z"
+  "updated": "2026-11-07T06:57:36Z"
 }
