@@ -3,6 +3,7 @@
   "api_bases": [
     "https://ltiip-2605-e440--2-324.free.pinggy.net",
     "https://2fc0129b4de3046f-38-114-101-136.serveousercontent.com",
+    "https://a04253b484580c.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://ltiip-2605-e440--2-324.free.pinggy.net",
-    "https://2fc0129b4de3046f-38-114-101-136.serveousercontent.com"
+    "https://2fc0129b4de3046f-38-114-101-136.serveousercontent.com",
+    "https://a04253b484580c.lhr.life"
   ],
   "api_url": "https://ltiip-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-07T12:41:53Z"
+  "updated": "2026-11-07T12:42:14Z"
 }
