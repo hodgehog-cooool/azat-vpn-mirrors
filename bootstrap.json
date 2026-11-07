@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://clumu-2605-e440--2-324.free.pinggy.net",
+    "https://5e037ba9e58f1c2a-38-114-101-136.serveousercontent.com",
     "https://9e55544f9874ae.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://clumu-2605-e440--2-324.free.pinggy.net",
+    "https://5e037ba9e58f1c2a-38-114-101-136.serveousercontent.com",
     "https://9e55544f9874ae.lhr.life"
   ],
   "api_url": "https://clumu-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-07T03:55:25Z"
+  "updated": "2026-11-07T03:55:46Z"
 }
