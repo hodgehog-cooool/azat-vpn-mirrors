@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://vlhou-2605-e440--2-324.free.pinggy.net",
-    "https://7248494b62092edc-38-114-101-136.serveousercontent.com",
     "https://325702f9f8ccb9.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://vlhou-2605-e440--2-324.free.pinggy.net",
-    "https://7248494b62092edc-38-114-101-136.serveousercontent.com",
     "https://325702f9f8ccb9.lhr.life"
   ],
   "api_url": "https://vlhou-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-07T20:25:29Z"
+  "updated": "2026-11-07T20:31:12Z"
 }
