@@ -3,7 +3,7 @@
   "api_bases": [
     "https://nwakv-2605-e440--2-324.free.pinggy.net",
     "https://ece9eaa48dbbe641-38-114-101-136.serveousercontent.com",
-    "https://29a32ca937c9d7.lhr.life",
+    "https://377a55e2777958.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -20,8 +20,8 @@
   "live_api_bases": [
     "https://nwakv-2605-e440--2-324.free.pinggy.net",
     "https://ece9eaa48dbbe641-38-114-101-136.serveousercontent.com",
-    "https://29a32ca937c9d7.lhr.life"
+    "https://377a55e2777958.lhr.life"
   ],
   "api_url": "https://nwakv-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-07T22:55:07Z"
+  "updated": "2026-11-07T23:00:50Z"
 }
