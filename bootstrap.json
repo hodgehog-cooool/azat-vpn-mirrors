@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://fszoe-38-114-101-136.run.pinggy-free.link",
+    "https://a26fbc3ee82f3194-38-114-101-136.serveousercontent.com",
     "https://b9e9fa54f33f4e.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://fszoe-38-114-101-136.run.pinggy-free.link",
+    "https://a26fbc3ee82f3194-38-114-101-136.serveousercontent.com",
     "https://b9e9fa54f33f4e.lhr.life"
   ],
   "api_url": "https://fszoe-38-114-101-136.run.pinggy-free.link",
-  "updated": "2026-11-07T01:46:32Z"
+  "updated": "2026-11-07T01:46:53Z"
 }
