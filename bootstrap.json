@@ -3,7 +3,6 @@
   "api_bases": [
     "https://clumu-2605-e440--2-324.free.pinggy.net",
     "https://09590715920d94b6-38-114-101-136.serveousercontent.com",
-    "https://11ea9ef1a1774d.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://clumu-2605-e440--2-324.free.pinggy.net",
-    "https://09590715920d94b6-38-114-101-136.serveousercontent.com",
-    "https://11ea9ef1a1774d.lhr.life"
+    "https://09590715920d94b6-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://clumu-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-07T03:14:37Z"
+  "updated": "2026-11-07T03:21:41Z"
 }
