@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://ltiip-2605-e440--2-324.free.pinggy.net",
-    "https://d62e0d3f3d9cbf3c-38-114-101-136.serveousercontent.com",
+    "https://0ccba9e7efa87709-38-114-101-136.serveousercontent.com",
     "https://db8619e9ca95bb.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://ltiip-2605-e440--2-324.free.pinggy.net",
-    "https://d62e0d3f3d9cbf3c-38-114-101-136.serveousercontent.com",
+    "https://0ccba9e7efa87709-38-114-101-136.serveousercontent.com",
     "https://db8619e9ca95bb.lhr.life"
   ],
   "api_url": "https://ltiip-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-07T13:09:14Z"
+  "updated": "2026-11-07T13:09:55Z"
 }
