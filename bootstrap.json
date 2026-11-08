@@ -3,6 +3,7 @@
   "api_bases": [
     "https://fpsfm-2605-e440--2-324.free.pinggy.net",
     "https://258d72b09ba13e94-38-114-101-136.serveousercontent.com",
+    "https://d9a605660aab38.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://fpsfm-2605-e440--2-324.free.pinggy.net",
-    "https://258d72b09ba13e94-38-114-101-136.serveousercontent.com"
+    "https://258d72b09ba13e94-38-114-101-136.serveousercontent.com",
+    "https://d9a605660aab38.lhr.life"
   ],
   "api_url": "https://fpsfm-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-08T16:15:26Z"
+  "updated": "2026-11-08T16:15:48Z"
 }
