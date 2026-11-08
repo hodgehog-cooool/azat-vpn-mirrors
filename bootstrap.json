@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://djcut-38-114-101-136.run.pinggy-free.link",
+    "https://9fd9cdf772ed8974-38-114-101-136.serveousercontent.com",
     "https://bd2f1e9317af19.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://djcut-38-114-101-136.run.pinggy-free.link",
+    "https://9fd9cdf772ed8974-38-114-101-136.serveousercontent.com",
     "https://bd2f1e9317af19.lhr.life"
   ],
   "api_url": "https://djcut-38-114-101-136.run.pinggy-free.link",
-  "updated": "2026-11-08T03:01:14Z"
+  "updated": "2026-11-08T03:01:36Z"
 }
