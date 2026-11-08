@@ -3,7 +3,6 @@
   "api_bases": [
     "https://gjtca-2605-e440--2-324.free.pinggy.net",
     "https://be30c48a5003a123-38-114-101-136.serveousercontent.com",
-    "https://09cba7cb58ffc7.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://gjtca-2605-e440--2-324.free.pinggy.net",
-    "https://be30c48a5003a123-38-114-101-136.serveousercontent.com",
-    "https://09cba7cb58ffc7.lhr.life"
+    "https://be30c48a5003a123-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://gjtca-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-08T17:03:22Z"
+  "updated": "2026-11-08T17:13:08Z"
 }
