@@ -3,7 +3,7 @@
   "api_bases": [
     "https://bazlh-38-114-101-136.free.pinggy.net",
     "https://39e08f97984f101f-38-114-101-136.serveousercontent.com",
-    "https://26b6a1489b32d3.lhr.life",
+    "https://ac4f5040363840.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -20,8 +20,8 @@
   "live_api_bases": [
     "https://bazlh-38-114-101-136.free.pinggy.net",
     "https://39e08f97984f101f-38-114-101-136.serveousercontent.com",
-    "https://26b6a1489b32d3.lhr.life"
+    "https://ac4f5040363840.lhr.life"
   ],
   "api_url": "https://bazlh-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-08T18:02:07Z"
+  "updated": "2026-11-08T18:04:09Z"
 }
