@@ -3,7 +3,7 @@
   "api_bases": [
     "https://euykv-2605-e440--2-324.free.pinggy.net",
     "https://694b95452b5a1269-38-114-101-136.serveousercontent.com",
-    "https://bf70c002de4a4c.lhr.life",
+    "https://1aa267f7c73fc1.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -20,8 +20,8 @@
   "live_api_bases": [
     "https://euykv-2605-e440--2-324.free.pinggy.net",
     "https://694b95452b5a1269-38-114-101-136.serveousercontent.com",
-    "https://bf70c002de4a4c.lhr.life"
+    "https://1aa267f7c73fc1.lhr.life"
   ],
   "api_url": "https://euykv-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-08T10:12:29Z"
+  "updated": "2026-11-08T10:20:14Z"
 }
