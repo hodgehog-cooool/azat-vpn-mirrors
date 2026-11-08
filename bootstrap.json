@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://cltoi-2605-e440--2-324.run.pinggy-free.link",
-    "https://5417c0886cea19a2-38-114-101-136.serveousercontent.com",
     "https://b699e79ab3228e.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://cltoi-2605-e440--2-324.run.pinggy-free.link",
-    "https://5417c0886cea19a2-38-114-101-136.serveousercontent.com",
     "https://b699e79ab3228e.lhr.life"
   ],
   "api_url": "https://cltoi-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-08T10:35:06Z"
+  "updated": "2026-11-08T10:43:10Z"
 }
