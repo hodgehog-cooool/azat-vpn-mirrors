@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://czamr-2605-e440--2-324.run.pinggy-free.link",
+    "https://b3883148b18b8cd9-38-114-101-136.serveousercontent.com",
     "https://d8b410a55f6ff5.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://czamr-2605-e440--2-324.run.pinggy-free.link",
+    "https://b3883148b18b8cd9-38-114-101-136.serveousercontent.com",
     "https://d8b410a55f6ff5.lhr.life"
   ],
   "api_url": "https://czamr-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-09T08:16:39Z"
+  "updated": "2026-11-09T08:17:00Z"
 }
