@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://czamr-2605-e440--2-324.run.pinggy-free.link",
-    "https://35b56285d11ff66f-38-114-101-136.serveousercontent.com",
+    "https://f003e0742960f9.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +18,8 @@
   ],
   "live_api_bases": [
     "https://czamr-2605-e440--2-324.run.pinggy-free.link",
-    "https://35b56285d11ff66f-38-114-101-136.serveousercontent.com"
+    "https://f003e0742960f9.lhr.life"
   ],
   "api_url": "https://czamr-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-09T07:35:11Z"
+  "updated": "2026-11-09T07:35:32Z"
 }
