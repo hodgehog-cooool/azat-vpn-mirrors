@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://bbxrk-38-114-101-136.free.pinggy.net",
-    "https://1b440ce50f27c255-38-114-101-136.serveousercontent.com",
     "https://d56b97eaa8e9fb.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://bbxrk-38-114-101-136.free.pinggy.net",
-    "https://1b440ce50f27c255-38-114-101-136.serveousercontent.com",
     "https://d56b97eaa8e9fb.lhr.life"
   ],
   "api_url": "https://bbxrk-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-09T22:08:00Z"
+  "updated": "2026-11-09T22:18:05Z"
 }
