@@ -3,7 +3,6 @@
   "api_bases": [
     "https://desni-2605-e440--2-324.free.pinggy.net",
     "https://aaa3c538c7150765-38-114-101-136.serveousercontent.com",
-    "https://bea9a9bcaf4734.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://desni-2605-e440--2-324.free.pinggy.net",
-    "https://aaa3c538c7150765-38-114-101-136.serveousercontent.com",
-    "https://bea9a9bcaf4734.lhr.life"
+    "https://aaa3c538c7150765-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://desni-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-09T19:23:52Z"
+  "updated": "2026-11-09T19:30:16Z"
 }
