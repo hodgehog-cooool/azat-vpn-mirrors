@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://mmqyb-38-114-101-136.free.pinggy.net",
-    "https://38ae1064566f0157-38-114-101-136.serveousercontent.com",
+    "https://6e5679f526662787-38-114-101-136.serveousercontent.com",
     "https://fab19cd0d6a474.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://mmqyb-38-114-101-136.free.pinggy.net",
-    "https://38ae1064566f0157-38-114-101-136.serveousercontent.com",
+    "https://6e5679f526662787-38-114-101-136.serveousercontent.com",
     "https://fab19cd0d6a474.lhr.life"
   ],
   "api_url": "https://mmqyb-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-09T16:36:51Z"
+  "updated": "2026-11-09T16:39:33Z"
 }
