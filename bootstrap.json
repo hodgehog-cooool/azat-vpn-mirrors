@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://bokqh-2605-e440--2-324.run.pinggy-free.link",
-    "https://ff2c00d9afec760e-38-114-101-136.serveousercontent.com",
     "https://4c37620389e9e9.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://bokqh-2605-e440--2-324.run.pinggy-free.link",
-    "https://ff2c00d9afec760e-38-114-101-136.serveousercontent.com",
     "https://4c37620389e9e9.lhr.life"
   ],
   "api_url": "https://bokqh-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-09T10:46:29Z"
+  "updated": "2026-11-09T10:50:32Z"
 }
