@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://tgmpg-2605-e440--2-324.run.pinggy-free.link",
-    "https://0e7f564cbbf11a40-38-114-101-136.serveousercontent.com",
+    "https://28ec8f4692a5ec1c-38-114-101-136.serveousercontent.com",
     "https://56b8fd58bc9e0b.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://tgmpg-2605-e440--2-324.run.pinggy-free.link",
-    "https://0e7f564cbbf11a40-38-114-101-136.serveousercontent.com",
+    "https://28ec8f4692a5ec1c-38-114-101-136.serveousercontent.com",
     "https://56b8fd58bc9e0b.lhr.life"
   ],
   "api_url": "https://tgmpg-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-09T05:56:39Z"
+  "updated": "2026-11-09T06:03:23Z"
 }
