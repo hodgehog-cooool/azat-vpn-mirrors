@@ -2,6 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://jlmgs-38-114-101-136.free.pinggy.net",
+    "https://5438dbb22ef675de-38-114-101-136.serveousercontent.com",
     "https://43b3053bac385f.lhr.life",
     "https://azatn.ru"
   ],
@@ -18,8 +19,9 @@
   ],
   "live_api_bases": [
     "https://jlmgs-38-114-101-136.free.pinggy.net",
+    "https://5438dbb22ef675de-38-114-101-136.serveousercontent.com",
     "https://43b3053bac385f.lhr.life"
   ],
   "api_url": "https://jlmgs-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-09T02:27:45Z"
+  "updated": "2026-11-09T02:28:06Z"
 }
