@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://desni-2605-e440--2-324.free.pinggy.net",
-    "https://6bc3ba120f0b94eb-38-114-101-136.serveousercontent.com",
     "https://4f28e003c20c8c.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://desni-2605-e440--2-324.free.pinggy.net",
-    "https://6bc3ba120f0b94eb-38-114-101-136.serveousercontent.com",
     "https://4f28e003c20c8c.lhr.life"
   ],
   "api_url": "https://desni-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-09T18:48:29Z"
+  "updated": "2026-11-09T18:52:52Z"
 }
