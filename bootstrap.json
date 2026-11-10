@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-    "https://266c17d21bda1840-38-114-101-136.serveousercontent.com",
     "https://e55120714cbb70.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-    "https://266c17d21bda1840-38-114-101-136.serveousercontent.com",
     "https://e55120714cbb70.lhr.life"
   ],
   "api_url": "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-10T12:07:07Z"
+  "updated": "2026-11-10T12:10:30Z"
 }
