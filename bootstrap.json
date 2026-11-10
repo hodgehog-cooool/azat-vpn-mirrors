@@ -3,7 +3,6 @@
   "api_bases": [
     "https://ramku-2605-e440--2-324.run.pinggy-free.link",
     "https://30c4c3b761992d42-38-114-101-136.serveousercontent.com",
-    "https://89c5d6872c9632.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-    "https://30c4c3b761992d42-38-114-101-136.serveousercontent.com",
-    "https://89c5d6872c9632.lhr.life"
+    "https://30c4c3b761992d42-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-10T12:11:54Z"
+  "updated": "2026-11-10T12:14:57Z"
 }
