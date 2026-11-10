@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-    "https://7ccfa7e6519ce502-38-114-101-136.serveousercontent.com",
+    "https://87c81705a3460f4e-38-114-101-136.serveousercontent.com",
     "https://21cf9a6a643c7d.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-    "https://7ccfa7e6519ce502-38-114-101-136.serveousercontent.com",
+    "https://87c81705a3460f4e-38-114-101-136.serveousercontent.com",
     "https://21cf9a6a643c7d.lhr.life"
   ],
   "api_url": "https://ramku-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-10T12:25:27Z"
+  "updated": "2026-11-10T12:31:11Z"
 }
