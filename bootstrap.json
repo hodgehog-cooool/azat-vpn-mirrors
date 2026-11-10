@@ -3,7 +3,6 @@
   "api_bases": [
     "https://kidwp-38-114-101-136.run.pinggy-free.link",
     "https://60d0e896575fa413-38-114-101-136.serveousercontent.com",
-    "https://0c188f023ef804.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://kidwp-38-114-101-136.run.pinggy-free.link",
-    "https://60d0e896575fa413-38-114-101-136.serveousercontent.com",
-    "https://0c188f023ef804.lhr.life"
+    "https://60d0e896575fa413-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://kidwp-38-114-101-136.run.pinggy-free.link",
-  "updated": "2026-11-10T04:49:14Z"
+  "updated": "2026-11-10T04:54:57Z"
 }
