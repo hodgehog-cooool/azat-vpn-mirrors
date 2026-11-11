@@ -3,7 +3,6 @@
   "api_bases": [
     "https://ggoad-38-114-101-136.free.pinggy.net",
     "https://acbfe3f52ace5867-38-114-101-136.serveousercontent.com",
-    "https://bce533943d558a.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://ggoad-38-114-101-136.free.pinggy.net",
-    "https://acbfe3f52ace5867-38-114-101-136.serveousercontent.com",
-    "https://bce533943d558a.lhr.life"
+    "https://acbfe3f52ace5867-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://ggoad-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-11T19:03:34Z"
+  "updated": "2026-11-11T19:08:57Z"
 }
