@@ -3,7 +3,6 @@
   "api_bases": [
     "https://lobvi-2605-e440--2-324.free.pinggy.net",
     "https://f17871f873c1597b-38-114-101-136.serveousercontent.com",
-    "https://c177728e7026fa.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://lobvi-2605-e440--2-324.free.pinggy.net",
-    "https://f17871f873c1597b-38-114-101-136.serveousercontent.com",
-    "https://c177728e7026fa.lhr.life"
+    "https://f17871f873c1597b-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://lobvi-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-11T08:45:21Z"
+  "updated": "2026-11-11T08:51:05Z"
 }
