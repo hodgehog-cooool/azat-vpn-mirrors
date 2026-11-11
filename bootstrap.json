@@ -2,7 +2,6 @@
   "schema": 1,
   "api_bases": [
     "https://ggoad-38-114-101-136.free.pinggy.net",
-    "https://70b8771fb61df688-38-114-101-136.serveousercontent.com",
     "https://0778f5480f9d5f.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +18,8 @@
   ],
   "live_api_bases": [
     "https://ggoad-38-114-101-136.free.pinggy.net",
-    "https://70b8771fb61df688-38-114-101-136.serveousercontent.com",
     "https://0778f5480f9d5f.lhr.life"
   ],
   "api_url": "https://ggoad-38-114-101-136.free.pinggy.net",
-  "updated": "2026-11-11T19:34:16Z"
+  "updated": "2026-11-11T19:44:22Z"
 }
