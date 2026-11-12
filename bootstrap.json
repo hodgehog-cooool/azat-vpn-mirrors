@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://knjka-2605-e440--2-324.free.pinggy.net",
-    "https://de7ee745eaec49.lhr.life",
+    "https://e12c5e5d89b81d4d-38-114-101-136.serveousercontent.com",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,8 +18,8 @@
   ],
   "live_api_bases": [
     "https://knjka-2605-e440--2-324.free.pinggy.net",
-    "https://de7ee745eaec49.lhr.life"
+    "https://e12c5e5d89b81d4d-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://knjka-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-12T06:00:29Z"
+  "updated": "2026-11-12T06:00:51Z"
 }
