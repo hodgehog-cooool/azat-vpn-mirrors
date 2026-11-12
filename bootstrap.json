@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://azatn.ru",
     "https://bgngi-2605-e440--2-324.free.pinggy.net",
     "https://05c4935498e0b5d9-38-114-101-136.serveousercontent.com",
-    "https://fe33890289ac32.lhr.life",
-    "https://azatn.ru"
+    "https://fe33890289ac32.lhr.life"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -22,6 +22,6 @@
     "https://05c4935498e0b5d9-38-114-101-136.serveousercontent.com",
     "https://fe33890289ac32.lhr.life"
   ],
-  "api_url": "https://bgngi-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-12T16:02:20Z"
+  "api_url": "https://azatn.ru",
+  "updated": "2026-11-12T16:04:28Z"
 }
