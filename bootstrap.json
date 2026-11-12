@@ -2,7 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://gqcve-2605-e440--2-324.free.pinggy.net",
-    "https://ac09768b93a19402-38-114-101-136.serveousercontent.com",
+    "https://0fd189dd83fc8b15-38-114-101-136.serveousercontent.com",
     "https://b090f89bfcbe73.lhr.life",
     "https://azatn.ru"
   ],
@@ -19,9 +19,9 @@
   ],
   "live_api_bases": [
     "https://gqcve-2605-e440--2-324.free.pinggy.net",
-    "https://ac09768b93a19402-38-114-101-136.serveousercontent.com",
+    "https://0fd189dd83fc8b15-38-114-101-136.serveousercontent.com",
     "https://b090f89bfcbe73.lhr.life"
   ],
   "api_url": "https://gqcve-2605-e440--2-324.free.pinggy.net",
-  "updated": "2026-11-12T12:16:30Z"
+  "updated": "2026-11-12T12:18:33Z"
 }
