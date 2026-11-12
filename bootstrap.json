@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://kfooz-2605-e440--2-324.run.pinggy-free.link",
-    "https://9937dc078c62c8.lhr.life",
+    "https://2cc3a6a46a73cca4-38-114-101-136.serveousercontent.com",
+    "https://c66d9b2a8c9a67.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -17,9 +17,9 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "live_api_bases": [
-    "https://kfooz-2605-e440--2-324.run.pinggy-free.link",
-    "https://9937dc078c62c8.lhr.life"
+    "https://2cc3a6a46a73cca4-38-114-101-136.serveousercontent.com",
+    "https://c66d9b2a8c9a67.lhr.life"
   ],
-  "api_url": "https://kfooz-2605-e440--2-324.run.pinggy-free.link",
-  "updated": "2026-11-12T10:04:50Z"
+  "api_url": "https://2cc3a6a46a73cca4-38-114-101-136.serveousercontent.com",
+  "updated": "2026-11-12T10:05:11Z"
 }
