@@ -2,8 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://azatn.ru",
-    "https://7efecae72c121905-38-114-101-136.serveousercontent.com",
-    "https://f6185a8e2af34b.lhr.life"
+    "https://7efecae72c121905-38-114-101-136.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -17,9 +16,8 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "live_api_bases": [
-    "https://7efecae72c121905-38-114-101-136.serveousercontent.com",
-    "https://f6185a8e2af34b.lhr.life"
+    "https://7efecae72c121905-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://azatn.ru",
-  "updated": "2026-11-13T06:47:18Z"
+  "updated": "2026-11-13T06:48:01Z"
 }
