@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-18T21:48:06Z",
+  "updated": "2026-11-18T21:51:57Z",
   "hosts": [
     "addition-breakfast-foo-personalized.trycloudflare.com",
     "slightly-phenomenon-aviation-and.trycloudflare.com",
-    "sleeps-gary-kid-mature.trycloudflare.com",
-    "8edd09864cb39c.app.lhr.life"
+    "sleeps-gary-kid-mature.trycloudflare.com"
   ],
-  "nodes": 12,
+  "nodes": 9,
   "protocols": [
     "vless",
     "trojan",
