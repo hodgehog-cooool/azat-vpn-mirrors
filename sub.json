@@ -1,13 +1,20 @@
 {
-  "updated": "2026-11-18T21:42:03Z",
-  "nodes": 4,
-  "transport": "vless+ws+tls",
+  "updated": "2026-11-18T21:48:06Z",
   "hosts": [
     "addition-breakfast-foo-personalized.trycloudflare.com",
     "slightly-phenomenon-aviation-and.trycloudflare.com",
     "sleeps-gary-kid-mature.trycloudflare.com",
     "8edd09864cb39c.app.lhr.life"
   ],
+  "nodes": 12,
+  "protocols": [
+    "vless",
+    "trojan",
+    "vmess"
+  ],
+  "transport": "ws+tls",
   "subscribe": "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/sub.txt",
-  "plain": "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/sub.list"
+  "plain": "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/sub.list",
+  "singbox": "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/singbox.json",
+  "xray_balancer": "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/xray-balancer.json"
 }
