@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://azatn.ru",
     "https://infectious-stories-skating-launches.trycloudflare.com",
     "https://procurement-conventional-paper-sol.trycloudflare.com",
     "https://c7311a00b66a4c22-38-114-101-136.serveousercontent.com",
-    "https://f139f030946fef.app.lhr.life",
-    "https://azatn.ru"
+    "https://f139f030946fef.app.lhr.life"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -18,12 +18,7 @@
     "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
-  "live_api_bases": [
-    "https://infectious-stories-skating-launches.trycloudflare.com",
-    "https://procurement-conventional-paper-sol.trycloudflare.com",
-    "https://c7311a00b66a4c22-38-114-101-136.serveousercontent.com",
-    "https://f139f030946fef.app.lhr.life"
-  ],
-  "api_url": "https://infectious-stories-skating-launches.trycloudflare.com",
-  "updated": "2026-11-18T21:23:31Z"
+  "live_api_bases": [],
+  "api_url": "https://azatn.ru",
+  "updated": "2026-11-18T21:26:58Z"
 }
