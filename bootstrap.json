@@ -5,6 +5,7 @@
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
     "https://sleeps-gary-kid-mature.trycloudflare.com",
     "https://5b11d008a268b8f1-38-114-101-136.serveousercontent.com",
+    "https://3b9f8c18a29eb0.app.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -18,14 +19,37 @@
     "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
-  "relays": [],
+  "relays": [
+    "http:45.155.226.177:3128",
+    "http:94.183.206.215:8080",
+    "http:176.111.37.5:39811",
+    "http:20.98.234.24:8080",
+    "http:189.51.168.164:999",
+    "http:52.128.238.98:18080",
+    "http:47.77.214.110:80",
+    "http:4.144.146.21:80",
+    "http:45.65.226.173:999",
+    "http:43.99.60.244:8089",
+    "http:103.154.178.106:8080",
+    "http:210.87.124.36:1111",
+    "http:180.180.151.239:8080",
+    "http:103.167.23.138:8080",
+    "http:177.234.217.83:999",
+    "http:103.163.80.172:8085",
+    "http:183.89.202.45:8081",
+    "http:192.232.48.28:8181",
+    "http:223.206.209.152:8080",
+    "http:116.101.73.52:2030",
+    "http:27.147.153.179:12051"
+  ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
     "https://sleeps-gary-kid-mature.trycloudflare.com",
-    "https://5b11d008a268b8f1-38-114-101-136.serveousercontent.com"
+    "https://5b11d008a268b8f1-38-114-101-136.serveousercontent.com",
+    "https://3b9f8c18a29eb0.app.lhr.life"
   ],
   "api_url": "https://addition-breakfast-foo-personalized.trycloudflare.com",
-  "updated": "2026-11-18T23:07:01Z"
+  "updated": "2026-11-18T23:07:24Z"
 }
