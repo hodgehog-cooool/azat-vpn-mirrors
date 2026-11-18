@@ -3,7 +3,7 @@
   "api_bases": [
     "https://stopped-sterling-illustrated-smilies.trycloudflare.com",
     "https://6be517a68d7ce289-38-114-101-136.serveousercontent.com",
-    "https://69fe886bc0986c.app.lhr.life",
+    "https://7d879615b679f5.app.lhr.life",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -20,8 +20,8 @@
   "live_api_bases": [
     "https://stopped-sterling-illustrated-smilies.trycloudflare.com",
     "https://6be517a68d7ce289-38-114-101-136.serveousercontent.com",
-    "https://69fe886bc0986c.app.lhr.life"
+    "https://7d879615b679f5.app.lhr.life"
   ],
   "api_url": "https://stopped-sterling-illustrated-smilies.trycloudflare.com",
-  "updated": "2026-11-18T20:44:09Z"
+  "updated": "2026-11-18T20:48:15Z"
 }
