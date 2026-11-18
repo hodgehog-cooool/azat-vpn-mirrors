@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-18T21:31:55Z",
-  "nodes": 4,
+  "updated": "2026-11-18T21:39:55Z",
+  "nodes": 3,
   "transport": "vless+ws+tls",
   "hosts": [
     "addition-breakfast-foo-personalized.trycloudflare.com",
     "slightly-phenomenon-aviation-and.trycloudflare.com",
-    "sleeps-gary-kid-mature.trycloudflare.com",
-    "d7ea3933c95055.app.lhr.life"
+    "sleeps-gary-kid-mature.trycloudflare.com"
   ],
   "subscribe": "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/sub.txt",
   "plain": "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/sub.list"
