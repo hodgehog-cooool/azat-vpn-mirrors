@@ -19,6 +19,8 @@
     "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
+  "relays": [],
+  "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
@@ -27,5 +29,5 @@
     "https://9c96c08ce01eac.app.lhr.life"
   ],
   "api_url": "https://addition-breakfast-foo-personalized.trycloudflare.com",
-  "updated": "2026-11-18T22:51:30Z"
+  "updated": "2026-11-18T22:54:51Z"
 }
