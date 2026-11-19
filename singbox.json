@@ -255,6 +255,83 @@
       }
     },
     {
+      "type": "vless",
+      "tag": "AZAT-4-VLESS",
+      "server": "f188b1dcf42c1c.app.lhr.life",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "f188b1dcf42c1c.app.lhr.life",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vl",
+        "headers": {
+          "Host": "f188b1dcf42c1c.app.lhr.life"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "AZAT-4-Trojan",
+      "server": "f188b1dcf42c1c.app.lhr.life",
+      "server_port": 443,
+      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "f188b1dcf42c1c.app.lhr.life",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tr",
+        "headers": {
+          "Host": "f188b1dcf42c1c.app.lhr.life"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "AZAT-4-VMess",
+      "server": "f188b1dcf42c1c.app.lhr.life",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "f188b1dcf42c1c.app.lhr.life",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vm",
+        "headers": {
+          "Host": "f188b1dcf42c1c.app.lhr.life"
+        }
+      }
+    },
+    {
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
@@ -266,7 +343,10 @@
         "AZAT-2-VMess",
         "AZAT-3-VLESS",
         "AZAT-3-Trojan",
-        "AZAT-3-VMess"
+        "AZAT-3-VMess",
+        "AZAT-4-VLESS",
+        "AZAT-4-Trojan",
+        "AZAT-4-VMess"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -285,7 +365,10 @@
         "AZAT-2-VMess",
         "AZAT-3-VLESS",
         "AZAT-3-Trojan",
-        "AZAT-3-VMess"
+        "AZAT-3-VMess",
+        "AZAT-4-VLESS",
+        "AZAT-4-Trojan",
+        "AZAT-4-VMess"
       ],
       "default": "auto"
     },
