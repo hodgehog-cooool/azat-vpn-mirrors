@@ -4,9 +4,9 @@
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
     "https://sleeps-gary-kid-mature.trycloudflare.com",
-    "https://499562a3b12b9745-38-114-101-136.serveousercontent.com",
     "https://bff75d7fef5276.app.lhr.life",
-    "https://azatn.ru"
+    "https://azatn.ru",
+    "https://499562a3b12b9745-38-114-101-136.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -42,34 +42,40 @@
     "http:38.7.23.105:999",
     "http:186.33.42.171:999",
     "http:181.188.203.112:999",
-    "http:188.119.98.126:9999",
-    "http:45.245.208.180:8080",
-    "http:160.19.146.95:2022",
-    "http:31.47.38.2:80",
     "http:38.7.17.83:999",
     "http:45.229.17.17:999",
-    "http:191.97.8.101:3128",
-    "http:45.5.117.77:999",
     "http:149.18.81.114:7890",
     "http:81.168.119.85:5443",
-    "http:222.111.130.73:8080",
-    "http:56.112.92.32:40066",
-    "http:195.158.8.123:3128",
     "http:103.191.169.126:8080",
-    "http:157.66.16.45:7789",
-    "http:191.44.91.53:8080",
     "http:206.135.47.109:999",
     "http:45.65.226.171:999",
-    "http:157.20.253.164:8080"
+    "http:45.174.241.224:999",
+    "http:209.62.196.68:8080",
+    "http:190.61.37.142:999",
+    "http:161.22.32.31:8080",
+    "http:38.172.129.168:999",
+    "http:45.188.167.25:999",
+    "http:45.224.22.63:999",
+    "http:177.234.217.45:999",
+    "http:102.38.24.30:19000",
+    "http:45.161.112.227:999",
+    "http:102.244.78.61:8090",
+    "http:102.244.78.61:8084",
+    "http:201.7.31.45:8080",
+    "http:181.225.96.137:999",
+    "http:222.167.236.73:8080",
+    "http:68.183.226.190:9090",
+    "http:181.114.62.1:8085",
+    "http:31.135.214.17:8026",
+    "http:102.90.0.149:8080"
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
     "https://sleeps-gary-kid-mature.trycloudflare.com",
-    "https://499562a3b12b9745-38-114-101-136.serveousercontent.com",
     "https://bff75d7fef5276.app.lhr.life"
   ],
   "api_url": "https://addition-breakfast-foo-personalized.trycloudflare.com",
-  "updated": "2026-11-19T04:14:52Z"
+  "updated": "2026-11-19T04:16:12Z"
 }
