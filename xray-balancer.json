@@ -335,6 +335,110 @@
       }
     },
     {
+      "tag": "proxy-4-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "8cbdbb1274f3a6.app.lhr.life",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "8cbdbb1274f3a6.app.lhr.life",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "8cbdbb1274f3a6.app.lhr.life"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "8cbdbb1274f3a6.app.lhr.life",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "8cbdbb1274f3a6.app.lhr.life",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "8cbdbb1274f3a6.app.lhr.life"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "8cbdbb1274f3a6.app.lhr.life",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "8cbdbb1274f3a6.app.lhr.life",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "8cbdbb1274f3a6.app.lhr.life"
+          }
+        }
+      }
+    },
+    {
       "tag": "direct",
       "protocol": "freedom",
       "settings": {}
