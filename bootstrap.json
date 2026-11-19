@@ -4,9 +4,9 @@
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
     "https://sleeps-gary-kid-mature.trycloudflare.com",
-    "https://eaf69a22b4fd8789-38-114-101-136.serveousercontent.com",
     "https://0afd8ec8e5ba0e.app.lhr.life",
-    "https://azatn.ru"
+    "https://azatn.ru",
+    "https://eaf69a22b4fd8789-38-114-101-136.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -62,29 +62,28 @@
     "http:102.244.78.61:8085",
     "http:45.155.226.177:3128",
     "http:102.244.78.61:8084",
-    "http:190.12.150.244:999",
-    "http:201.28.86.18:61804",
-    "http:69.171.214.160:999",
-    "http:38.199.250.2:999",
-    "http:38.210.179.30:999",
-    "http:45.174.243.24:999",
     "http:192.203.0.198:999",
     "http:45.174.175.26:999",
     "http:148.230.27.77:999",
     "http:170.244.91.33:999",
-    "http:38.49.142.174:999",
-    "http:200.110.173.101:8080",
-    "http:144.31.111.155:8081",
-    "http:177.234.217.85:999"
+    "http:177.234.217.85:999",
+    "http:206.135.66.54:999",
+    "http:154.88.129.10:999",
+    "http:154.88.136.187:999",
+    "http:143.255.85.180:999",
+    "http:45.174.242.145:999",
+    "http:181.78.195.136:999",
+    "http:181.78.205.145:999",
+    "http:206.135.80.74:999",
+    "http:217.154.195.87:8888"
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
     "https://sleeps-gary-kid-mature.trycloudflare.com",
-    "https://eaf69a22b4fd8789-38-114-101-136.serveousercontent.com",
     "https://0afd8ec8e5ba0e.app.lhr.life"
   ],
   "api_url": "https://addition-breakfast-foo-personalized.trycloudflare.com",
-  "updated": "2026-11-19T07:54:11Z"
+  "updated": "2026-11-19T08:01:10Z"
 }
