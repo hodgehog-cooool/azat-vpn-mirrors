@@ -4,8 +4,8 @@
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
     "https://sleeps-gary-kid-mature.trycloudflare.com",
+    "https://150ff55570d8ce0f-38-114-101-136.serveousercontent.com",
     "https://azatn.ru",
-    "https://fe5a62897a7b071e-38-114-101-136.serveousercontent.com",
     "https://799335783c75e8.app.lhr.life"
   ],
   "vpn_endpoints": [
@@ -76,8 +76,9 @@
   "live_api_bases": [
     "https://addition-breakfast-foo-personalized.trycloudflare.com",
     "https://slightly-phenomenon-aviation-and.trycloudflare.com",
-    "https://sleeps-gary-kid-mature.trycloudflare.com"
+    "https://sleeps-gary-kid-mature.trycloudflare.com",
+    "https://150ff55570d8ce0f-38-114-101-136.serveousercontent.com"
   ],
   "api_url": "https://addition-breakfast-foo-personalized.trycloudflare.com",
-  "updated": "2026-11-19T07:30:33Z"
+  "updated": "2026-11-19T07:30:53Z"
 }
