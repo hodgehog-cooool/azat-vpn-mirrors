@@ -1,9 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://azatn.ru",
-    "https://f91a9b73955ac7f0-89-125-105-136.serveousercontent.com",
-    "https://a24f1a6049ba5e.app.lhr.life"
+    "https://conventional-received-sing-hiv.trycloudflare.com",
+    "https://grove-wage-watershed-prize.trycloudflare.com",
+    "https://matrix-futures-wagner-telling.trycloudflare.com",
+    "https://78b0d35a8d8b0b9a-89-125-105-136.serveousercontent.com",
+    "https://92a30ea0c51155.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -27,7 +30,13 @@
     "http://87.192.233.75:3128"
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
-  "live_api_bases": [],
-  "api_url": "https://azatn.ru",
-  "updated": "2026-11-20T09:02:28Z"
+  "live_api_bases": [
+    "https://conventional-received-sing-hiv.trycloudflare.com",
+    "https://grove-wage-watershed-prize.trycloudflare.com",
+    "https://matrix-futures-wagner-telling.trycloudflare.com",
+    "https://78b0d35a8d8b0b9a-89-125-105-136.serveousercontent.com",
+    "https://92a30ea0c51155.app.lhr.life"
+  ],
+  "api_url": "https://conventional-received-sing-hiv.trycloudflare.com",
+  "updated": "2026-11-20T09:03:55Z"
 }
