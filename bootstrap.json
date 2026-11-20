@@ -2,8 +2,8 @@
   "schema": 1,
   "api_bases": [
     "https://3bd3dc118f105b7e-89-125-105-136.serveousercontent.com",
-    "https://azatn.ru",
-    "https://5a581f61c8a800.app.lhr.life"
+    "https://52e9c6e987bd0b.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -28,8 +28,9 @@
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
-    "https://3bd3dc118f105b7e-89-125-105-136.serveousercontent.com"
+    "https://3bd3dc118f105b7e-89-125-105-136.serveousercontent.com",
+    "https://52e9c6e987bd0b.app.lhr.life"
   ],
   "api_url": "https://3bd3dc118f105b7e-89-125-105-136.serveousercontent.com",
-  "updated": "2026-11-20T05:06:09Z"
+  "updated": "2026-11-20T05:07:43Z"
 }
