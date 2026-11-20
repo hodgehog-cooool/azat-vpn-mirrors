@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-20T22:12:43Z",
+  "updated": "2026-11-20T22:15:48Z",
   "hosts": [
     "terry-purchased-semi-night.trycloudflare.com",
     "initiatives-tyler-barely-effort.trycloudflare.com",
     "outlet-streaming-pros-speeds.trycloudflare.com",
-    "66064a0ad0de0f23-48-103-171-35.serveousercontent.com"
+    "66064a0ad0de0f23-48-103-171-35.serveousercontent.com",
+    "537015aab5b0ae.app.lhr.life"
   ],
-  "nodes": 12,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
