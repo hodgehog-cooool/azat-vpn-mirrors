@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://43890edcffd69b68-89-125-105-136.serveousercontent.com",
+    "https://43407264d709e471-89-125-105-136.serveousercontent.com",
     "https://fa6bac35856d00.app.lhr.life",
     "https://azatn.ru"
   ],
@@ -28,9 +28,9 @@
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
-    "https://43890edcffd69b68-89-125-105-136.serveousercontent.com",
+    "https://43407264d709e471-89-125-105-136.serveousercontent.com",
     "https://fa6bac35856d00.app.lhr.life"
   ],
-  "api_url": "https://43890edcffd69b68-89-125-105-136.serveousercontent.com",
-  "updated": "2026-11-20T06:23:18Z"
+  "api_url": "https://43407264d709e471-89-125-105-136.serveousercontent.com",
+  "updated": "2026-11-20T06:23:42Z"
 }
