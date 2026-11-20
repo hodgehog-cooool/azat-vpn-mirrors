@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://opt-joseph-modelling-supported.trycloudflare.com",
     "https://initiatives-tyler-barely-effort.trycloudflare.com",
     "https://outlet-streaming-pros-speeds.trycloudflare.com",
     "https://a420a89a03562b15-89-125-105-136.serveousercontent.com",
     "https://da9af19f8059c0.app.lhr.life",
-    "https://azatn.ru",
-    "https://opt-joseph-modelling-supported.trycloudflare.com"
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -27,11 +27,12 @@
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
+    "https://opt-joseph-modelling-supported.trycloudflare.com",
     "https://initiatives-tyler-barely-effort.trycloudflare.com",
     "https://outlet-streaming-pros-speeds.trycloudflare.com",
     "https://a420a89a03562b15-89-125-105-136.serveousercontent.com",
     "https://da9af19f8059c0.app.lhr.life"
   ],
-  "api_url": "https://initiatives-tyler-barely-effort.trycloudflare.com",
-  "updated": "2026-11-20T14:18:57Z"
+  "api_url": "https://opt-joseph-modelling-supported.trycloudflare.com",
+  "updated": "2026-11-20T14:19:16Z"
 }
