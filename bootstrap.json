@@ -2,8 +2,7 @@
   "schema": 1,
   "api_bases": [
     "https://e26c58b3743bc9a4-89-125-105-136.serveousercontent.com",
-    "https://azatn.ru",
-    "https://9b9101bd82d973.app.lhr.life"
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -31,5 +30,5 @@
     "https://e26c58b3743bc9a4-89-125-105-136.serveousercontent.com"
   ],
   "api_url": "https://e26c58b3743bc9a4-89-125-105-136.serveousercontent.com",
-  "updated": "2026-11-20T00:29:21Z"
+  "updated": "2026-11-20T00:31:49Z"
 }
