@@ -25,7 +25,7 @@
     "http://147.161.246.34:11273",
     "http://45.66.156.107:8081"
   ],
-  "own_tunnel": "wss://azatn.ru/tunnel",
+  "own_tunnel": "wss://opt-joseph-modelling-supported.trycloudflare.com/tunnel",
   "live_api_bases": [
     "https://opt-joseph-modelling-supported.trycloudflare.com",
     "https://initiatives-tyler-barely-effort.trycloudflare.com",
@@ -34,5 +34,5 @@
     "https://1642643cf2561f.app.lhr.life"
   ],
   "api_url": "https://opt-joseph-modelling-supported.trycloudflare.com",
-  "updated": "2026-11-20T16:37:47Z"
+  "updated": "2026-11-20T16:39:04Z"
 }
