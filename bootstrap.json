@@ -1,7 +1,6 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://078c98592421c5a4-89-125-105-136.serveousercontent.com",
     "https://azatn.ru",
     "https://sampling-screensavers-awarded-papua.trycloudflare.com",
     "https://modular-scientific-hill-flags.trycloudflare.com",
@@ -29,9 +28,7 @@
     "http://172.235.157.127:3128"
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
-  "live_api_bases": [
-    "https://078c98592421c5a4-89-125-105-136.serveousercontent.com"
-  ],
-  "api_url": "https://078c98592421c5a4-89-125-105-136.serveousercontent.com",
-  "updated": "2026-11-20T10:24:45Z"
+  "live_api_bases": [],
+  "api_url": "https://azatn.ru",
+  "updated": "2026-11-20T10:25:14Z"
 }
