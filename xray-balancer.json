@@ -236,6 +236,110 @@
       "settings": {
         "vnext": [
           {
+            "address": "outlet-streaming-pros-speeds.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "outlet-streaming-pros-speeds.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "outlet-streaming-pros-speeds.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "outlet-streaming-pros-speeds.trycloudflare.com",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "outlet-streaming-pros-speeds.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "outlet-streaming-pros-speeds.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "outlet-streaming-pros-speeds.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "outlet-streaming-pros-speeds.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "outlet-streaming-pros-speeds.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
             "address": "267a2663a6bbf55f-48-103-171-35.serveousercontent.com",
             "port": 443,
             "users": [
@@ -267,7 +371,7 @@
       }
     },
     {
-      "tag": "proxy-3-trojan",
+      "tag": "proxy-4-trojan",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -298,7 +402,7 @@
       }
     },
     {
-      "tag": "proxy-3-vmess",
+      "tag": "proxy-4-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
