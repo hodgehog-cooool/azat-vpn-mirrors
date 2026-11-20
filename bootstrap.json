@@ -23,10 +23,7 @@
     "http://147.161.246.34:80",
     "http://147.161.246.34:10134",
     "http://147.161.246.34:11273",
-    "http://147.161.246.34:9443",
-    "http://45.66.156.107:8081",
-    "http://87.192.233.75:3128",
-    "http://172.235.157.127:3128"
+    "http://45.66.156.107:8081"
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
@@ -37,5 +34,5 @@
     "https://2a98c10abe7e29.app.lhr.life"
   ],
   "api_url": "https://opt-joseph-modelling-supported.trycloudflare.com",
-  "updated": "2026-11-20T12:30:37Z"
+  "updated": "2026-11-20T12:30:57Z"
 }
