@@ -1,6 +1,8 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://trio-milwaukee-contractor-warren.trycloudflare.com",
+    "https://metal-chain-fans-proved.trycloudflare.com",
     "https://visitor-safer-millennium-music.trycloudflare.com",
     "https://78b0d35a8d8b0b9a-89-125-105-136.serveousercontent.com",
     "https://030f983c699442.app.lhr.life",
@@ -29,10 +31,12 @@
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
+    "https://trio-milwaukee-contractor-warren.trycloudflare.com",
+    "https://metal-chain-fans-proved.trycloudflare.com",
     "https://visitor-safer-millennium-music.trycloudflare.com",
     "https://78b0d35a8d8b0b9a-89-125-105-136.serveousercontent.com",
     "https://030f983c699442.app.lhr.life"
   ],
-  "api_url": "https://visitor-safer-millennium-music.trycloudflare.com",
-  "updated": "2026-11-20T09:08:43Z"
+  "api_url": "https://trio-milwaukee-contractor-warren.trycloudflare.com",
+  "updated": "2026-11-20T09:09:10Z"
 }
