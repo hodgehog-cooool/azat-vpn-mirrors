@@ -1,13 +1,12 @@
 {
-  "updated": "2026-11-20T17:26:55Z",
+  "updated": "2026-11-20T17:33:09Z",
   "hosts": [
     "opt-joseph-modelling-supported.trycloudflare.com",
     "initiatives-tyler-barely-effort.trycloudflare.com",
     "outlet-streaming-pros-speeds.trycloudflare.com",
-    "746afd98560820a1-89-125-105-136.serveousercontent.com",
     "0fd6cd2ce8fd44.app.lhr.life"
   ],
-  "nodes": 15,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
