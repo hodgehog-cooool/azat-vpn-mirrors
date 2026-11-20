@@ -4,9 +4,9 @@
     "https://sampling-screensavers-awarded-papua.trycloudflare.com",
     "https://modular-scientific-hill-flags.trycloudflare.com",
     "https://talent-briefs-lounge-cindy.trycloudflare.com",
-    "https://azatn.ru",
-    "https://4fba1755a586079c-89-125-105-136.serveousercontent.com",
-    "https://9c45c7b75b4666.app.lhr.life"
+    "https://eb0c8ca3e1247edd-89-125-105-136.serveousercontent.com",
+    "https://450051d377cfbf.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -32,8 +32,10 @@
   "live_api_bases": [
     "https://sampling-screensavers-awarded-papua.trycloudflare.com",
     "https://modular-scientific-hill-flags.trycloudflare.com",
-    "https://talent-briefs-lounge-cindy.trycloudflare.com"
+    "https://talent-briefs-lounge-cindy.trycloudflare.com",
+    "https://eb0c8ca3e1247edd-89-125-105-136.serveousercontent.com",
+    "https://450051d377cfbf.app.lhr.life"
   ],
   "api_url": "https://sampling-screensavers-awarded-papua.trycloudflare.com",
-  "updated": "2026-11-20T10:14:21Z"
+  "updated": "2026-11-20T10:14:30Z"
 }
