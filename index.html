@@ -1,36 +1,49 @@
 <!doctype html>
-<html lang="ru">
+<html lang="ru" data-theme="dark">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>AZAT VPN — панель управления</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="theme-color" content="#101A2E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Sora:wght@500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" crossorigin href="https://hodgehog-cooool.github.io/azat-vpn-mirrors/assets/index-SH4SSgBD.css" />
+<title>AZAT VPN · Панель управления</title>
 <style>
-body{margin:0;min-height:100vh;display:grid;place-items:center;background:#101A2E;color:#F2F6FA;font:15px/1.6 Inter,system-ui,sans-serif}
-.box{max-width:420px;padding:32px;border:1px solid #354862;border-radius:24px;background:#16223B}
-h1{font:600 22px Sora,system-ui,sans-serif;margin:0 0 8px}
-p{color:#A8B6C8;margin:0 0 20px}
-a{color:#38E0E0;text-decoration:none}
+body{margin:0;background:#101A2E;color:#F2F6FA;font:15px/1.6 Inter,system-ui,sans-serif;min-height:100vh;display:grid;place-items:center}
+#msg{max-width:460px;padding:32px;border:1px solid #354862;border-radius:24px;background:#16223B;text-align:center}
 </style>
+<script>
+(async function(){
+  var msg = document.getElementById('msg');
+  try {
+    var r = await fetch('https://hodgehog-cooool.github.io/azat-vpn-mirrors/bootstrap.json?t=', {cache:'no-store'});
+    if(!r.ok) throw new Error('bootstrap '+r.status);
+    var d = await r.json();
+    var bases = (d.live_api_bases && d.live_api_bases.length) ? d.live_api_bases : (d.api_bases||[]);
+    var base = '';
+    for (var i=0;i<bases.length;i++){
+      if (bases[i] && bases[i].indexOf('azatn.ru')<0){ base = bases[i].replace(/\/+$/,''); break; }
+    }
+    if(!base) throw new Error('нет рабочего API');
+    var orig = window.fetch;
+    window.fetch = function(input, init){
+      if (typeof input==='string' && input.charAt(0)==='/') input = base + input;
+      return orig.apply(this, [input, init]);
+    };
+    var s = document.createElement('script');
+    s.type='module'; s.crossorigin='anonymous';
+    s.src='https://hodgehog-cooool.github.io/azat-vpn-mirrors/assets/index-bOTTBtvy.js';
+    s.onerror=function(){ msg.textContent='Не удалось загрузить интерфейс. Обновите страницу.'; };
+    document.head.appendChild(s);
+    msg.textContent='Загружаем панель управления…';
+  } catch(e){
+    msg.textContent='Ошибка подключения: '+e.message+'. Обновите страницу.';
+  }
+})();
+</script>
 </head>
 <body>
-<div class="box">
-<h1>AZAT VPN</h1>
-<p id="msg">Ищем рабочий вход в панель управления…</p>
-<a id="link" href="https://azatn.ru/" hidden>Открыть панель вручную</a>
-</div>
-<script>
-fetch('bootstrap.json?t='+Date.now())
- .then(r=>r.json())
- .then(d=>{
-   const bases=(d.live_api_bases&&d.live_api_bases.length)?d.live_api_bases:(d.api_bases||[]);
-   const good=bases.filter(b=>b && b.indexOf('azatn.ru')<0);
-   const base=good[0]||bases[0]||'https://azatn.ru';
-   const a=document.getElementById('link');
-   a.href=base.replace(/\/$/,'')+'/'; a.hidden=false;
-   document.getElementById('msg').textContent='Перенаправляем на рабочий вход…';
-   location.replace(a.href);
- })
- .catch(()=>{document.getElementById('msg').textContent='Не удалось получить список входов. Попробуйте обновить страницу.';});
-</script>
+<div id="msg">Ищем рабочий сервер…</div>
 </body>
 </html>
