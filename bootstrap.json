@@ -20,13 +20,19 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "relays": [
-    "http:114.244.212.147:8888",
-    "http:181.188.203.40:999",
-    "http:103.172.71.165:9191",
-    "http:124.105.20.100:8082",
-    "http:124.217.110.204:8082",
-    "http:186.148.31.19:999",
-    "http:187.190.127.212:80"
+    "http:185.109.244.69:8080",
+    "http:37.193.95.9:10808",
+    "http:165.16.30.101:9999",
+    "http:103.218.183.133:8080",
+    "http:103.18.45.234:8080",
+    "http:103.176.96.225:8082",
+    "http:24.152.53.68:999",
+    "http:216.125.18.67:3128",
+    "http:49.145.125.250:8082",
+    "http:47.176.240.250:4228",
+    "http:123.121.123.216:8888",
+    "http:114.246.201.27:8888",
+    "http:114.244.212.147:8888"
   ],
   "own_tunnel": "wss://terry-purchased-semi-night.trycloudflare.com/tunnel",
   "live_api_bases": [
@@ -37,5 +43,5 @@
     "https://90c6af8bfe94b8.app.lhr.life"
   ],
   "api_url": "https://terry-purchased-semi-night.trycloudflare.com",
-  "updated": "2026-11-20T23:44:19Z"
+  "updated": "2026-11-20T23:44:56Z"
 }
