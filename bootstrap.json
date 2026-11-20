@@ -9,7 +9,7 @@
     "https://c53c86ebc3f14c.app.lhr.life"
   ],
   "vpn_endpoints": [
-    "azatn.ru:51822"
+    "48.103.171.35:51822"
   ],
   "version_urls": [
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/version.json",
@@ -20,23 +20,13 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "relays": [
-    "http:187.190.127.212:80",
-    "http:84.8.248.36:3128",
-    "http:103.4.81.218:8082",
-    "http:49.156.44.116:8080",
-    "http:103.20.108.51:8080",
-    "http:45.198.11.164:9191",
-    "http:181.188.203.40:999",
-    "http:124.105.20.100:8082",
-    "http:103.172.71.165:9191",
-    "http:147.161.246.34:11723",
-    "http:202.1.24.49:8080",
-    "http:180.190.24.163:9999",
-    "http:94.43.164.242:8080",
-    "http:186.148.31.19:999",
     "http:114.244.212.147:8888",
+    "http:181.188.203.40:999",
+    "http:103.172.71.165:9191",
+    "http:124.105.20.100:8082",
     "http:124.217.110.204:8082",
-    "http:46.232.249.209:40001"
+    "http:186.148.31.19:999",
+    "http:187.190.127.212:80"
   ],
   "own_tunnel": "wss://terry-purchased-semi-night.trycloudflare.com/tunnel",
   "live_api_bases": [
@@ -46,5 +36,5 @@
     "https://7abce55233a130e0-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://terry-purchased-semi-night.trycloudflare.com",
-  "updated": "2026-11-20T23:37:24Z"
+  "updated": "2026-11-20T23:39:31Z"
 }
