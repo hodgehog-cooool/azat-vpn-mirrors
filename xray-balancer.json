@@ -28,7 +28,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "addition-breakfast-foo-personalized.trycloudflare.com",
+            "address": "opt-joseph-modelling-supported.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -43,7 +43,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "addition-breakfast-foo-personalized.trycloudflare.com",
+          "serverName": "opt-joseph-modelling-supported.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -53,7 +53,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "addition-breakfast-foo-personalized.trycloudflare.com"
+            "Host": "opt-joseph-modelling-supported.trycloudflare.com"
           }
         }
       }
@@ -64,7 +64,7 @@
       "settings": {
         "servers": [
           {
-            "address": "addition-breakfast-foo-personalized.trycloudflare.com",
+            "address": "opt-joseph-modelling-supported.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -74,7 +74,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "addition-breakfast-foo-personalized.trycloudflare.com",
+          "serverName": "opt-joseph-modelling-supported.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -84,7 +84,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "addition-breakfast-foo-personalized.trycloudflare.com"
+            "Host": "opt-joseph-modelling-supported.trycloudflare.com"
           }
         }
       }
@@ -95,7 +95,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "addition-breakfast-foo-personalized.trycloudflare.com",
+            "address": "opt-joseph-modelling-supported.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -111,7 +111,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "addition-breakfast-foo-personalized.trycloudflare.com",
+          "serverName": "opt-joseph-modelling-supported.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -121,7 +121,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "addition-breakfast-foo-personalized.trycloudflare.com"
+            "Host": "opt-joseph-modelling-supported.trycloudflare.com"
           }
         }
       }
@@ -132,7 +132,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "slightly-phenomenon-aviation-and.trycloudflare.com",
+            "address": "initiatives-tyler-barely-effort.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -147,7 +147,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "slightly-phenomenon-aviation-and.trycloudflare.com",
+          "serverName": "initiatives-tyler-barely-effort.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -157,7 +157,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "slightly-phenomenon-aviation-and.trycloudflare.com"
+            "Host": "initiatives-tyler-barely-effort.trycloudflare.com"
           }
         }
       }
@@ -168,7 +168,7 @@
       "settings": {
         "servers": [
           {
-            "address": "slightly-phenomenon-aviation-and.trycloudflare.com",
+            "address": "initiatives-tyler-barely-effort.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -178,7 +178,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "slightly-phenomenon-aviation-and.trycloudflare.com",
+          "serverName": "initiatives-tyler-barely-effort.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -188,7 +188,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "slightly-phenomenon-aviation-and.trycloudflare.com"
+            "Host": "initiatives-tyler-barely-effort.trycloudflare.com"
           }
         }
       }
@@ -199,7 +199,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "slightly-phenomenon-aviation-and.trycloudflare.com",
+            "address": "initiatives-tyler-barely-effort.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -215,7 +215,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "slightly-phenomenon-aviation-and.trycloudflare.com",
+          "serverName": "initiatives-tyler-barely-effort.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -225,7 +225,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "slightly-phenomenon-aviation-and.trycloudflare.com"
+            "Host": "initiatives-tyler-barely-effort.trycloudflare.com"
           }
         }
       }
@@ -236,7 +236,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "sleeps-gary-kid-mature.trycloudflare.com",
+            "address": "outlet-streaming-pros-speeds.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -251,7 +251,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "sleeps-gary-kid-mature.trycloudflare.com",
+          "serverName": "outlet-streaming-pros-speeds.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -261,7 +261,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "sleeps-gary-kid-mature.trycloudflare.com"
+            "Host": "outlet-streaming-pros-speeds.trycloudflare.com"
           }
         }
       }
@@ -272,7 +272,7 @@
       "settings": {
         "servers": [
           {
-            "address": "sleeps-gary-kid-mature.trycloudflare.com",
+            "address": "outlet-streaming-pros-speeds.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -282,7 +282,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "sleeps-gary-kid-mature.trycloudflare.com",
+          "serverName": "outlet-streaming-pros-speeds.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -292,7 +292,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "sleeps-gary-kid-mature.trycloudflare.com"
+            "Host": "outlet-streaming-pros-speeds.trycloudflare.com"
           }
         }
       }
@@ -303,7 +303,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "sleeps-gary-kid-mature.trycloudflare.com",
+            "address": "outlet-streaming-pros-speeds.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -319,7 +319,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "sleeps-gary-kid-mature.trycloudflare.com",
+          "serverName": "outlet-streaming-pros-speeds.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -329,7 +329,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "sleeps-gary-kid-mature.trycloudflare.com"
+            "Host": "outlet-streaming-pros-speeds.trycloudflare.com"
           }
         }
       }
@@ -340,7 +340,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "599b018dca4a70.app.lhr.life",
+            "address": "b07c51c6c93c86.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -355,7 +355,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "599b018dca4a70.app.lhr.life",
+          "serverName": "b07c51c6c93c86.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -365,7 +365,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "599b018dca4a70.app.lhr.life"
+            "Host": "b07c51c6c93c86.app.lhr.life"
           }
         }
       }
@@ -376,7 +376,7 @@
       "settings": {
         "servers": [
           {
-            "address": "599b018dca4a70.app.lhr.life",
+            "address": "b07c51c6c93c86.app.lhr.life",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -386,7 +386,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "599b018dca4a70.app.lhr.life",
+          "serverName": "b07c51c6c93c86.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -396,7 +396,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "599b018dca4a70.app.lhr.life"
+            "Host": "b07c51c6c93c86.app.lhr.life"
           }
         }
       }
@@ -407,7 +407,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "599b018dca4a70.app.lhr.life",
+            "address": "b07c51c6c93c86.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -423,7 +423,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "599b018dca4a70.app.lhr.life",
+          "serverName": "b07c51c6c93c86.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -433,7 +433,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "599b018dca4a70.app.lhr.life"
+            "Host": "b07c51c6c93c86.app.lhr.life"
           }
         }
       }
