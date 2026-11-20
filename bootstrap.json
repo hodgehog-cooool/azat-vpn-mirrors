@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://azatn.ru",
     "https://unlike-virgin-tied-sector.trycloudflare.com",
     "https://township-precise-exciting-fired.trycloudflare.com",
     "https://text-bush-relative-wiki.trycloudflare.com",
     "https://6006ccec0f2e6387-89-125-105-136.serveousercontent.com",
-    "https://9bc26371ae0d25.app.lhr.life",
-    "https://azatn.ru"
+    "https://9bc26371ae0d25.app.lhr.life"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -29,13 +29,7 @@
     "http://172.235.157.127:3128"
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
-  "live_api_bases": [
-    "https://unlike-virgin-tied-sector.trycloudflare.com",
-    "https://township-precise-exciting-fired.trycloudflare.com",
-    "https://text-bush-relative-wiki.trycloudflare.com",
-    "https://6006ccec0f2e6387-89-125-105-136.serveousercontent.com",
-    "https://9bc26371ae0d25.app.lhr.life"
-  ],
-  "api_url": "https://unlike-virgin-tied-sector.trycloudflare.com",
-  "updated": "2026-11-20T09:12:25Z"
+  "live_api_bases": [],
+  "api_url": "https://azatn.ru",
+  "updated": "2026-11-20T09:14:34Z"
 }
