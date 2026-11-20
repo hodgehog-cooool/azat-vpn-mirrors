@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://terry-purchased-semi-night.trycloudflare.com",
     "https://initiatives-tyler-barely-effort.trycloudflare.com",
     "https://outlet-streaming-pros-speeds.trycloudflare.com",
     "https://ff63995412b2c3d7-48-103-171-35.serveousercontent.com",
     "https://a07baed5c9be70.app.lhr.life",
-    "https://azatn.ru"
+    "https://azatn.ru",
+    "https://terry-purchased-semi-night.trycloudflare.com"
   ],
   "vpn_endpoints": [
     "azatn.ru:51822"
@@ -38,14 +38,13 @@
     "http:124.217.110.204:8082",
     "http:46.232.249.209:40001"
   ],
-  "own_tunnel": "wss://terry-purchased-semi-night.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://initiatives-tyler-barely-effort.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://terry-purchased-semi-night.trycloudflare.com",
     "https://initiatives-tyler-barely-effort.trycloudflare.com",
     "https://outlet-streaming-pros-speeds.trycloudflare.com",
     "https://ff63995412b2c3d7-48-103-171-35.serveousercontent.com",
     "https://a07baed5c9be70.app.lhr.life"
   ],
-  "api_url": "https://terry-purchased-semi-night.trycloudflare.com",
-  "updated": "2026-11-20T18:38:41Z"
+  "api_url": "https://initiatives-tyler-barely-effort.trycloudflare.com",
+  "updated": "2026-11-20T18:47:11Z"
 }
