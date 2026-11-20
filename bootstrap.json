@@ -1,6 +1,7 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://opt-joseph-modelling-supported.trycloudflare.com",
     "https://078c98592421c5a4-89-125-105-136.serveousercontent.com",
     "https://3ea97c6f9067c0.app.lhr.life",
     "https://azatn.ru"
@@ -27,9 +28,10 @@
   ],
   "own_tunnel": "wss://azatn.ru/tunnel",
   "live_api_bases": [
+    "https://opt-joseph-modelling-supported.trycloudflare.com",
     "https://078c98592421c5a4-89-125-105-136.serveousercontent.com",
     "https://3ea97c6f9067c0.app.lhr.life"
   ],
-  "api_url": "https://078c98592421c5a4-89-125-105-136.serveousercontent.com",
-  "updated": "2026-11-20T10:25:37Z"
+  "api_url": "https://opt-joseph-modelling-supported.trycloudflare.com",
+  "updated": "2026-11-20T10:26:04Z"
 }
