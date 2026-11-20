@@ -1,9 +1,10 @@
 {
-  "updated": "2026-11-20T17:46:54Z",
+  "updated": "2026-11-20T17:47:19Z",
   "hosts": [
-    "e080b6db157562c9-48-103-171-35.serveousercontent.com"
+    "e080b6db157562c9-48-103-171-35.serveousercontent.com",
+    "1c3a487cca5b1b.app.lhr.life"
   ],
-  "nodes": 3,
+  "nodes": 6,
   "protocols": [
     "vless",
     "trojan",
