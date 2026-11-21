@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-21T20:32:49Z",
+  "updated": "2026-11-21T20:33:13Z",
   "hosts": [
     "past-daisy-welfare-overall.trycloudflare.com",
     "syntax-missed-beijing-stunning.trycloudflare.com",
     "vacancies-twist-seal-ski.trycloudflare.com",
-    "96f682a589625747-48-103-171-35.serveousercontent.com"
+    "96f682a589625747-48-103-171-35.serveousercontent.com",
+    "4efe7e4c8ecbb5.app.lhr.life"
   ],
-  "nodes": 12,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
