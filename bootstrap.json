@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://azatn.ru",
-    "https://past-daisy-welfare-overall.trycloudflare.com",
-    "https://syntax-missed-beijing-stunning.trycloudflare.com",
-    "https://vacancies-twist-seal-ski.trycloudflare.com",
-    "https://b279dfbdb0fd9ac1-48-103-171-35.serveousercontent.com",
-    "https://65f2bc02c196df.app.lhr.life"
+    "https://kurt-article-songs-diffs.trycloudflare.com",
+    "https://side-three-attachments-denver.trycloudflare.com",
+    "https://collecting-height-castle-paid.trycloudflare.com",
+    "https://5a9718dc1e95202a-48-103-171-35.serveousercontent.com",
+    "https://005325489fb73b.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -33,8 +33,14 @@
     "http:114.244.212.147:8888",
     "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://past-daisy-welfare-overall.trycloudflare.com/tunnel",
-  "live_api_bases": [],
-  "api_url": "https://azatn.ru",
-  "updated": "2026-11-21T21:37:52Z"
+  "own_tunnel": "wss://kurt-article-songs-diffs.trycloudflare.com/tunnel",
+  "live_api_bases": [
+    "https://kurt-article-songs-diffs.trycloudflare.com",
+    "https://side-three-attachments-denver.trycloudflare.com",
+    "https://collecting-height-castle-paid.trycloudflare.com",
+    "https://5a9718dc1e95202a-48-103-171-35.serveousercontent.com",
+    "https://005325489fb73b.app.lhr.life"
+  ],
+  "api_url": "https://kurt-article-songs-diffs.trycloudflare.com",
+  "updated": "2026-11-21T21:38:17Z"
 }
