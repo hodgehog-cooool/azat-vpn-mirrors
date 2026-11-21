@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://azatn.ru",
     "https://past-daisy-welfare-overall.trycloudflare.com",
     "https://syntax-missed-beijing-stunning.trycloudflare.com",
     "https://vacancies-twist-seal-ski.trycloudflare.com",
     "https://b279dfbdb0fd9ac1-48-103-171-35.serveousercontent.com",
-    "https://65f2bc02c196df.app.lhr.life",
-    "https://azatn.ru"
+    "https://65f2bc02c196df.app.lhr.life"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -34,13 +34,7 @@
     "http:187.190.127.212:80"
   ],
   "own_tunnel": "wss://past-daisy-welfare-overall.trycloudflare.com/tunnel",
-  "live_api_bases": [
-    "https://past-daisy-welfare-overall.trycloudflare.com",
-    "https://syntax-missed-beijing-stunning.trycloudflare.com",
-    "https://vacancies-twist-seal-ski.trycloudflare.com",
-    "https://b279dfbdb0fd9ac1-48-103-171-35.serveousercontent.com",
-    "https://65f2bc02c196df.app.lhr.life"
-  ],
-  "api_url": "https://past-daisy-welfare-overall.trycloudflare.com",
-  "updated": "2026-11-21T21:35:26Z"
+  "live_api_bases": [],
+  "api_url": "https://azatn.ru",
+  "updated": "2026-11-21T21:37:52Z"
 }
