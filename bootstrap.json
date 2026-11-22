@@ -5,8 +5,8 @@
     "https://wins-unit-tests-isa.trycloudflare.com",
     "https://safer-paying-studies-shown.trycloudflare.com",
     "https://326535b7ada01e2c-48-103-171-35.serveousercontent.com",
-    "https://azatn.ru",
-    "https://f463714c3a2381.app.lhr.life"
+    "https://f463714c3a2381.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -38,8 +38,9 @@
     "https://reasoning-patch-alpine-arch.trycloudflare.com",
     "https://wins-unit-tests-isa.trycloudflare.com",
     "https://safer-paying-studies-shown.trycloudflare.com",
-    "https://326535b7ada01e2c-48-103-171-35.serveousercontent.com"
+    "https://326535b7ada01e2c-48-103-171-35.serveousercontent.com",
+    "https://f463714c3a2381.app.lhr.life"
   ],
   "api_url": "https://reasoning-patch-alpine-arch.trycloudflare.com",
-  "updated": "2026-11-22T18:08:20Z"
+  "updated": "2026-11-22T18:08:36Z"
 }
