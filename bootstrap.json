@@ -1,6 +1,10 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://graphs-bearing-spanking-soup.trycloudflare.com",
+    "https://legislature-contacting-immune-meaning.trycloudflare.com",
+    "https://operated-documentary-barry-instrument.trycloudflare.com",
+    "https://e9216d35480a5db8-48-103-171-35.serveousercontent.com",
     "https://azatn.ru"
   ],
   "vpn_endpoints": [
@@ -28,8 +32,13 @@
     "http:114.244.212.147:8888",
     "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://reasoning-patch-alpine-arch.trycloudflare.com/tunnel",
-  "live_api_bases": [],
-  "api_url": "https://azatn.ru",
-  "updated": "2026-11-22T22:11:54Z"
+  "own_tunnel": "wss://graphs-bearing-spanking-soup.trycloudflare.com/tunnel",
+  "live_api_bases": [
+    "https://graphs-bearing-spanking-soup.trycloudflare.com",
+    "https://legislature-contacting-immune-meaning.trycloudflare.com",
+    "https://operated-documentary-barry-instrument.trycloudflare.com",
+    "https://e9216d35480a5db8-48-103-171-35.serveousercontent.com"
+  ],
+  "api_url": "https://graphs-bearing-spanking-soup.trycloudflare.com",
+  "updated": "2026-11-22T22:12:21Z"
 }
