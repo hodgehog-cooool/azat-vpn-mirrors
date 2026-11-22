@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://5c3014d88f207a94-78-17-138-114.serveousercontent.com",
-    "https://d23a54fd4471ba.app.lhr.life"
+    "https://graphs-bearing-spanking-soup.trycloudflare.com",
+    "https://legislature-contacting-immune-meaning.trycloudflare.com",
+    "https://operated-documentary-barry-instrument.trycloudflare.com",
+    "https://ffbeca3c6774ee52-48-103-171-35.serveousercontent.com",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
-    "78.17.138.114:51822"
+    "48.103.171.35:51822"
   ],
   "version_urls": [
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/version.json",
@@ -19,19 +19,26 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "relays": [
+    "http:185.109.244.69:8080",
     "http:216.125.18.67:3128",
+    "http:123.121.123.216:8888",
+    "http:111.192.28.24:8888",
     "http:114.254.50.184:8888",
     "http:114.253.67.30:8888",
-    "http:114.244.212.147:8888"
+    "http:114.246.201.27:8888",
+    "http:114.244.218.227:8888",
+    "http:177.244.44.78:3128",
+    "http:180.190.187.234:8082",
+    "http:114.244.212.147:8888",
+    "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://generally-yarn-llp-chat.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://graphs-bearing-spanking-soup.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://5c3014d88f207a94-78-17-138-114.serveousercontent.com",
-    "https://d23a54fd4471ba.app.lhr.life"
+    "https://graphs-bearing-spanking-soup.trycloudflare.com",
+    "https://legislature-contacting-immune-meaning.trycloudflare.com",
+    "https://operated-documentary-barry-instrument.trycloudflare.com",
+    "https://ffbeca3c6774ee52-48-103-171-35.serveousercontent.com"
   ],
-  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
-  "updated": "2026-11-22T22:28:50Z"
+  "api_url": "https://graphs-bearing-spanking-soup.trycloudflare.com",
+  "updated": "2026-11-22T22:31:04Z"
 }
