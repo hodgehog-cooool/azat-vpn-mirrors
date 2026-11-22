@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://azatn.ru",
-    "https://kurt-article-songs-diffs.trycloudflare.com",
-    "https://side-three-attachments-denver.trycloudflare.com",
-    "https://collecting-height-castle-paid.trycloudflare.com",
-    "https://43a26a121b1cf0ca-48-103-171-35.serveousercontent.com",
-    "https://56fc78039964cf.app.lhr.life"
+    "https://optimum-strengths-bonds-revenue.trycloudflare.com",
+    "https://handhelds-tags-pension-neither.trycloudflare.com",
+    "https://softball-makers-highlight-surprised.trycloudflare.com",
+    "https://6e87fddcb3e55717-48-103-171-35.serveousercontent.com",
+    "https://e8ba6f7f2c1ade.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -33,8 +33,14 @@
     "http:114.244.212.147:8888",
     "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://kurt-article-songs-diffs.trycloudflare.com/tunnel",
-  "live_api_bases": [],
-  "api_url": "https://azatn.ru",
-  "updated": "2026-11-22T01:35:59Z"
+  "own_tunnel": "wss://optimum-strengths-bonds-revenue.trycloudflare.com/tunnel",
+  "live_api_bases": [
+    "https://optimum-strengths-bonds-revenue.trycloudflare.com",
+    "https://handhelds-tags-pension-neither.trycloudflare.com",
+    "https://softball-makers-highlight-surprised.trycloudflare.com",
+    "https://6e87fddcb3e55717-48-103-171-35.serveousercontent.com",
+    "https://e8ba6f7f2c1ade.app.lhr.life"
+  ],
+  "api_url": "https://optimum-strengths-bonds-revenue.trycloudflare.com",
+  "updated": "2026-11-22T01:36:25Z"
 }
