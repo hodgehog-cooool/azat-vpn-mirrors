@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-22T13:54:39Z",
+  "updated": "2026-11-22T13:57:58Z",
   "hosts": [
     "while-university-loud-relevance.trycloudflare.com",
     "avenue-raising-plus-celebrity.trycloudflare.com",
     "vault-reveals-craps-talked.trycloudflare.com",
-    "d8ba20badfbd7f75-48-103-171-35.serveousercontent.com"
+    "d8ba20badfbd7f75-48-103-171-35.serveousercontent.com",
+    "35ece3f3425cf8.app.lhr.life"
   ],
-  "nodes": 12,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
