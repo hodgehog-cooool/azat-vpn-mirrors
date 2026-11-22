@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-22T05:03:59Z",
+  "updated": "2026-11-22T05:04:21Z",
   "hosts": [
+    "optimum-strengths-bonds-revenue.trycloudflare.com",
     "handhelds-tags-pension-neither.trycloudflare.com",
     "softball-makers-highlight-surprised.trycloudflare.com",
     "6d0b47840222520b-48-103-171-35.serveousercontent.com",
     "34f6a9cbd58807.app.lhr.life"
   ],
-  "nodes": 12,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
