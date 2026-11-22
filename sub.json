@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-22T19:20:36Z",
+  "updated": "2026-11-22T19:21:00Z",
   "hosts": [
     "reasoning-patch-alpine-arch.trycloudflare.com",
     "wins-unit-tests-isa.trycloudflare.com",
     "safer-paying-studies-shown.trycloudflare.com",
+    "2003ed1ed6058951-48-103-171-35.serveousercontent.com",
     "5e51db4f96df17.app.lhr.life"
   ],
-  "nodes": 12,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
