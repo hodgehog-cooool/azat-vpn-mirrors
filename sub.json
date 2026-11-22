@@ -1,13 +1,12 @@
 {
-  "updated": "2026-11-22T01:13:24Z",
+  "updated": "2026-11-22T01:16:03Z",
   "hosts": [
     "kurt-article-songs-diffs.trycloudflare.com",
     "side-three-attachments-denver.trycloudflare.com",
     "collecting-height-castle-paid.trycloudflare.com",
-    "47740064db8b1825-48-103-171-35.serveousercontent.com",
-    "b163392469f0e2.app.lhr.life"
+    "47740064db8b1825-48-103-171-35.serveousercontent.com"
   ],
-  "nodes": 15,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
