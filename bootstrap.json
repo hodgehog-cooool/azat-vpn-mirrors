@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://azatn.ru",
     "https://kurt-article-songs-diffs.trycloudflare.com",
     "https://side-three-attachments-denver.trycloudflare.com",
     "https://collecting-height-castle-paid.trycloudflare.com",
     "https://43a26a121b1cf0ca-48-103-171-35.serveousercontent.com",
-    "https://56fc78039964cf.app.lhr.life",
-    "https://azatn.ru"
+    "https://56fc78039964cf.app.lhr.life"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -34,13 +34,7 @@
     "http:187.190.127.212:80"
   ],
   "own_tunnel": "wss://kurt-article-songs-diffs.trycloudflare.com/tunnel",
-  "live_api_bases": [
-    "https://kurt-article-songs-diffs.trycloudflare.com",
-    "https://side-three-attachments-denver.trycloudflare.com",
-    "https://collecting-height-castle-paid.trycloudflare.com",
-    "https://43a26a121b1cf0ca-48-103-171-35.serveousercontent.com",
-    "https://56fc78039964cf.app.lhr.life"
-  ],
-  "api_url": "https://kurt-article-songs-diffs.trycloudflare.com",
-  "updated": "2026-11-22T01:31:53Z"
+  "live_api_bases": [],
+  "api_url": "https://azatn.ru",
+  "updated": "2026-11-22T01:35:59Z"
 }
