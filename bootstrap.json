@@ -4,8 +4,8 @@
     "https://kurt-article-songs-diffs.trycloudflare.com",
     "https://side-three-attachments-denver.trycloudflare.com",
     "https://collecting-height-castle-paid.trycloudflare.com",
+    "https://43a26a121b1cf0ca-48-103-171-35.serveousercontent.com",
     "https://azatn.ru",
-    "https://c8f9009e3d951ce2-48-103-171-35.serveousercontent.com",
     "https://bcfbe0e4927221.app.lhr.life"
   ],
   "vpn_endpoints": [
@@ -37,8 +37,9 @@
   "live_api_bases": [
     "https://kurt-article-songs-diffs.trycloudflare.com",
     "https://side-three-attachments-denver.trycloudflare.com",
-    "https://collecting-height-castle-paid.trycloudflare.com"
+    "https://collecting-height-castle-paid.trycloudflare.com",
+    "https://43a26a121b1cf0ca-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://kurt-article-songs-diffs.trycloudflare.com",
-  "updated": "2026-11-22T01:30:34Z"
+  "updated": "2026-11-22T01:31:03Z"
 }
