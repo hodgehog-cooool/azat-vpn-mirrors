@@ -3,10 +3,10 @@
   "api_bases": [
     "https://while-university-loud-relevance.trycloudflare.com",
     "https://avenue-raising-plus-celebrity.trycloudflare.com",
+    "https://vault-reveals-craps-talked.trycloudflare.com",
     "https://7d6151e154512860-48-103-171-35.serveousercontent.com",
     "https://5179498e84734c.app.lhr.life",
-    "https://azatn.ru",
-    "https://vault-reveals-craps-talked.trycloudflare.com"
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -37,9 +37,10 @@
   "live_api_bases": [
     "https://while-university-loud-relevance.trycloudflare.com",
     "https://avenue-raising-plus-celebrity.trycloudflare.com",
+    "https://vault-reveals-craps-talked.trycloudflare.com",
     "https://7d6151e154512860-48-103-171-35.serveousercontent.com",
     "https://5179498e84734c.app.lhr.life"
   ],
   "api_url": "https://while-university-loud-relevance.trycloudflare.com",
-  "updated": "2026-11-22T13:49:32Z"
+  "updated": "2026-11-22T13:49:47Z"
 }
