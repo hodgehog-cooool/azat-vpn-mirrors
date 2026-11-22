@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://optimum-strengths-bonds-revenue.trycloudflare.com",
     "https://handhelds-tags-pension-neither.trycloudflare.com",
     "https://softball-makers-highlight-surprised.trycloudflare.com",
     "https://519989a67f3bf6ef-48-103-171-35.serveousercontent.com",
     "https://83e9b81638c83b.app.lhr.life",
-    "https://azatn.ru"
+    "https://azatn.ru",
+    "https://optimum-strengths-bonds-revenue.trycloudflare.com"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -33,14 +33,13 @@
     "http:114.244.212.147:8888",
     "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://optimum-strengths-bonds-revenue.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://handhelds-tags-pension-neither.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://optimum-strengths-bonds-revenue.trycloudflare.com",
     "https://handhelds-tags-pension-neither.trycloudflare.com",
     "https://softball-makers-highlight-surprised.trycloudflare.com",
     "https://519989a67f3bf6ef-48-103-171-35.serveousercontent.com",
     "https://83e9b81638c83b.app.lhr.life"
   ],
-  "api_url": "https://optimum-strengths-bonds-revenue.trycloudflare.com",
-  "updated": "2026-11-22T05:34:39Z"
+  "api_url": "https://handhelds-tags-pension-neither.trycloudflare.com",
+  "updated": "2026-11-22T05:38:11Z"
 }
