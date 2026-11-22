@@ -180,12 +180,12 @@
     {
       "type": "vless",
       "tag": "AZAT-3-VLESS",
-      "server": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com",
+      "server": "softball-makers-highlight-surprised.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com",
+        "server_name": "softball-makers-highlight-surprised.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -198,19 +198,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com"
+          "Host": "softball-makers-highlight-surprised.trycloudflare.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-3-Trojan",
-      "server": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com",
+      "server": "softball-makers-highlight-surprised.trycloudflare.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com",
+        "server_name": "softball-makers-highlight-surprised.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -223,21 +223,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com"
+          "Host": "softball-makers-highlight-surprised.trycloudflare.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-3-VMess",
-      "server": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com",
+      "server": "softball-makers-highlight-surprised.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com",
+        "server_name": "softball-makers-highlight-surprised.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -250,7 +250,7 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "d3ab156617dd14fc-48-103-171-35.serveousercontent.com"
+          "Host": "softball-makers-highlight-surprised.trycloudflare.com"
         }
       }
     },
