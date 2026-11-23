@@ -2,11 +2,11 @@
   "schema": 1,
   "api_bases": [
     "https://bucks-festivals-courts-historical.trycloudflare.com",
-    "https://ecommerce-real-unable-dialogue.trycloudflare.com",
     "https://rubber-complement-characteristic-subject.trycloudflare.com",
     "https://daf7d763e2d7125f-48-103-171-35.serveousercontent.com",
     "https://29c8279c5bcfcb.app.lhr.life",
-    "https://azatn.ru"
+    "https://azatn.ru",
+    "https://ecommerce-real-unable-dialogue.trycloudflare.com"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -36,11 +36,10 @@
   "own_tunnel": "wss://bucks-festivals-courts-historical.trycloudflare.com/tunnel",
   "live_api_bases": [
     "https://bucks-festivals-courts-historical.trycloudflare.com",
-    "https://ecommerce-real-unable-dialogue.trycloudflare.com",
     "https://rubber-complement-characteristic-subject.trycloudflare.com",
     "https://daf7d763e2d7125f-48-103-171-35.serveousercontent.com",
     "https://29c8279c5bcfcb.app.lhr.life"
   ],
   "api_url": "https://bucks-festivals-courts-historical.trycloudflare.com",
-  "updated": "2026-11-23T14:13:37Z"
+  "updated": "2026-11-23T14:21:20Z"
 }
