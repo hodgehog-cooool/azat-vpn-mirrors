@@ -1,15 +1,14 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-    "https://medical-annually-turns-conventional.trycloudflare.com",
-    "https://telecommunications-even-records-elderly.trycloudflare.com",
-    "https://3c88d8ac3218db2b-48-103-171-35.serveousercontent.com",
-    "https://azatn.ru",
-    "https://dc46db91af36b7.app.lhr.life"
+    "https://generally-yarn-llp-chat.trycloudflare.com",
+    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
+    "https://prisoner-vice-barriers-genre.trycloudflare.com",
+    "https://feb7433ca5e3c9ca-78-17-138-114.serveousercontent.com",
+    "https://74f5903ea550b0.app.lhr.life"
   ],
   "vpn_endpoints": [
-    "48.103.171.35:51822"
+    "78.17.138.114:51822"
   ],
   "version_urls": [
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/version.json",
@@ -20,26 +19,19 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "relays": [
-    "http:185.109.244.69:8080",
     "http:216.125.18.67:3128",
-    "http:123.121.123.216:8888",
-    "http:111.192.28.24:8888",
     "http:114.254.50.184:8888",
     "http:114.253.67.30:8888",
-    "http:114.246.201.27:8888",
-    "http:114.244.218.227:8888",
-    "http:177.244.44.78:3128",
-    "http:180.190.187.234:8082",
-    "http:114.244.212.147:8888",
-    "http:187.190.127.212:80"
+    "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://singh-anywhere-parental-subscriptions.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://generally-yarn-llp-chat.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-    "https://medical-annually-turns-conventional.trycloudflare.com",
-    "https://telecommunications-even-records-elderly.trycloudflare.com",
-    "https://3c88d8ac3218db2b-48-103-171-35.serveousercontent.com"
+    "https://generally-yarn-llp-chat.trycloudflare.com",
+    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
+    "https://prisoner-vice-barriers-genre.trycloudflare.com",
+    "https://feb7433ca5e3c9ca-78-17-138-114.serveousercontent.com",
+    "https://74f5903ea550b0.app.lhr.life"
   ],
-  "api_url": "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-  "updated": "2026-11-23T03:39:51Z"
+  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
+  "updated": "2026-11-23T03:42:09Z"
 }
