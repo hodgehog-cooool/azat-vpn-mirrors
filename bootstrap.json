@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://azatn.ru",
-    "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-    "https://medical-annually-turns-conventional.trycloudflare.com",
-    "https://telecommunications-even-records-elderly.trycloudflare.com",
-    "https://9449ff1268d4f359-48-103-171-35.serveousercontent.com",
-    "https://68687fc10b97af.app.lhr.life"
+    "https://bucks-festivals-courts-historical.trycloudflare.com",
+    "https://ecommerce-real-unable-dialogue.trycloudflare.com",
+    "https://rubber-complement-characteristic-subject.trycloudflare.com",
+    "https://a25072967cd48497-48-103-171-35.serveousercontent.com",
+    "https://9191c43c4c9f2d.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -33,8 +33,14 @@
     "http:114.244.212.147:8888",
     "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://singh-anywhere-parental-subscriptions.trycloudflare.com/tunnel",
-  "live_api_bases": [],
-  "api_url": "https://azatn.ru",
-  "updated": "2026-11-23T11:50:54Z"
+  "own_tunnel": "wss://bucks-festivals-courts-historical.trycloudflare.com/tunnel",
+  "live_api_bases": [
+    "https://bucks-festivals-courts-historical.trycloudflare.com",
+    "https://ecommerce-real-unable-dialogue.trycloudflare.com",
+    "https://rubber-complement-characteristic-subject.trycloudflare.com",
+    "https://a25072967cd48497-48-103-171-35.serveousercontent.com",
+    "https://9191c43c4c9f2d.app.lhr.life"
+  ],
+  "api_url": "https://bucks-festivals-courts-historical.trycloudflare.com",
+  "updated": "2026-11-23T11:51:21Z"
 }
