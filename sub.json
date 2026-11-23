@@ -1,13 +1,12 @@
 {
-  "updated": "2026-11-23T01:55:47Z",
+  "updated": "2026-11-23T01:59:55Z",
   "hosts": [
     "graphs-bearing-spanking-soup.trycloudflare.com",
     "legislature-contacting-immune-meaning.trycloudflare.com",
     "operated-documentary-barry-instrument.trycloudflare.com",
-    "4929ff7f5a832377-48-103-171-35.serveousercontent.com",
-    "32c21771effb4b.app.lhr.life"
+    "4929ff7f5a832377-48-103-171-35.serveousercontent.com"
   ],
-  "nodes": 15,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
