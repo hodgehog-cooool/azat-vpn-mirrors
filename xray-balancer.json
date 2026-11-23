@@ -860,7 +860,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com",
+            "address": "b6b233eabe18de.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -875,7 +875,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com",
+          "serverName": "b6b233eabe18de.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -885,7 +885,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com"
+            "Host": "b6b233eabe18de.app.lhr.life"
           }
         }
       }
@@ -896,7 +896,7 @@
       "settings": {
         "servers": [
           {
-            "address": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com",
+            "address": "b6b233eabe18de.app.lhr.life",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -906,7 +906,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com",
+          "serverName": "b6b233eabe18de.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -916,7 +916,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com"
+            "Host": "b6b233eabe18de.app.lhr.life"
           }
         }
       }
@@ -927,7 +927,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com",
+            "address": "b6b233eabe18de.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -943,7 +943,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com",
+          "serverName": "b6b233eabe18de.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -953,7 +953,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "664f1d6e480a5a70-78-17-138-114.serveousercontent.com"
+            "Host": "b6b233eabe18de.app.lhr.life"
           }
         }
       }
