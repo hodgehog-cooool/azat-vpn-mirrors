@@ -1,16 +1,17 @@
 {
-  "updated": "2026-11-23T04:24:12Z",
+  "updated": "2026-11-23T04:24:42Z",
   "hosts": [
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
+    "f981daea7b534d65-78-17-138-114.serveousercontent.com",
+    "443ed7fa3e2851.app.lhr.life",
     "singh-anywhere-parental-subscriptions.trycloudflare.com",
     "medical-annually-turns-conventional.trycloudflare.com",
     "telecommunications-even-records-elderly.trycloudflare.com",
-    "06a9f0aef7d84d8b-48-103-171-35.serveousercontent.com",
     "26d93d5f8d1b86.app.lhr.life"
   ],
-  "nodes": 24,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
