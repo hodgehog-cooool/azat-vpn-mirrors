@@ -4,8 +4,8 @@
     "https://generally-yarn-llp-chat.trycloudflare.com",
     "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://8a2c48b6adc31d.app.lhr.life",
-    "https://6e2eb3ed0aa11fe3-78-17-138-114.serveousercontent.com"
+    "https://6ed1cf871ee911d6-78-17-138-114.serveousercontent.com",
+    "https://8a2c48b6adc31d.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -29,8 +29,9 @@
     "https://generally-yarn-llp-chat.trycloudflare.com",
     "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "https://prisoner-vice-barriers-genre.trycloudflare.com",
+    "https://6ed1cf871ee911d6-78-17-138-114.serveousercontent.com",
     "https://8a2c48b6adc31d.app.lhr.life"
   ],
   "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
-  "updated": "2026-11-23T23:49:47Z"
+  "updated": "2026-11-23T23:50:11Z"
 }
