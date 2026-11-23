@@ -1,18 +1,17 @@
 {
-  "updated": "2026-11-23T02:15:09Z",
+  "updated": "2026-11-23T02:15:35Z",
   "hosts": [
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
     "9e005e3afd26fa86-78-17-138-114.serveousercontent.com",
-    "08ae3a3e9cc21d.app.lhr.life",
     "graphs-bearing-spanking-soup.trycloudflare.com",
     "legislature-contacting-immune-meaning.trycloudflare.com",
     "operated-documentary-barry-instrument.trycloudflare.com",
     "514a9ff34b59c8c3-48-103-171-35.serveousercontent.com",
     "2b18a0cbc7c22c.app.lhr.life"
   ],
-  "nodes": 30,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
