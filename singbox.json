@@ -257,12 +257,12 @@
     {
       "type": "vless",
       "tag": "AZAT-4-VLESS",
-      "server": "af150558e920d850-78-17-138-114.serveousercontent.com",
+      "server": "de6380d8b02b1181-78-17-138-114.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "af150558e920d850-78-17-138-114.serveousercontent.com",
+        "server_name": "de6380d8b02b1181-78-17-138-114.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -275,19 +275,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "af150558e920d850-78-17-138-114.serveousercontent.com"
+          "Host": "de6380d8b02b1181-78-17-138-114.serveousercontent.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-4-Trojan",
-      "server": "af150558e920d850-78-17-138-114.serveousercontent.com",
+      "server": "de6380d8b02b1181-78-17-138-114.serveousercontent.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "af150558e920d850-78-17-138-114.serveousercontent.com",
+        "server_name": "de6380d8b02b1181-78-17-138-114.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -300,21 +300,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "af150558e920d850-78-17-138-114.serveousercontent.com"
+          "Host": "de6380d8b02b1181-78-17-138-114.serveousercontent.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-4-VMess",
-      "server": "af150558e920d850-78-17-138-114.serveousercontent.com",
+      "server": "de6380d8b02b1181-78-17-138-114.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "af150558e920d850-78-17-138-114.serveousercontent.com",
+        "server_name": "de6380d8b02b1181-78-17-138-114.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -327,7 +327,7 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "af150558e920d850-78-17-138-114.serveousercontent.com"
+          "Host": "de6380d8b02b1181-78-17-138-114.serveousercontent.com"
         }
       }
     },
