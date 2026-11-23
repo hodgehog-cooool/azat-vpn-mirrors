@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:19:44Z",
+  "updated": "2026-11-23T19:20:14Z",
   "hosts": [
     "bucks-festivals-courts-historical.trycloudflare.com",
     "ecommerce-real-unable-dialogue.trycloudflare.com",
@@ -9,10 +9,9 @@
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
-    "decb6cba09924c38-78-17-138-114.serveousercontent.com",
     "ae9f5546182fea.app.lhr.life"
   ],
-  "nodes": 30,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
