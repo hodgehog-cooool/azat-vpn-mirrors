@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-23T03:20:12Z",
+  "updated": "2026-11-23T03:23:15Z",
   "hosts": [
     "singh-anywhere-parental-subscriptions.trycloudflare.com",
     "medical-annually-turns-conventional.trycloudflare.com",
-    "telecommunications-even-records-elderly.trycloudflare.com",
-    "a0c123d1929b4c57-48-103-171-35.serveousercontent.com"
+    "telecommunications-even-records-elderly.trycloudflare.com"
   ],
-  "nodes": 12,
+  "nodes": 9,
   "protocols": [
     "vless",
     "trojan",
