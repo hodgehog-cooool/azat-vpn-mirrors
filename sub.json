@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T23:41:18Z",
+  "updated": "2026-11-23T23:41:52Z",
   "hosts": [
     "queries-visible-observed-households.trycloudflare.com",
     "poet-appointed-afterwards-decent.trycloudflare.com",
@@ -9,9 +9,10 @@
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
+    "6e2eb3ed0aa11fe3-78-17-138-114.serveousercontent.com",
     "8a2c48b6adc31d.app.lhr.life"
   ],
-  "nodes": 27,
+  "nodes": 30,
   "protocols": [
     "vless",
     "trojan",
