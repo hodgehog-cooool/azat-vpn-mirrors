@@ -28,7 +28,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+            "address": "generally-yarn-llp-chat.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -43,7 +43,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -53,7 +53,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
+            "Host": "generally-yarn-llp-chat.trycloudflare.com"
           }
         }
       }
@@ -64,7 +64,7 @@
       "settings": {
         "servers": [
           {
-            "address": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+            "address": "generally-yarn-llp-chat.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -74,7 +74,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -84,7 +84,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
+            "Host": "generally-yarn-llp-chat.trycloudflare.com"
           }
         }
       }
@@ -95,7 +95,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+            "address": "generally-yarn-llp-chat.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -111,7 +111,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -121,7 +121,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
+            "Host": "generally-yarn-llp-chat.trycloudflare.com"
           }
         }
       }
@@ -132,7 +132,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "medical-annually-turns-conventional.trycloudflare.com",
+            "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -147,7 +147,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "medical-annually-turns-conventional.trycloudflare.com",
+          "serverName": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -157,7 +157,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "medical-annually-turns-conventional.trycloudflare.com"
+            "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
           }
         }
       }
@@ -168,7 +168,7 @@
       "settings": {
         "servers": [
           {
-            "address": "medical-annually-turns-conventional.trycloudflare.com",
+            "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -178,7 +178,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "medical-annually-turns-conventional.trycloudflare.com",
+          "serverName": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -188,7 +188,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "medical-annually-turns-conventional.trycloudflare.com"
+            "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
           }
         }
       }
@@ -199,7 +199,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "medical-annually-turns-conventional.trycloudflare.com",
+            "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -215,7 +215,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "medical-annually-turns-conventional.trycloudflare.com",
+          "serverName": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -225,7 +225,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "medical-annually-turns-conventional.trycloudflare.com"
+            "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
           }
         }
       }
@@ -236,7 +236,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "telecommunications-even-records-elderly.trycloudflare.com",
+            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -251,7 +251,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "telecommunications-even-records-elderly.trycloudflare.com",
+          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -261,7 +261,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "telecommunications-even-records-elderly.trycloudflare.com"
+            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
           }
         }
       }
@@ -272,7 +272,7 @@
       "settings": {
         "servers": [
           {
-            "address": "telecommunications-even-records-elderly.trycloudflare.com",
+            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -282,7 +282,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "telecommunications-even-records-elderly.trycloudflare.com",
+          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -292,7 +292,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "telecommunications-even-records-elderly.trycloudflare.com"
+            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
           }
         }
       }
@@ -303,7 +303,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "telecommunications-even-records-elderly.trycloudflare.com",
+            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -319,7 +319,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "telecommunications-even-records-elderly.trycloudflare.com",
+          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -329,7 +329,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "telecommunications-even-records-elderly.trycloudflare.com"
+            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
           }
         }
       }
@@ -340,7 +340,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "92dd1195777414.app.lhr.life",
+            "address": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -355,7 +355,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "92dd1195777414.app.lhr.life",
+          "serverName": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -365,7 +365,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "92dd1195777414.app.lhr.life"
+            "Host": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com"
           }
         }
       }
@@ -376,7 +376,7 @@
       "settings": {
         "servers": [
           {
-            "address": "92dd1195777414.app.lhr.life",
+            "address": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -386,7 +386,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "92dd1195777414.app.lhr.life",
+          "serverName": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -396,7 +396,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "92dd1195777414.app.lhr.life"
+            "Host": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com"
           }
         }
       }
@@ -407,7 +407,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "92dd1195777414.app.lhr.life",
+            "address": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -423,7 +423,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "92dd1195777414.app.lhr.life",
+          "serverName": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -433,7 +433,111 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "92dd1195777414.app.lhr.life"
+            "Host": "a462f3f7a08e0948-78-17-138-114.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "dcc6b138cf82cd.app.lhr.life",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "dcc6b138cf82cd.app.lhr.life",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "dcc6b138cf82cd.app.lhr.life"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "dcc6b138cf82cd.app.lhr.life",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "dcc6b138cf82cd.app.lhr.life",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "dcc6b138cf82cd.app.lhr.life"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "dcc6b138cf82cd.app.lhr.life",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "dcc6b138cf82cd.app.lhr.life",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "dcc6b138cf82cd.app.lhr.life"
           }
         }
       }
