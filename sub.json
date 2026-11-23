@@ -1,13 +1,12 @@
 {
-  "updated": "2026-11-23T12:01:40Z",
+  "updated": "2026-11-23T12:04:07Z",
   "hosts": [
     "bucks-festivals-courts-historical.trycloudflare.com",
-    "ecommerce-real-unable-dialogue.trycloudflare.com",
     "rubber-complement-characteristic-subject.trycloudflare.com",
     "4af205d5fdf17547-48-103-171-35.serveousercontent.com",
     "71f16be839e09e.app.lhr.life"
   ],
-  "nodes": 15,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
