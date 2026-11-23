@@ -1,6 +1,7 @@
 {
-  "updated": "2026-11-23T23:54:09Z",
+  "updated": "2026-11-23T23:54:34Z",
   "hosts": [
+    "queries-visible-observed-households.trycloudflare.com",
     "poet-appointed-afterwards-decent.trycloudflare.com",
     "hebrew-ssl-leisure-owner.trycloudflare.com",
     "6d03db94f80e2f69-48-103-171-35.serveousercontent.com",
@@ -10,7 +11,7 @@
     "prisoner-vice-barriers-genre.trycloudflare.com",
     "6ed1cf871ee911d6-78-17-138-114.serveousercontent.com"
   ],
-  "nodes": 24,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
