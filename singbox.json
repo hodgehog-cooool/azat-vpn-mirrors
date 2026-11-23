@@ -334,12 +334,12 @@
     {
       "type": "vless",
       "tag": "AZAT-5-VLESS",
-      "server": "dcc6b138cf82cd.app.lhr.life",
+      "server": "singh-anywhere-parental-subscriptions.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "dcc6b138cf82cd.app.lhr.life",
+        "server_name": "singh-anywhere-parental-subscriptions.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -352,19 +352,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "dcc6b138cf82cd.app.lhr.life"
+          "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-5-Trojan",
-      "server": "dcc6b138cf82cd.app.lhr.life",
+      "server": "singh-anywhere-parental-subscriptions.trycloudflare.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "dcc6b138cf82cd.app.lhr.life",
+        "server_name": "singh-anywhere-parental-subscriptions.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -377,21 +377,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "dcc6b138cf82cd.app.lhr.life"
+          "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-5-VMess",
-      "server": "dcc6b138cf82cd.app.lhr.life",
+      "server": "singh-anywhere-parental-subscriptions.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "dcc6b138cf82cd.app.lhr.life",
+        "server_name": "singh-anywhere-parental-subscriptions.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -404,19 +404,19 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "dcc6b138cf82cd.app.lhr.life"
+          "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
         }
       }
     },
     {
       "type": "vless",
       "tag": "AZAT-6-VLESS",
-      "server": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+      "server": "medical-annually-turns-conventional.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+        "server_name": "medical-annually-turns-conventional.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -429,19 +429,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
+          "Host": "medical-annually-turns-conventional.trycloudflare.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-6-Trojan",
-      "server": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+      "server": "medical-annually-turns-conventional.trycloudflare.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+        "server_name": "medical-annually-turns-conventional.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -454,21 +454,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
+          "Host": "medical-annually-turns-conventional.trycloudflare.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-6-VMess",
-      "server": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+      "server": "medical-annually-turns-conventional.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "singh-anywhere-parental-subscriptions.trycloudflare.com",
+        "server_name": "medical-annually-turns-conventional.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -481,19 +481,19 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "singh-anywhere-parental-subscriptions.trycloudflare.com"
+          "Host": "medical-annually-turns-conventional.trycloudflare.com"
         }
       }
     },
     {
       "type": "vless",
       "tag": "AZAT-7-VLESS",
-      "server": "medical-annually-turns-conventional.trycloudflare.com",
+      "server": "telecommunications-even-records-elderly.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "medical-annually-turns-conventional.trycloudflare.com",
+        "server_name": "telecommunications-even-records-elderly.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -506,19 +506,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "medical-annually-turns-conventional.trycloudflare.com"
+          "Host": "telecommunications-even-records-elderly.trycloudflare.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-7-Trojan",
-      "server": "medical-annually-turns-conventional.trycloudflare.com",
+      "server": "telecommunications-even-records-elderly.trycloudflare.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "medical-annually-turns-conventional.trycloudflare.com",
+        "server_name": "telecommunications-even-records-elderly.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -531,90 +531,13 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "medical-annually-turns-conventional.trycloudflare.com"
+          "Host": "telecommunications-even-records-elderly.trycloudflare.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-7-VMess",
-      "server": "medical-annually-turns-conventional.trycloudflare.com",
-      "server_port": 443,
-      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "medical-annually-turns-conventional.trycloudflare.com",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vm",
-        "headers": {
-          "Host": "medical-annually-turns-conventional.trycloudflare.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "AZAT-8-VLESS",
-      "server": "telecommunications-even-records-elderly.trycloudflare.com",
-      "server_port": 443,
-      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "tls": {
-        "enabled": true,
-        "server_name": "telecommunications-even-records-elderly.trycloudflare.com",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vl",
-        "headers": {
-          "Host": "telecommunications-even-records-elderly.trycloudflare.com"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "AZAT-8-Trojan",
-      "server": "telecommunications-even-records-elderly.trycloudflare.com",
-      "server_port": 443,
-      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "tls": {
-        "enabled": true,
-        "server_name": "telecommunications-even-records-elderly.trycloudflare.com",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tr",
-        "headers": {
-          "Host": "telecommunications-even-records-elderly.trycloudflare.com"
-        }
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "AZAT-8-VMess",
       "server": "telecommunications-even-records-elderly.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -663,10 +586,7 @@
         "AZAT-6-VMess",
         "AZAT-7-VLESS",
         "AZAT-7-Trojan",
-        "AZAT-7-VMess",
-        "AZAT-8-VLESS",
-        "AZAT-8-Trojan",
-        "AZAT-8-VMess"
+        "AZAT-7-VMess"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -697,10 +617,7 @@
         "AZAT-6-VMess",
         "AZAT-7-VLESS",
         "AZAT-7-Trojan",
-        "AZAT-7-VMess",
-        "AZAT-8-VLESS",
-        "AZAT-8-Trojan",
-        "AZAT-8-VMess"
+        "AZAT-7-VMess"
       ],
       "default": "auto"
     },
