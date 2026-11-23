@@ -5,8 +5,8 @@
     "https://medical-annually-turns-conventional.trycloudflare.com",
     "https://telecommunications-even-records-elderly.trycloudflare.com",
     "https://3ee039001a765f6d-48-103-171-35.serveousercontent.com",
-    "https://b2d59dd6a0446e.app.lhr.life",
-    "https://azatn.ru"
+    "https://azatn.ru",
+    "https://b2d59dd6a0446e.app.lhr.life"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -38,9 +38,8 @@
     "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
     "https://medical-annually-turns-conventional.trycloudflare.com",
     "https://telecommunications-even-records-elderly.trycloudflare.com",
-    "https://3ee039001a765f6d-48-103-171-35.serveousercontent.com",
-    "https://b2d59dd6a0446e.app.lhr.life"
+    "https://3ee039001a765f6d-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-  "updated": "2026-11-23T07:18:34Z"
+  "updated": "2026-11-23T07:20:42Z"
 }
