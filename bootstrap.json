@@ -1,15 +1,14 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://bucks-festivals-courts-historical.trycloudflare.com",
-    "https://ecommerce-real-unable-dialogue.trycloudflare.com",
-    "https://rubber-complement-characteristic-subject.trycloudflare.com",
-    "https://c704e8aa873a0cc0-48-103-171-35.serveousercontent.com",
-    "https://2b52542d35cccc.app.lhr.life",
-    "https://azatn.ru"
+    "https://generally-yarn-llp-chat.trycloudflare.com",
+    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
+    "https://prisoner-vice-barriers-genre.trycloudflare.com",
+    "https://e006a3b4ad3d62c1-78-17-138-114.serveousercontent.com",
+    "https://73c5af2325e348.app.lhr.life"
   ],
   "vpn_endpoints": [
-    "48.103.171.35:51822"
+    "78.17.138.114:51822"
   ],
   "version_urls": [
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/version.json",
@@ -20,27 +19,19 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "relays": [
-    "http:185.109.244.69:8080",
     "http:216.125.18.67:3128",
-    "http:123.121.123.216:8888",
-    "http:111.192.28.24:8888",
     "http:114.254.50.184:8888",
     "http:114.253.67.30:8888",
-    "http:114.246.201.27:8888",
-    "http:114.244.218.227:8888",
-    "http:177.244.44.78:3128",
-    "http:180.190.187.234:8082",
-    "http:114.244.212.147:8888",
-    "http:187.190.127.212:80"
+    "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://bucks-festivals-courts-historical.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://generally-yarn-llp-chat.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://bucks-festivals-courts-historical.trycloudflare.com",
-    "https://ecommerce-real-unable-dialogue.trycloudflare.com",
-    "https://rubber-complement-characteristic-subject.trycloudflare.com",
-    "https://c704e8aa873a0cc0-48-103-171-35.serveousercontent.com",
-    "https://2b52542d35cccc.app.lhr.life"
+    "https://generally-yarn-llp-chat.trycloudflare.com",
+    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
+    "https://prisoner-vice-barriers-genre.trycloudflare.com",
+    "https://e006a3b4ad3d62c1-78-17-138-114.serveousercontent.com",
+    "https://73c5af2325e348.app.lhr.life"
   ],
-  "api_url": "https://bucks-festivals-courts-historical.trycloudflare.com",
-  "updated": "2026-11-23T20:06:37Z"
+  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
+  "updated": "2026-11-23T20:06:57Z"
 }
