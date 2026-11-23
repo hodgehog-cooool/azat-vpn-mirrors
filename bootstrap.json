@@ -2,10 +2,10 @@
   "schema": 1,
   "api_bases": [
     "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-    "https://medical-annually-turns-conventional.trycloudflare.com",
     "https://telecommunications-even-records-elderly.trycloudflare.com",
     "https://e189c43731ed7f74-48-103-171-35.serveousercontent.com",
     "https://azatn.ru",
+    "https://medical-annually-turns-conventional.trycloudflare.com",
     "https://837ec04cf10884.app.lhr.life"
   ],
   "vpn_endpoints": [
@@ -36,10 +36,9 @@
   "own_tunnel": "wss://singh-anywhere-parental-subscriptions.trycloudflare.com/tunnel",
   "live_api_bases": [
     "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-    "https://medical-annually-turns-conventional.trycloudflare.com",
     "https://telecommunications-even-records-elderly.trycloudflare.com",
     "https://e189c43731ed7f74-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://singh-anywhere-parental-subscriptions.trycloudflare.com",
-  "updated": "2026-11-23T04:56:00Z"
+  "updated": "2026-11-23T04:57:59Z"
 }
