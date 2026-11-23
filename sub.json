@@ -1,18 +1,17 @@
 {
-  "updated": "2026-11-23T13:52:29Z",
+  "updated": "2026-11-23T13:52:53Z",
   "hosts": [
+    "bucks-festivals-courts-historical.trycloudflare.com",
+    "ecommerce-real-unable-dialogue.trycloudflare.com",
+    "rubber-complement-characteristic-subject.trycloudflare.com",
+    "298b5b5932fe23.app.lhr.life",
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
     "fb56ce6d4fa8f567-78-17-138-114.serveousercontent.com",
-    "9b3b6dea17d791.app.lhr.life",
-    "bucks-festivals-courts-historical.trycloudflare.com",
-    "ecommerce-real-unable-dialogue.trycloudflare.com",
-    "rubber-complement-characteristic-subject.trycloudflare.com",
-    "9b3244b06746b66e-48-103-171-35.serveousercontent.com",
-    "298b5b5932fe23.app.lhr.life"
+    "9b3b6dea17d791.app.lhr.life"
   ],
-  "nodes": 30,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
