@@ -1,7 +1,8 @@
 {
-  "updated": "2026-11-23T09:01:37Z",
+  "updated": "2026-11-23T09:02:03Z",
   "hosts": [
     "singh-anywhere-parental-subscriptions.trycloudflare.com",
+    "medical-annually-turns-conventional.trycloudflare.com",
     "telecommunications-even-records-elderly.trycloudflare.com",
     "b1d4c841270abaf0-48-103-171-35.serveousercontent.com",
     "8a2b687c2aac1e.app.lhr.life",
@@ -10,7 +11,7 @@
     "prisoner-vice-barriers-genre.trycloudflare.com",
     "a9f777ed158a0add-78-17-138-114.serveousercontent.com"
   ],
-  "nodes": 24,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
