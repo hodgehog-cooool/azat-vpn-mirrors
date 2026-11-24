@@ -1,13 +1,18 @@
 {
-  "updated": "2026-11-24T05:24:49Z",
+  "updated": "2026-11-24T05:24:59Z",
   "hosts": [
+    "queries-visible-observed-households.trycloudflare.com",
+    "poet-appointed-afterwards-decent.trycloudflare.com",
+    "hebrew-ssl-leisure-owner.trycloudflare.com",
+    "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
+    "72b4a97313a7ed.app.lhr.life",
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
     "ed14779458b15e74-78-17-138-114.serveousercontent.com",
     "77aef788638e3d.app.lhr.life"
   ],
-  "nodes": 15,
+  "nodes": 30,
   "protocols": [
     "vless",
     "trojan",
