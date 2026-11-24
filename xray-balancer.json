@@ -28,7 +28,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "decided-statewide-dozen-bufing.trycloudflare.com",
+            "address": "pocket-enterprises-virtual-talk.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -43,7 +43,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "decided-statewide-dozen-bufing.trycloudflare.com",
+          "serverName": "pocket-enterprises-virtual-talk.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -53,7 +53,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "decided-statewide-dozen-bufing.trycloudflare.com"
+            "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
           }
         }
       }
@@ -64,7 +64,7 @@
       "settings": {
         "servers": [
           {
-            "address": "decided-statewide-dozen-bufing.trycloudflare.com",
+            "address": "pocket-enterprises-virtual-talk.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -74,7 +74,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "decided-statewide-dozen-bufing.trycloudflare.com",
+          "serverName": "pocket-enterprises-virtual-talk.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -84,7 +84,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "decided-statewide-dozen-bufing.trycloudflare.com"
+            "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
           }
         }
       }
@@ -95,7 +95,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "decided-statewide-dozen-bufing.trycloudflare.com",
+            "address": "pocket-enterprises-virtual-talk.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -111,7 +111,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "decided-statewide-dozen-bufing.trycloudflare.com",
+          "serverName": "pocket-enterprises-virtual-talk.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -121,7 +121,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "decided-statewide-dozen-bufing.trycloudflare.com"
+            "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
           }
         }
       }
@@ -132,7 +132,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "pocket-enterprises-virtual-talk.trycloudflare.com",
+            "address": "costa-filtering-salmon-eddie.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -147,7 +147,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "pocket-enterprises-virtual-talk.trycloudflare.com",
+          "serverName": "costa-filtering-salmon-eddie.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -157,7 +157,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
+            "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
           }
         }
       }
@@ -168,7 +168,7 @@
       "settings": {
         "servers": [
           {
-            "address": "pocket-enterprises-virtual-talk.trycloudflare.com",
+            "address": "costa-filtering-salmon-eddie.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -178,7 +178,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "pocket-enterprises-virtual-talk.trycloudflare.com",
+          "serverName": "costa-filtering-salmon-eddie.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -188,7 +188,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
+            "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
           }
         }
       }
@@ -199,7 +199,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "pocket-enterprises-virtual-talk.trycloudflare.com",
+            "address": "costa-filtering-salmon-eddie.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -215,7 +215,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "pocket-enterprises-virtual-talk.trycloudflare.com",
+          "serverName": "costa-filtering-salmon-eddie.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -225,7 +225,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
+            "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
           }
         }
       }
@@ -236,7 +236,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "costa-filtering-salmon-eddie.trycloudflare.com",
+            "address": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -251,7 +251,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "costa-filtering-salmon-eddie.trycloudflare.com",
+          "serverName": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -261,7 +261,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
+            "Host": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com"
           }
         }
       }
@@ -272,7 +272,7 @@
       "settings": {
         "servers": [
           {
-            "address": "costa-filtering-salmon-eddie.trycloudflare.com",
+            "address": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -282,7 +282,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "costa-filtering-salmon-eddie.trycloudflare.com",
+          "serverName": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -292,7 +292,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
+            "Host": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com"
           }
         }
       }
@@ -303,7 +303,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "costa-filtering-salmon-eddie.trycloudflare.com",
+            "address": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -319,7 +319,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "costa-filtering-salmon-eddie.trycloudflare.com",
+          "serverName": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -329,7 +329,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
+            "Host": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com"
           }
         }
       }
