@@ -340,7 +340,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
+            "address": "72b4a97313a7ed.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -355,7 +355,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
+          "serverName": "72b4a97313a7ed.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -365,7 +365,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com"
+            "Host": "72b4a97313a7ed.app.lhr.life"
           }
         }
       }
@@ -376,7 +376,7 @@
       "settings": {
         "servers": [
           {
-            "address": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
+            "address": "72b4a97313a7ed.app.lhr.life",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -386,7 +386,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
+          "serverName": "72b4a97313a7ed.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -396,117 +396,13 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com"
+            "Host": "72b4a97313a7ed.app.lhr.life"
           }
         }
       }
     },
     {
       "tag": "proxy-4-vmess",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "alterId": 0,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vm",
-          "headers": {
-            "Host": "0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-vless",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "72b4a97313a7ed.app.lhr.life",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "72b4a97313a7ed.app.lhr.life",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vl",
-          "headers": {
-            "Host": "72b4a97313a7ed.app.lhr.life"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-trojan",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "72b4a97313a7ed.app.lhr.life",
-            "port": 443,
-            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "72b4a97313a7ed.app.lhr.life",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/tr",
-          "headers": {
-            "Host": "72b4a97313a7ed.app.lhr.life"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
