@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-24T03:37:54Z",
+  "updated": "2026-11-24T03:38:19Z",
   "hosts": [
     "queries-visible-observed-households.trycloudflare.com",
     "poet-appointed-afterwards-decent.trycloudflare.com",
     "hebrew-ssl-leisure-owner.trycloudflare.com",
+    "5a04c443f08c0c4e-48-103-171-35.serveousercontent.com",
     "8fdc04afaee705.app.lhr.life"
   ],
-  "nodes": 12,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
