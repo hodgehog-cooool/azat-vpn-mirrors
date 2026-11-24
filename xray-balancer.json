@@ -340,7 +340,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "fab76865df4897d1-78-17-138-114.serveousercontent.com",
+            "address": "5c530463a85b68ef-78-17-138-114.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -355,7 +355,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "fab76865df4897d1-78-17-138-114.serveousercontent.com",
+          "serverName": "5c530463a85b68ef-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -365,7 +365,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "fab76865df4897d1-78-17-138-114.serveousercontent.com"
+            "Host": "5c530463a85b68ef-78-17-138-114.serveousercontent.com"
           }
         }
       }
@@ -376,7 +376,7 @@
       "settings": {
         "servers": [
           {
-            "address": "fab76865df4897d1-78-17-138-114.serveousercontent.com",
+            "address": "5c530463a85b68ef-78-17-138-114.serveousercontent.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -386,7 +386,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "fab76865df4897d1-78-17-138-114.serveousercontent.com",
+          "serverName": "5c530463a85b68ef-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -396,7 +396,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "fab76865df4897d1-78-17-138-114.serveousercontent.com"
+            "Host": "5c530463a85b68ef-78-17-138-114.serveousercontent.com"
           }
         }
       }
@@ -407,7 +407,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "fab76865df4897d1-78-17-138-114.serveousercontent.com",
+            "address": "5c530463a85b68ef-78-17-138-114.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -423,7 +423,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "fab76865df4897d1-78-17-138-114.serveousercontent.com",
+          "serverName": "5c530463a85b68ef-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -433,7 +433,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "fab76865df4897d1-78-17-138-114.serveousercontent.com"
+            "Host": "5c530463a85b68ef-78-17-138-114.serveousercontent.com"
           }
         }
       }
