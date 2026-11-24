@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://queries-visible-observed-households.trycloudflare.com",
     "https://poet-appointed-afterwards-decent.trycloudflare.com",
     "https://hebrew-ssl-leisure-owner.trycloudflare.com",
     "https://0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
     "https://72b4a97313a7ed.app.lhr.life",
-    "https://azatn.ru",
-    "https://queries-visible-observed-households.trycloudflare.com"
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -33,13 +33,14 @@
     "http:114.244.212.147:8888",
     "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://poet-appointed-afterwards-decent.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://queries-visible-observed-households.trycloudflare.com/tunnel",
   "live_api_bases": [
+    "https://queries-visible-observed-households.trycloudflare.com",
     "https://poet-appointed-afterwards-decent.trycloudflare.com",
     "https://hebrew-ssl-leisure-owner.trycloudflare.com",
     "https://0a8b920a2f1f62ef-48-103-171-35.serveousercontent.com",
     "https://72b4a97313a7ed.app.lhr.life"
   ],
-  "api_url": "https://poet-appointed-afterwards-decent.trycloudflare.com",
-  "updated": "2026-11-24T05:25:59Z"
+  "api_url": "https://queries-visible-observed-households.trycloudflare.com",
+  "updated": "2026-11-24T05:26:17Z"
 }
