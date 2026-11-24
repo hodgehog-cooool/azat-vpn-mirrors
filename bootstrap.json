@@ -1,14 +1,15 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://bf822aa9c8609ed5-78-17-138-114.serveousercontent.com",
-    "https://4976dcbb491e9e.app.lhr.life"
+    "https://queries-visible-observed-households.trycloudflare.com",
+    "https://poet-appointed-afterwards-decent.trycloudflare.com",
+    "https://hebrew-ssl-leisure-owner.trycloudflare.com",
+    "https://bc9cb1afe14dde1e-48-103-171-35.serveousercontent.com",
+    "https://6e97294db4d6cf.app.lhr.life",
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
-    "78.17.138.114:51822"
+    "48.103.171.35:51822"
   ],
   "version_urls": [
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/version.json",
@@ -19,19 +20,27 @@
     "https://raw.githubusercontent.com/hodgehog-cooool/azat-vpn-mirrors/main/AZAT-VPN-latest.apk"
   ],
   "relays": [
+    "http:185.109.244.69:8080",
     "http:216.125.18.67:3128",
+    "http:123.121.123.216:8888",
+    "http:111.192.28.24:8888",
     "http:114.254.50.184:8888",
     "http:114.253.67.30:8888",
-    "http:114.244.212.147:8888"
+    "http:114.246.201.27:8888",
+    "http:114.244.218.227:8888",
+    "http:177.244.44.78:3128",
+    "http:180.190.187.234:8082",
+    "http:114.244.212.147:8888",
+    "http:187.190.127.212:80"
   ],
-  "own_tunnel": "wss://generally-yarn-llp-chat.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://queries-visible-observed-households.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://bf822aa9c8609ed5-78-17-138-114.serveousercontent.com",
-    "https://4976dcbb491e9e.app.lhr.life"
+    "https://queries-visible-observed-households.trycloudflare.com",
+    "https://poet-appointed-afterwards-decent.trycloudflare.com",
+    "https://hebrew-ssl-leisure-owner.trycloudflare.com",
+    "https://bc9cb1afe14dde1e-48-103-171-35.serveousercontent.com",
+    "https://6e97294db4d6cf.app.lhr.life"
   ],
-  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
-  "updated": "2026-11-24T00:21:01Z"
+  "api_url": "https://queries-visible-observed-households.trycloudflare.com",
+  "updated": "2026-11-24T00:22:04Z"
 }
