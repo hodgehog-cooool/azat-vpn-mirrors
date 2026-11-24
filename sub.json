@@ -1,16 +1,12 @@
 {
-  "updated": "2026-11-24T09:45:50Z",
+  "updated": "2026-11-24T09:46:20Z",
   "hosts": [
-    "generally-yarn-llp-chat.trycloudflare.com",
-    "affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "prisoner-vice-barriers-genre.trycloudflare.com",
-    "d0119d9f2b20c474-78-17-138-114.serveousercontent.com",
-    "1a716f62f04454.app.lhr.life",
     "decided-statewide-dozen-bufing.trycloudflare.com",
     "pocket-enterprises-virtual-talk.trycloudflare.com",
-    "costa-filtering-salmon-eddie.trycloudflare.com"
+    "costa-filtering-salmon-eddie.trycloudflare.com",
+    "56ad57588e3d62.app.lhr.life"
   ],
-  "nodes": 24,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
