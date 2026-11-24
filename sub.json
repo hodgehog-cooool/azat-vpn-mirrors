@@ -1,11 +1,12 @@
 {
-  "updated": "2026-11-24T07:06:40Z",
+  "updated": "2026-11-24T07:07:11Z",
   "hosts": [
     "decided-statewide-dozen-bufing.trycloudflare.com",
     "pocket-enterprises-virtual-talk.trycloudflare.com",
+    "costa-filtering-salmon-eddie.trycloudflare.com",
     "1980ce6a33411b06-48-103-171-35.serveousercontent.com"
   ],
-  "nodes": 9,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
