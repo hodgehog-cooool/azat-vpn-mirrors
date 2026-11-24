@@ -4,9 +4,9 @@
     "https://decided-statewide-dozen-bufing.trycloudflare.com",
     "https://pocket-enterprises-virtual-talk.trycloudflare.com",
     "https://costa-filtering-salmon-eddie.trycloudflare.com",
-    "https://ee11db022eb4149c-48-103-171-35.serveousercontent.com",
     "https://88514fd0bd6c1c.app.lhr.life",
-    "https://azatn.ru"
+    "https://azatn.ru",
+    "https://ee11db022eb4149c-48-103-171-35.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -38,9 +38,8 @@
     "https://decided-statewide-dozen-bufing.trycloudflare.com",
     "https://pocket-enterprises-virtual-talk.trycloudflare.com",
     "https://costa-filtering-salmon-eddie.trycloudflare.com",
-    "https://ee11db022eb4149c-48-103-171-35.serveousercontent.com",
     "https://88514fd0bd6c1c.app.lhr.life"
   ],
   "api_url": "https://decided-statewide-dozen-bufing.trycloudflare.com",
-  "updated": "2026-11-24T09:34:52Z"
+  "updated": "2026-11-24T09:35:24Z"
 }
