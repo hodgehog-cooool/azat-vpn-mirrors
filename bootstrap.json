@@ -5,8 +5,7 @@
     "https://pocket-enterprises-virtual-talk.trycloudflare.com",
     "https://costa-filtering-salmon-eddie.trycloudflare.com",
     "https://835f6623e82b76c0-48-103-171-35.serveousercontent.com",
-    "https://azatn.ru",
-    "https://46cf066bc1fff7.app.lhr.life"
+    "https://azatn.ru"
   ],
   "vpn_endpoints": [
     "48.103.171.35:51822"
@@ -41,5 +40,5 @@
     "https://835f6623e82b76c0-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://decided-statewide-dozen-bufing.trycloudflare.com",
-  "updated": "2026-11-24T11:01:09Z"
+  "updated": "2026-11-24T11:04:39Z"
 }
