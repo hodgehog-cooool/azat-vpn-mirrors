@@ -1,7 +1,6 @@
 {
-  "updated": "2026-11-24T07:39:08Z",
+  "updated": "2026-11-24T07:39:52Z",
   "hosts": [
-    "decided-statewide-dozen-bufing.trycloudflare.com",
     "pocket-enterprises-virtual-talk.trycloudflare.com",
     "costa-filtering-salmon-eddie.trycloudflare.com",
     "bb13e40c6a5fd791-48-103-171-35.serveousercontent.com",
@@ -11,7 +10,7 @@
     "prisoner-vice-barriers-genre.trycloudflare.com",
     "4631d950cf3541.app.lhr.life"
   ],
-  "nodes": 27,
+  "nodes": 24,
   "protocols": [
     "vless",
     "trojan",
