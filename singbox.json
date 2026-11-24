@@ -257,12 +257,12 @@
     {
       "type": "vless",
       "tag": "AZAT-4-VLESS",
-      "server": "039d6cbfd793107f-78-17-138-114.serveousercontent.com",
+      "server": "c79ca611b6d309.app.lhr.life",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "039d6cbfd793107f-78-17-138-114.serveousercontent.com",
+        "server_name": "c79ca611b6d309.app.lhr.life",
         "alpn": [
           "http/1.1"
         ],
@@ -275,19 +275,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "039d6cbfd793107f-78-17-138-114.serveousercontent.com"
+          "Host": "c79ca611b6d309.app.lhr.life"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-4-Trojan",
-      "server": "039d6cbfd793107f-78-17-138-114.serveousercontent.com",
+      "server": "c79ca611b6d309.app.lhr.life",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "039d6cbfd793107f-78-17-138-114.serveousercontent.com",
+        "server_name": "c79ca611b6d309.app.lhr.life",
         "alpn": [
           "http/1.1"
         ],
@@ -300,90 +300,13 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "039d6cbfd793107f-78-17-138-114.serveousercontent.com"
+          "Host": "c79ca611b6d309.app.lhr.life"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-4-VMess",
-      "server": "039d6cbfd793107f-78-17-138-114.serveousercontent.com",
-      "server_port": 443,
-      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "039d6cbfd793107f-78-17-138-114.serveousercontent.com",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vm",
-        "headers": {
-          "Host": "039d6cbfd793107f-78-17-138-114.serveousercontent.com"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "AZAT-5-VLESS",
-      "server": "c79ca611b6d309.app.lhr.life",
-      "server_port": 443,
-      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "tls": {
-        "enabled": true,
-        "server_name": "c79ca611b6d309.app.lhr.life",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vl",
-        "headers": {
-          "Host": "c79ca611b6d309.app.lhr.life"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "AZAT-5-Trojan",
-      "server": "c79ca611b6d309.app.lhr.life",
-      "server_port": 443,
-      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "tls": {
-        "enabled": true,
-        "server_name": "c79ca611b6d309.app.lhr.life",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tr",
-        "headers": {
-          "Host": "c79ca611b6d309.app.lhr.life"
-        }
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "AZAT-5-VMess",
       "server": "c79ca611b6d309.app.lhr.life",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -423,10 +346,7 @@
         "AZAT-3-VMess",
         "AZAT-4-VLESS",
         "AZAT-4-Trojan",
-        "AZAT-4-VMess",
-        "AZAT-5-VLESS",
-        "AZAT-5-Trojan",
-        "AZAT-5-VMess"
+        "AZAT-4-VMess"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -448,10 +368,7 @@
         "AZAT-3-VMess",
         "AZAT-4-VLESS",
         "AZAT-4-Trojan",
-        "AZAT-4-VMess",
-        "AZAT-5-VLESS",
-        "AZAT-5-Trojan",
-        "AZAT-5-VMess"
+        "AZAT-4-VMess"
       ],
       "default": "auto"
     },
