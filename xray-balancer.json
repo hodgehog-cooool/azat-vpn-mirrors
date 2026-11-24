@@ -340,6 +340,110 @@
       "settings": {
         "vnext": [
           {
+            "address": "58101eb181896a92-48-103-171-35.serveousercontent.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "58101eb181896a92-48-103-171-35.serveousercontent.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "58101eb181896a92-48-103-171-35.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "58101eb181896a92-48-103-171-35.serveousercontent.com",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "58101eb181896a92-48-103-171-35.serveousercontent.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "58101eb181896a92-48-103-171-35.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "58101eb181896a92-48-103-171-35.serveousercontent.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "58101eb181896a92-48-103-171-35.serveousercontent.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "58101eb181896a92-48-103-171-35.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
             "address": "72b4a97313a7ed.app.lhr.life",
             "port": 443,
             "users": [
@@ -371,7 +475,7 @@
       }
     },
     {
-      "tag": "proxy-4-trojan",
+      "tag": "proxy-5-trojan",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -402,7 +506,7 @@
       }
     },
     {
-      "tag": "proxy-4-vmess",
+      "tag": "proxy-5-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
