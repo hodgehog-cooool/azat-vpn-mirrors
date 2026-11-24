@@ -1,6 +1,12 @@
 {
   "schema": 1,
-  "api_bases": [],
+  "api_bases": [
+    "https://thursday-talks-confidentiality-proud.trycloudflare.com",
+    "https://mar-automation-luis-queue.trycloudflare.com",
+    "https://triumph-communicate-plates-shaft.trycloudflare.com",
+    "https://17b58606f68ec1eb-48-103-171-35.serveousercontent.com",
+    "https://78d3baa3a80c1e.app.lhr.life"
+  ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
   ],
@@ -18,8 +24,14 @@
     "http:114.253.67.30:8888",
     "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://decided-statewide-dozen-bufing.trycloudflare.com/tunnel",
-  "live_api_bases": [],
-  "api_url": "",
-  "updated": "2026-11-24T18:50:08Z"
+  "own_tunnel": "wss://thursday-talks-confidentiality-proud.trycloudflare.com/tunnel",
+  "live_api_bases": [
+    "https://thursday-talks-confidentiality-proud.trycloudflare.com",
+    "https://mar-automation-luis-queue.trycloudflare.com",
+    "https://triumph-communicate-plates-shaft.trycloudflare.com",
+    "https://17b58606f68ec1eb-48-103-171-35.serveousercontent.com",
+    "https://78d3baa3a80c1e.app.lhr.life"
+  ],
+  "api_url": "https://thursday-talks-confidentiality-proud.trycloudflare.com",
+  "updated": "2026-11-24T18:50:56Z"
 }
