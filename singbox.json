@@ -26,12 +26,12 @@
     {
       "type": "vless",
       "tag": "AZAT-1-VLESS",
-      "server": "decided-statewide-dozen-bufing.trycloudflare.com",
+      "server": "pocket-enterprises-virtual-talk.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "decided-statewide-dozen-bufing.trycloudflare.com",
+        "server_name": "pocket-enterprises-virtual-talk.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -44,19 +44,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "decided-statewide-dozen-bufing.trycloudflare.com"
+          "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-1-Trojan",
-      "server": "decided-statewide-dozen-bufing.trycloudflare.com",
+      "server": "pocket-enterprises-virtual-talk.trycloudflare.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "decided-statewide-dozen-bufing.trycloudflare.com",
+        "server_name": "pocket-enterprises-virtual-talk.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -69,21 +69,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "decided-statewide-dozen-bufing.trycloudflare.com"
+          "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-1-VMess",
-      "server": "decided-statewide-dozen-bufing.trycloudflare.com",
+      "server": "pocket-enterprises-virtual-talk.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "decided-statewide-dozen-bufing.trycloudflare.com",
+        "server_name": "pocket-enterprises-virtual-talk.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -96,19 +96,19 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "decided-statewide-dozen-bufing.trycloudflare.com"
+          "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
         }
       }
     },
     {
       "type": "vless",
       "tag": "AZAT-2-VLESS",
-      "server": "pocket-enterprises-virtual-talk.trycloudflare.com",
+      "server": "costa-filtering-salmon-eddie.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "pocket-enterprises-virtual-talk.trycloudflare.com",
+        "server_name": "costa-filtering-salmon-eddie.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -121,19 +121,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
+          "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-2-Trojan",
-      "server": "pocket-enterprises-virtual-talk.trycloudflare.com",
+      "server": "costa-filtering-salmon-eddie.trycloudflare.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "pocket-enterprises-virtual-talk.trycloudflare.com",
+        "server_name": "costa-filtering-salmon-eddie.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -146,21 +146,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
+          "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-2-VMess",
-      "server": "pocket-enterprises-virtual-talk.trycloudflare.com",
+      "server": "costa-filtering-salmon-eddie.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "pocket-enterprises-virtual-talk.trycloudflare.com",
+        "server_name": "costa-filtering-salmon-eddie.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -173,19 +173,19 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "pocket-enterprises-virtual-talk.trycloudflare.com"
+          "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
         }
       }
     },
     {
       "type": "vless",
       "tag": "AZAT-3-VLESS",
-      "server": "costa-filtering-salmon-eddie.trycloudflare.com",
+      "server": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "costa-filtering-salmon-eddie.trycloudflare.com",
+        "server_name": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -198,19 +198,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
+          "Host": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-3-Trojan",
-      "server": "costa-filtering-salmon-eddie.trycloudflare.com",
+      "server": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "costa-filtering-salmon-eddie.trycloudflare.com",
+        "server_name": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -223,21 +223,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
+          "Host": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-3-VMess",
-      "server": "costa-filtering-salmon-eddie.trycloudflare.com",
+      "server": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "costa-filtering-salmon-eddie.trycloudflare.com",
+        "server_name": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -250,7 +250,7 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "costa-filtering-salmon-eddie.trycloudflare.com"
+          "Host": "454831f6a40a4ecb-48-103-171-35.serveousercontent.com"
         }
       }
     },
