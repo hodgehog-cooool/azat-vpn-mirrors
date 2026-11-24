@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:45:04Z",
+  "updated": "2026-11-24T21:47:44Z",
   "hosts": [
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
@@ -8,9 +8,10 @@
     "thursday-talks-confidentiality-proud.trycloudflare.com",
     "mar-automation-luis-queue.trycloudflare.com",
     "triumph-communicate-plates-shaft.trycloudflare.com",
+    "62d257daf6ba84a1-48-103-171-35.serveousercontent.com",
     "c322c738a90f72.app.lhr.life"
   ],
-  "nodes": 24,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
