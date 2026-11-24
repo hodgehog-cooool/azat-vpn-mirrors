@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T23:52:49Z",
+  "updated": "2026-11-24T23:53:13Z",
   "hosts": [
     "thursday-talks-confidentiality-proud.trycloudflare.com",
     "mar-automation-luis-queue.trycloudflare.com",
@@ -9,9 +9,10 @@
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
-    "afa7756d3fd5c847-78-17-138-114.serveousercontent.com"
+    "afa7756d3fd5c847-78-17-138-114.serveousercontent.com",
+    "f072080e0bb4ca.app.lhr.life"
   ],
-  "nodes": 27,
+  "nodes": 30,
   "protocols": [
     "vless",
     "trojan",
