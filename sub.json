@@ -1,13 +1,12 @@
 {
-  "updated": "2026-11-24T17:24:43Z",
+  "updated": "2026-11-24T17:34:28Z",
   "hosts": [
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
-    "a5f37a72db51a867-78-17-138-114.serveousercontent.com",
     "c923fa02309039.app.lhr.life"
   ],
-  "nodes": 15,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
