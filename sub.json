@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:17:46Z",
+  "updated": "2026-11-24T08:18:17Z",
   "hosts": [
     "decided-statewide-dozen-bufing.trycloudflare.com",
     "pocket-enterprises-virtual-talk.trycloudflare.com",
@@ -8,10 +8,9 @@
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
-    "afdcdd26836a09ba-78-17-138-114.serveousercontent.com",
     "fef98b14f2e34f.app.lhr.life"
   ],
-  "nodes": 27,
+  "nodes": 24,
   "protocols": [
     "vless",
     "trojan",
