@@ -236,7 +236,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "hebrew-ssl-leisure-owner.trycloudflare.com",
+            "address": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -251,7 +251,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "hebrew-ssl-leisure-owner.trycloudflare.com",
+          "serverName": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -261,7 +261,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "hebrew-ssl-leisure-owner.trycloudflare.com"
+            "Host": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com"
           }
         }
       }
@@ -272,7 +272,7 @@
       "settings": {
         "servers": [
           {
-            "address": "hebrew-ssl-leisure-owner.trycloudflare.com",
+            "address": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -282,7 +282,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "hebrew-ssl-leisure-owner.trycloudflare.com",
+          "serverName": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -292,7 +292,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "hebrew-ssl-leisure-owner.trycloudflare.com"
+            "Host": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com"
           }
         }
       }
@@ -303,7 +303,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "hebrew-ssl-leisure-owner.trycloudflare.com",
+            "address": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -319,7 +319,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "hebrew-ssl-leisure-owner.trycloudflare.com",
+          "serverName": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -329,7 +329,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "hebrew-ssl-leisure-owner.trycloudflare.com"
+            "Host": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com"
           }
         }
       }
@@ -340,7 +340,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
+            "address": "be8ffa72853bf7.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -355,7 +355,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
+          "serverName": "be8ffa72853bf7.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -365,7 +365,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com"
+            "Host": "be8ffa72853bf7.app.lhr.life"
           }
         }
       }
@@ -376,7 +376,7 @@
       "settings": {
         "servers": [
           {
-            "address": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
+            "address": "be8ffa72853bf7.app.lhr.life",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -386,7 +386,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
+          "serverName": "be8ffa72853bf7.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -396,117 +396,13 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com"
+            "Host": "be8ffa72853bf7.app.lhr.life"
           }
         }
       }
     },
     {
       "tag": "proxy-4-vmess",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "alterId": 0,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vm",
-          "headers": {
-            "Host": "da97f1adeb07e6bd-48-103-171-35.serveousercontent.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-vless",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "be8ffa72853bf7.app.lhr.life",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "be8ffa72853bf7.app.lhr.life",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vl",
-          "headers": {
-            "Host": "be8ffa72853bf7.app.lhr.life"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-trojan",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "be8ffa72853bf7.app.lhr.life",
-            "port": 443,
-            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "be8ffa72853bf7.app.lhr.life",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/tr",
-          "headers": {
-            "Host": "be8ffa72853bf7.app.lhr.life"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
