@@ -1,6 +1,6 @@
 {
-  "version_code": 76,
-  "version_name": "2.7.3",
+  "version_code": 77,
+  "version_name": "2.8.0",
   "apk_url": "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
-  "changelog": "2.7.3: дизайн и UX подключения доработаны (понятные баннеры причин блокировки, контекстные подсказки ошибок, проверка подписки/лимита до подключения и в сессии). На сервере 78.17.138.114 развёрнут VLESS+REALITY (XTLS Vision) на 443 как основной устойчивый транспорт для РФ; существующий WSS-датапат сохранён как fallback. Все данные сохранены."
+  "changelog": "2.8.0: в приложение встроен основной транспорт VLESS+REALITY (XTLS Vision) через libXray/AndroidLibXrayLite для устойчивой работы в РФ; при сбое автоматически используется fallback на WSS/WG. Доработан UX подключения, статусы причин блокировки, проверка подписки/лимита. Сервер 78.17.138.114: REALITY на 443 активен, WSS fallback сохранён. Все данные сохранены."
 }
