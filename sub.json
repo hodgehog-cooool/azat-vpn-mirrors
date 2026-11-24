@@ -1,10 +1,13 @@
 {
-  "updated": "2026-11-24T18:50:34Z",
+  "updated": "2026-11-24T18:51:08Z",
   "hosts": [
+    "thursday-talks-confidentiality-proud.trycloudflare.com",
+    "mar-automation-luis-queue.trycloudflare.com",
+    "triumph-communicate-plates-shaft.trycloudflare.com",
     "17b58606f68ec1eb-48-103-171-35.serveousercontent.com",
     "78d3baa3a80c1e.app.lhr.life"
   ],
-  "nodes": 6,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
