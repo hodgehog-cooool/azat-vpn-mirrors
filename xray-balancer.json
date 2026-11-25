@@ -340,7 +340,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "generally-yarn-llp-chat.trycloudflare.com",
+            "address": "bdac953c0de897e3-48-103-171-35.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -355,7 +355,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
+          "serverName": "bdac953c0de897e3-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -365,7 +365,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "generally-yarn-llp-chat.trycloudflare.com"
+            "Host": "bdac953c0de897e3-48-103-171-35.serveousercontent.com"
           }
         }
       }
@@ -376,7 +376,7 @@
       "settings": {
         "servers": [
           {
-            "address": "generally-yarn-llp-chat.trycloudflare.com",
+            "address": "bdac953c0de897e3-48-103-171-35.serveousercontent.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -386,7 +386,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
+          "serverName": "bdac953c0de897e3-48-103-171-35.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -396,7 +396,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "generally-yarn-llp-chat.trycloudflare.com"
+            "Host": "bdac953c0de897e3-48-103-171-35.serveousercontent.com"
           }
         }
       }
@@ -407,6 +407,110 @@
       "settings": {
         "vnext": [
           {
+            "address": "bdac953c0de897e3-48-103-171-35.serveousercontent.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "bdac953c0de897e3-48-103-171-35.serveousercontent.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "bdac953c0de897e3-48-103-171-35.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "generally-yarn-llp-chat.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "generally-yarn-llp-chat.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "generally-yarn-llp-chat.trycloudflare.com",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "generally-yarn-llp-chat.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
             "address": "generally-yarn-llp-chat.trycloudflare.com",
             "port": 443,
             "users": [
@@ -439,7 +543,7 @@
       }
     },
     {
-      "tag": "proxy-5-vless",
+      "tag": "proxy-6-vless",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -475,7 +579,7 @@
       }
     },
     {
-      "tag": "proxy-5-trojan",
+      "tag": "proxy-6-trojan",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -506,7 +610,7 @@
       }
     },
     {
-      "tag": "proxy-5-vmess",
+      "tag": "proxy-6-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -543,7 +647,7 @@
       }
     },
     {
-      "tag": "proxy-6-vless",
+      "tag": "proxy-7-vless",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -579,7 +683,7 @@
       }
     },
     {
-      "tag": "proxy-6-trojan",
+      "tag": "proxy-7-trojan",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -610,7 +714,7 @@
       }
     },
     {
-      "tag": "proxy-6-vmess",
+      "tag": "proxy-7-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
