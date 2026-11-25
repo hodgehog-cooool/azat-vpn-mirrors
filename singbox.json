@@ -717,83 +717,6 @@
       }
     },
     {
-      "type": "vless",
-      "tag": "AZAT-10-VLESS",
-      "server": "311f359729b81e.app.lhr.life",
-      "server_port": 443,
-      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "tls": {
-        "enabled": true,
-        "server_name": "311f359729b81e.app.lhr.life",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vl",
-        "headers": {
-          "Host": "311f359729b81e.app.lhr.life"
-        }
-      }
-    },
-    {
-      "type": "trojan",
-      "tag": "AZAT-10-Trojan",
-      "server": "311f359729b81e.app.lhr.life",
-      "server_port": 443,
-      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "tls": {
-        "enabled": true,
-        "server_name": "311f359729b81e.app.lhr.life",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/tr",
-        "headers": {
-          "Host": "311f359729b81e.app.lhr.life"
-        }
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "AZAT-10-VMess",
-      "server": "311f359729b81e.app.lhr.life",
-      "server_port": 443,
-      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
-      "security": "auto",
-      "alter_id": 0,
-      "tls": {
-        "enabled": true,
-        "server_name": "311f359729b81e.app.lhr.life",
-        "alpn": [
-          "http/1.1"
-        ],
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/vm",
-        "headers": {
-          "Host": "311f359729b81e.app.lhr.life"
-        }
-      }
-    },
-    {
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
@@ -823,10 +746,7 @@
         "AZAT-8-VMess",
         "AZAT-9-VLESS",
         "AZAT-9-Trojan",
-        "AZAT-9-VMess",
-        "AZAT-10-VLESS",
-        "AZAT-10-Trojan",
-        "AZAT-10-VMess"
+        "AZAT-9-VMess"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -863,10 +783,7 @@
         "AZAT-8-VMess",
         "AZAT-9-VLESS",
         "AZAT-9-Trojan",
-        "AZAT-9-VMess",
-        "AZAT-10-VLESS",
-        "AZAT-10-Trojan",
-        "AZAT-10-VMess"
+        "AZAT-9-VMess"
       ],
       "default": "auto"
     },
