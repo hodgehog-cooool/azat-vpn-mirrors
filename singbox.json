@@ -565,12 +565,12 @@
     {
       "type": "vless",
       "tag": "AZAT-8-VLESS",
-      "server": "9aca6b390dee5b.app.lhr.life",
+      "server": "376b295d388785f8-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "9aca6b390dee5b.app.lhr.life",
+        "server_name": "376b295d388785f8-48-103-171-35.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -583,19 +583,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "9aca6b390dee5b.app.lhr.life"
+          "Host": "376b295d388785f8-48-103-171-35.serveousercontent.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-8-Trojan",
-      "server": "9aca6b390dee5b.app.lhr.life",
+      "server": "376b295d388785f8-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "9aca6b390dee5b.app.lhr.life",
+        "server_name": "376b295d388785f8-48-103-171-35.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -608,21 +608,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "9aca6b390dee5b.app.lhr.life"
+          "Host": "376b295d388785f8-48-103-171-35.serveousercontent.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-8-VMess",
-      "server": "9aca6b390dee5b.app.lhr.life",
+      "server": "376b295d388785f8-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "9aca6b390dee5b.app.lhr.life",
+        "server_name": "376b295d388785f8-48-103-171-35.serveousercontent.com",
         "alpn": [
           "http/1.1"
         ],
@@ -635,7 +635,7 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "9aca6b390dee5b.app.lhr.life"
+          "Host": "376b295d388785f8-48-103-171-35.serveousercontent.com"
         }
       }
     },
