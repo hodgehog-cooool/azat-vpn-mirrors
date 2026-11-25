@@ -1,18 +1,12 @@
 {
-  "updated": "2026-11-25T17:52:30Z",
+  "updated": "2026-11-25T17:53:00Z",
   "hosts": [
-    "monte-detected-atmosphere-obligations.trycloudflare.com",
-    "comments-tobacco-prix-guards.trycloudflare.com",
-    "hunt-tampa-consequence-hobby.trycloudflare.com",
-    "50fb42770330920f-48-103-171-35.serveousercontent.com",
-    "38fb7e528564aa.app.lhr.life",
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
-    "a97d531d75a04d3a-78-17-138-114.serveousercontent.com",
-    "54452621c085a2.app.lhr.life"
+    "a97d531d75a04d3a-78-17-138-114.serveousercontent.com"
   ],
-  "nodes": 30,
+  "nodes": 12,
   "protocols": [
     "vless",
     "trojan",
