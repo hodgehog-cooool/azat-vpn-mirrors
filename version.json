@@ -1,6 +1,6 @@
 {
-  "version_code": 77,
-  "version_name": "2.8.0",
+  "version_code": 78,
+  "version_name": "2.9.0",
   "apk_url": "https://github.com/hodgehog-cooool/azat-vpn-mirrors/releases/latest/download/AZAT-VPN-latest.apk",
-  "changelog": "2.8.0: в приложение встроен основной транспорт VLESS+REALITY (XTLS Vision) через libXray/AndroidLibXrayLite для устойчивой работы в РФ; при сбое автоматически используется fallback на WSS/WG. Доработан UX подключения, статусы причин блокировки, проверка подписки/лимита. Сервер 78.17.138.114: REALITY на 443 активен, WSS fallback сохранён. Все данные сохранены."
+  "changelog": "2.9.0: приложение переведено на AmneziaWG (AWG) как основной и единственный транспорт, убраны Xray/REALITY и старый WSS/WG fallback. Сервер 78.17.138.114: awg0 на 49152/udp, все пользователи синхронизированы. Доработан дизайн главного экрана: статусы AmneziaWG, протокольный бейдж, улучшенные состояния и копирайт. Все данные сохранены."
 }
