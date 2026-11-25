@@ -4,8 +4,8 @@
     "https://thursday-talks-confidentiality-proud.trycloudflare.com",
     "https://mar-automation-luis-queue.trycloudflare.com",
     "https://triumph-communicate-plates-shaft.trycloudflare.com",
-    "https://49c8963b0a216b.app.lhr.life",
-    "https://ee565e598c91a299-48-103-171-35.serveousercontent.com"
+    "https://d071397cf3d07b17-48-103-171-35.serveousercontent.com",
+    "https://49c8963b0a216b.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -29,8 +29,9 @@
     "https://thursday-talks-confidentiality-proud.trycloudflare.com",
     "https://mar-automation-luis-queue.trycloudflare.com",
     "https://triumph-communicate-plates-shaft.trycloudflare.com",
+    "https://d071397cf3d07b17-48-103-171-35.serveousercontent.com",
     "https://49c8963b0a216b.app.lhr.life"
   ],
   "api_url": "https://thursday-talks-confidentiality-proud.trycloudflare.com",
-  "updated": "2026-11-25T01:28:16Z"
+  "updated": "2026-11-25T01:29:13Z"
 }
