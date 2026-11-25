@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://stan-giants-humidity-monthly.trycloudflare.com",
-    "https://founded-cuts-challenged-bodies.trycloudflare.com",
-    "https://blocks-presence-parameter-timothy.trycloudflare.com",
-    "https://bd66af34c8db5103-48-103-171-35.serveousercontent.com",
-    "https://4d8a4fdc635a29.app.lhr.life"
+    "https://monte-detected-atmosphere-obligations.trycloudflare.com",
+    "https://comments-tobacco-prix-guards.trycloudflare.com",
+    "https://hunt-tampa-consequence-hobby.trycloudflare.com",
+    "https://9b6273a2f5f78405-48-103-171-35.serveousercontent.com",
+    "https://f462d6cf0a0050.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -24,14 +24,14 @@
     "http:114.253.67.30:8888",
     "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://stan-giants-humidity-monthly.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://monte-detected-atmosphere-obligations.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://stan-giants-humidity-monthly.trycloudflare.com",
-    "https://founded-cuts-challenged-bodies.trycloudflare.com",
-    "https://blocks-presence-parameter-timothy.trycloudflare.com",
-    "https://bd66af34c8db5103-48-103-171-35.serveousercontent.com",
-    "https://4d8a4fdc635a29.app.lhr.life"
+    "https://monte-detected-atmosphere-obligations.trycloudflare.com",
+    "https://comments-tobacco-prix-guards.trycloudflare.com",
+    "https://hunt-tampa-consequence-hobby.trycloudflare.com",
+    "https://9b6273a2f5f78405-48-103-171-35.serveousercontent.com",
+    "https://f462d6cf0a0050.app.lhr.life"
   ],
-  "api_url": "https://stan-giants-humidity-monthly.trycloudflare.com",
-  "updated": "2026-11-25T12:05:13Z"
+  "api_url": "https://monte-detected-atmosphere-obligations.trycloudflare.com",
+  "updated": "2026-11-25T12:07:48Z"
 }
