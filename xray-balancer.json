@@ -132,7 +132,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "address": "mar-automation-luis-queue.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -147,7 +147,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "serverName": "mar-automation-luis-queue.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -157,7 +157,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+            "Host": "mar-automation-luis-queue.trycloudflare.com"
           }
         }
       }
@@ -168,7 +168,7 @@
       "settings": {
         "servers": [
           {
-            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "address": "mar-automation-luis-queue.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -178,7 +178,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "serverName": "mar-automation-luis-queue.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -188,7 +188,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+            "Host": "mar-automation-luis-queue.trycloudflare.com"
           }
         }
       }
@@ -199,6 +199,110 @@
       "settings": {
         "vnext": [
           {
+            "address": "mar-automation-luis-queue.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "mar-automation-luis-queue.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "mar-automation-luis-queue.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
             "address": "triumph-communicate-plates-shaft.trycloudflare.com",
             "port": 443,
             "users": [
@@ -231,7 +335,7 @@
       }
     },
     {
-      "tag": "proxy-3-vless",
+      "tag": "proxy-4-vless",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -267,7 +371,7 @@
       }
     },
     {
-      "tag": "proxy-3-trojan",
+      "tag": "proxy-4-trojan",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -298,7 +402,7 @@
       }
     },
     {
-      "tag": "proxy-3-vmess",
+      "tag": "proxy-4-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
@@ -335,7 +439,7 @@
       }
     },
     {
-      "tag": "proxy-4-vless",
+      "tag": "proxy-5-vless",
       "protocol": "vless",
       "settings": {
         "vnext": [
@@ -371,7 +475,7 @@
       }
     },
     {
-      "tag": "proxy-4-trojan",
+      "tag": "proxy-5-trojan",
       "protocol": "trojan",
       "settings": {
         "servers": [
@@ -402,7 +506,7 @@
       }
     },
     {
-      "tag": "proxy-4-vmess",
+      "tag": "proxy-5-vmess",
       "protocol": "vmess",
       "settings": {
         "vnext": [
