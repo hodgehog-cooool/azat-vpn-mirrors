@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://b03c5d81c0147e81-78-17-138-114.serveousercontent.com",
-    "https://b57bd8b969f6f4.app.lhr.life"
+    "https://stan-giants-humidity-monthly.trycloudflare.com",
+    "https://founded-cuts-challenged-bodies.trycloudflare.com",
+    "https://blocks-presence-parameter-timothy.trycloudflare.com",
+    "https://93a6ce59bbdbf5.app.lhr.life",
+    "https://2c1f0c8b38dbbfaf-48-103-171-35.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -24,14 +24,13 @@
     "http:114.253.67.30:8888",
     "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://generally-yarn-llp-chat.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://stan-giants-humidity-monthly.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://b03c5d81c0147e81-78-17-138-114.serveousercontent.com",
-    "https://b57bd8b969f6f4.app.lhr.life"
+    "https://stan-giants-humidity-monthly.trycloudflare.com",
+    "https://founded-cuts-challenged-bodies.trycloudflare.com",
+    "https://blocks-presence-parameter-timothy.trycloudflare.com",
+    "https://93a6ce59bbdbf5.app.lhr.life"
   ],
-  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
-  "updated": "2026-11-25T07:26:53Z"
+  "api_url": "https://stan-giants-humidity-monthly.trycloudflare.com",
+  "updated": "2026-11-25T07:30:44Z"
 }
