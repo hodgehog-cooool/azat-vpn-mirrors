@@ -334,12 +334,12 @@
     {
       "type": "vless",
       "tag": "AZAT-5-VLESS",
-      "server": "ac15adc2ed97dc.app.lhr.life",
+      "server": "generally-yarn-llp-chat.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "ac15adc2ed97dc.app.lhr.life",
+        "server_name": "generally-yarn-llp-chat.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -352,19 +352,19 @@
         "type": "ws",
         "path": "/vl",
         "headers": {
-          "Host": "ac15adc2ed97dc.app.lhr.life"
+          "Host": "generally-yarn-llp-chat.trycloudflare.com"
         }
       }
     },
     {
       "type": "trojan",
       "tag": "AZAT-5-Trojan",
-      "server": "ac15adc2ed97dc.app.lhr.life",
+      "server": "generally-yarn-llp-chat.trycloudflare.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
       "tls": {
         "enabled": true,
-        "server_name": "ac15adc2ed97dc.app.lhr.life",
+        "server_name": "generally-yarn-llp-chat.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -377,21 +377,21 @@
         "type": "ws",
         "path": "/tr",
         "headers": {
-          "Host": "ac15adc2ed97dc.app.lhr.life"
+          "Host": "generally-yarn-llp-chat.trycloudflare.com"
         }
       }
     },
     {
       "type": "vmess",
       "tag": "AZAT-5-VMess",
-      "server": "ac15adc2ed97dc.app.lhr.life",
+      "server": "generally-yarn-llp-chat.trycloudflare.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
       "security": "auto",
       "alter_id": 0,
       "tls": {
         "enabled": true,
-        "server_name": "ac15adc2ed97dc.app.lhr.life",
+        "server_name": "generally-yarn-llp-chat.trycloudflare.com",
         "alpn": [
           "http/1.1"
         ],
@@ -404,7 +404,238 @@
         "type": "ws",
         "path": "/vm",
         "headers": {
-          "Host": "ac15adc2ed97dc.app.lhr.life"
+          "Host": "generally-yarn-llp-chat.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "AZAT-6-VLESS",
+      "server": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vl",
+        "headers": {
+          "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "AZAT-6-Trojan",
+      "server": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+      "server_port": 443,
+      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tr",
+        "headers": {
+          "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "AZAT-6-VMess",
+      "server": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vm",
+        "headers": {
+          "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "AZAT-7-VLESS",
+      "server": "prisoner-vice-barriers-genre.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "prisoner-vice-barriers-genre.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vl",
+        "headers": {
+          "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "AZAT-7-Trojan",
+      "server": "prisoner-vice-barriers-genre.trycloudflare.com",
+      "server_port": 443,
+      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "prisoner-vice-barriers-genre.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tr",
+        "headers": {
+          "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "AZAT-7-VMess",
+      "server": "prisoner-vice-barriers-genre.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "prisoner-vice-barriers-genre.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vm",
+        "headers": {
+          "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "AZAT-8-VLESS",
+      "server": "ce6821edb6bf99.app.lhr.life",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "ce6821edb6bf99.app.lhr.life",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vl",
+        "headers": {
+          "Host": "ce6821edb6bf99.app.lhr.life"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "AZAT-8-Trojan",
+      "server": "ce6821edb6bf99.app.lhr.life",
+      "server_port": 443,
+      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "ce6821edb6bf99.app.lhr.life",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tr",
+        "headers": {
+          "Host": "ce6821edb6bf99.app.lhr.life"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "AZAT-8-VMess",
+      "server": "ce6821edb6bf99.app.lhr.life",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "ce6821edb6bf99.app.lhr.life",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vm",
+        "headers": {
+          "Host": "ce6821edb6bf99.app.lhr.life"
         }
       }
     },
@@ -426,7 +657,16 @@
         "AZAT-4-VMess",
         "AZAT-5-VLESS",
         "AZAT-5-Trojan",
-        "AZAT-5-VMess"
+        "AZAT-5-VMess",
+        "AZAT-6-VLESS",
+        "AZAT-6-Trojan",
+        "AZAT-6-VMess",
+        "AZAT-7-VLESS",
+        "AZAT-7-Trojan",
+        "AZAT-7-VMess",
+        "AZAT-8-VLESS",
+        "AZAT-8-Trojan",
+        "AZAT-8-VMess"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -451,7 +691,16 @@
         "AZAT-4-VMess",
         "AZAT-5-VLESS",
         "AZAT-5-Trojan",
-        "AZAT-5-VMess"
+        "AZAT-5-VMess",
+        "AZAT-6-VLESS",
+        "AZAT-6-Trojan",
+        "AZAT-6-VMess",
+        "AZAT-7-VLESS",
+        "AZAT-7-Trojan",
+        "AZAT-7-VMess",
+        "AZAT-8-VLESS",
+        "AZAT-8-Trojan",
+        "AZAT-8-VMess"
       ],
       "default": "auto"
     },
