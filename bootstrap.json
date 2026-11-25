@@ -3,9 +3,9 @@
   "api_bases": [
     "https://stan-giants-humidity-monthly.trycloudflare.com",
     "https://founded-cuts-challenged-bodies.trycloudflare.com",
+    "https://blocks-presence-parameter-timothy.trycloudflare.com",
     "https://cee2813157f2448a-48-103-171-35.serveousercontent.com",
-    "https://80c7b335786634.app.lhr.life",
-    "https://blocks-presence-parameter-timothy.trycloudflare.com"
+    "https://80c7b335786634.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -28,9 +28,10 @@
   "live_api_bases": [
     "https://stan-giants-humidity-monthly.trycloudflare.com",
     "https://founded-cuts-challenged-bodies.trycloudflare.com",
+    "https://blocks-presence-parameter-timothy.trycloudflare.com",
     "https://cee2813157f2448a-48-103-171-35.serveousercontent.com",
     "https://80c7b335786634.app.lhr.life"
   ],
   "api_url": "https://stan-giants-humidity-monthly.trycloudflare.com",
-  "updated": "2026-11-25T05:42:11Z"
+  "updated": "2026-11-25T05:42:31Z"
 }
