@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:37:58Z",
+  "updated": "2026-11-25T03:38:39Z",
   "hosts": [
     "stan-giants-humidity-monthly.trycloudflare.com",
     "founded-cuts-challenged-bodies.trycloudflare.com",
@@ -8,10 +8,9 @@
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
     "prisoner-vice-barriers-genre.trycloudflare.com",
-    "a170875203434816-78-17-138-114.serveousercontent.com",
-    "ce6821edb6bf99.app.lhr.life"
+    "a170875203434816-78-17-138-114.serveousercontent.com"
   ],
-  "nodes": 27,
+  "nodes": 24,
   "protocols": [
     "vless",
     "trojan",
