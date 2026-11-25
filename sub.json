@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-25T19:50:36Z",
+  "updated": "2026-11-25T19:51:29Z",
   "hosts": [
+    "monte-detected-atmosphere-obligations.trycloudflare.com",
     "comments-tobacco-prix-guards.trycloudflare.com",
     "hunt-tampa-consequence-hobby.trycloudflare.com",
     "c7fad9fd7d7b708e-48-103-171-35.serveousercontent.com",
     "4c69b6272c5023.app.lhr.life"
   ],
-  "nodes": 12,
+  "nodes": 15,
   "protocols": [
     "vless",
     "trojan",
