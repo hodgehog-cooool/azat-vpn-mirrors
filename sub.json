@@ -1,15 +1,17 @@
 {
-  "updated": "2026-11-25T08:31:43Z",
+  "updated": "2026-11-25T08:32:25Z",
   "hosts": [
     "stan-giants-humidity-monthly.trycloudflare.com",
     "founded-cuts-challenged-bodies.trycloudflare.com",
     "blocks-presence-parameter-timothy.trycloudflare.com",
     "587138d0b8b7862e-48-103-171-35.serveousercontent.com",
+    "aab7a919d07209.app.lhr.life",
     "generally-yarn-llp-chat.trycloudflare.com",
     "affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "prisoner-vice-barriers-genre.trycloudflare.com"
+    "prisoner-vice-barriers-genre.trycloudflare.com",
+    "9e3aa40b51d26250-78-17-138-114.serveousercontent.com"
   ],
-  "nodes": 21,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
