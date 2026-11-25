@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://9cd2d0f5e62ab923-78-17-138-114.serveousercontent.com",
-    "https://eb27560b04bbcb.app.lhr.life"
+    "https://house-judy-boots-willow.trycloudflare.com",
+    "https://retain-null-argument-selecting.trycloudflare.com",
+    "https://lights-gibson-field-mississippi.trycloudflare.com",
+    "https://e386b1ec87ac48f1-48-103-171-35.serveousercontent.com",
+    "https://8ce88e27a44b7a.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,11 +21,12 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://9cd2d0f5e62ab923-78-17-138-114.serveousercontent.com"
+    "https://house-judy-boots-willow.trycloudflare.com",
+    "https://retain-null-argument-selecting.trycloudflare.com",
+    "https://lights-gibson-field-mississippi.trycloudflare.com",
+    "https://e386b1ec87ac48f1-48-103-171-35.serveousercontent.com",
+    "https://8ce88e27a44b7a.app.lhr.life"
   ],
-  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
-  "updated": "2026-11-25T21:59:15Z"
+  "api_url": "https://house-judy-boots-willow.trycloudflare.com",
+  "updated": "2026-11-25T21:59:21Z"
 }
