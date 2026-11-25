@@ -1,7 +1,6 @@
 {
-  "updated": "2026-11-25T10:22:58Z",
+  "updated": "2026-11-25T10:25:29Z",
   "hosts": [
-    "stan-giants-humidity-monthly.trycloudflare.com",
     "founded-cuts-challenged-bodies.trycloudflare.com",
     "blocks-presence-parameter-timothy.trycloudflare.com",
     "9f39c31b29414d6c-48-103-171-35.serveousercontent.com",
@@ -12,7 +11,7 @@
     "33928a900485c64f-78-17-138-114.serveousercontent.com",
     "373f4fb9ec3614.app.lhr.life"
   ],
-  "nodes": 30,
+  "nodes": 27,
   "protocols": [
     "vless",
     "trojan",
