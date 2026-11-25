@@ -28,7 +28,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "generally-yarn-llp-chat.trycloudflare.com",
+            "address": "thursday-talks-confidentiality-proud.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -43,7 +43,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
+          "serverName": "thursday-talks-confidentiality-proud.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -53,7 +53,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "generally-yarn-llp-chat.trycloudflare.com"
+            "Host": "thursday-talks-confidentiality-proud.trycloudflare.com"
           }
         }
       }
@@ -64,7 +64,7 @@
       "settings": {
         "servers": [
           {
-            "address": "generally-yarn-llp-chat.trycloudflare.com",
+            "address": "thursday-talks-confidentiality-proud.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -74,7 +74,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
+          "serverName": "thursday-talks-confidentiality-proud.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -84,7 +84,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "generally-yarn-llp-chat.trycloudflare.com"
+            "Host": "thursday-talks-confidentiality-proud.trycloudflare.com"
           }
         }
       }
@@ -95,7 +95,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "generally-yarn-llp-chat.trycloudflare.com",
+            "address": "thursday-talks-confidentiality-proud.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -111,7 +111,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "generally-yarn-llp-chat.trycloudflare.com",
+          "serverName": "thursday-talks-confidentiality-proud.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -121,7 +121,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "generally-yarn-llp-chat.trycloudflare.com"
+            "Host": "thursday-talks-confidentiality-proud.trycloudflare.com"
           }
         }
       }
@@ -132,7 +132,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+            "address": "mar-automation-luis-queue.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -147,7 +147,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+          "serverName": "mar-automation-luis-queue.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -157,7 +157,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
+            "Host": "mar-automation-luis-queue.trycloudflare.com"
           }
         }
       }
@@ -168,7 +168,7 @@
       "settings": {
         "servers": [
           {
-            "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+            "address": "mar-automation-luis-queue.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -178,7 +178,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+          "serverName": "mar-automation-luis-queue.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -188,7 +188,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
+            "Host": "mar-automation-luis-queue.trycloudflare.com"
           }
         }
       }
@@ -199,6 +199,318 @@
       "settings": {
         "vnext": [
           {
+            "address": "mar-automation-luis-queue.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "mar-automation-luis-queue.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "mar-automation-luis-queue.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-3-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ee565e598c91a299-48-103-171-35.serveousercontent.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "ee565e598c91a299-48-103-171-35.serveousercontent.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "ee565e598c91a299-48-103-171-35.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "ee565e598c91a299-48-103-171-35.serveousercontent.com",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "ee565e598c91a299-48-103-171-35.serveousercontent.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "ee565e598c91a299-48-103-171-35.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-4-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "ee565e598c91a299-48-103-171-35.serveousercontent.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "alterId": 0,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "ee565e598c91a299-48-103-171-35.serveousercontent.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vm",
+          "headers": {
+            "Host": "ee565e598c91a299-48-103-171-35.serveousercontent.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-vless",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+            "port": 443,
+            "users": [
+              {
+                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/vl",
+          "headers": {
+            "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-trojan",
+      "protocol": "trojan",
+      "settings": {
+        "servers": [
+          {
+            "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+            "port": 443,
+            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
+          "allowInsecure": false,
+          "alpn": [
+            "http/1.1"
+          ],
+          "fingerprint": "chrome"
+        },
+        "wsSettings": {
+          "path": "/tr",
+          "headers": {
+            "Host": "affiliation-attacks-syndicate-humanities.trycloudflare.com"
+          }
+        }
+      }
+    },
+    {
+      "tag": "proxy-5-vmess",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
             "address": "affiliation-attacks-syndicate-humanities.trycloudflare.com",
             "port": 443,
             "users": [
@@ -231,324 +543,12 @@
       }
     },
     {
-      "tag": "proxy-3-vless",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vl",
-          "headers": {
-            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-3-trojan",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
-            "port": 443,
-            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/tr",
-          "headers": {
-            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-3-vmess",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "alterId": 0,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vm",
-          "headers": {
-            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-4-vless",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vl",
-          "headers": {
-            "Host": "92b90191e8a68fea-78-17-138-114.serveousercontent.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-4-trojan",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
-            "port": 443,
-            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/tr",
-          "headers": {
-            "Host": "92b90191e8a68fea-78-17-138-114.serveousercontent.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-4-vmess",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "alterId": 0,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vm",
-          "headers": {
-            "Host": "92b90191e8a68fea-78-17-138-114.serveousercontent.com"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-vless",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "94debebd623d85.app.lhr.life",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "encryption": "none"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "94debebd623d85.app.lhr.life",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vl",
-          "headers": {
-            "Host": "94debebd623d85.app.lhr.life"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-trojan",
-      "protocol": "trojan",
-      "settings": {
-        "servers": [
-          {
-            "address": "94debebd623d85.app.lhr.life",
-            "port": 443,
-            "password": "9259b03a-a418-447b-b4e3-70072caaba12"
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "94debebd623d85.app.lhr.life",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/tr",
-          "headers": {
-            "Host": "94debebd623d85.app.lhr.life"
-          }
-        }
-      }
-    },
-    {
-      "tag": "proxy-5-vmess",
-      "protocol": "vmess",
-      "settings": {
-        "vnext": [
-          {
-            "address": "94debebd623d85.app.lhr.life",
-            "port": 443,
-            "users": [
-              {
-                "id": "9259b03a-a418-447b-b4e3-70072caaba12",
-                "alterId": 0,
-                "security": "auto"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "security": "tls",
-        "tlsSettings": {
-          "serverName": "94debebd623d85.app.lhr.life",
-          "allowInsecure": false,
-          "alpn": [
-            "http/1.1"
-          ],
-          "fingerprint": "chrome"
-        },
-        "wsSettings": {
-          "path": "/vm",
-          "headers": {
-            "Host": "94debebd623d85.app.lhr.life"
-          }
-        }
-      }
-    },
-    {
       "tag": "proxy-6-vless",
       "protocol": "vless",
       "settings": {
         "vnext": [
           {
-            "address": "thursday-talks-confidentiality-proud.trycloudflare.com",
+            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -563,7 +563,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "thursday-talks-confidentiality-proud.trycloudflare.com",
+          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -573,7 +573,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "thursday-talks-confidentiality-proud.trycloudflare.com"
+            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
           }
         }
       }
@@ -584,7 +584,7 @@
       "settings": {
         "servers": [
           {
-            "address": "thursday-talks-confidentiality-proud.trycloudflare.com",
+            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -594,7 +594,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "thursday-talks-confidentiality-proud.trycloudflare.com",
+          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -604,7 +604,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "thursday-talks-confidentiality-proud.trycloudflare.com"
+            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
           }
         }
       }
@@ -615,7 +615,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "thursday-talks-confidentiality-proud.trycloudflare.com",
+            "address": "prisoner-vice-barriers-genre.trycloudflare.com",
             "port": 443,
             "users": [
               {
@@ -631,7 +631,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "thursday-talks-confidentiality-proud.trycloudflare.com",
+          "serverName": "prisoner-vice-barriers-genre.trycloudflare.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -641,7 +641,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "thursday-talks-confidentiality-proud.trycloudflare.com"
+            "Host": "prisoner-vice-barriers-genre.trycloudflare.com"
           }
         }
       }
@@ -652,7 +652,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "mar-automation-luis-queue.trycloudflare.com",
+            "address": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -667,7 +667,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "mar-automation-luis-queue.trycloudflare.com",
+          "serverName": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -677,7 +677,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "mar-automation-luis-queue.trycloudflare.com"
+            "Host": "92b90191e8a68fea-78-17-138-114.serveousercontent.com"
           }
         }
       }
@@ -688,7 +688,7 @@
       "settings": {
         "servers": [
           {
-            "address": "mar-automation-luis-queue.trycloudflare.com",
+            "address": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -698,7 +698,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "mar-automation-luis-queue.trycloudflare.com",
+          "serverName": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -708,7 +708,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "mar-automation-luis-queue.trycloudflare.com"
+            "Host": "92b90191e8a68fea-78-17-138-114.serveousercontent.com"
           }
         }
       }
@@ -719,7 +719,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "mar-automation-luis-queue.trycloudflare.com",
+            "address": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
             "port": 443,
             "users": [
               {
@@ -735,7 +735,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "mar-automation-luis-queue.trycloudflare.com",
+          "serverName": "92b90191e8a68fea-78-17-138-114.serveousercontent.com",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -745,7 +745,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "mar-automation-luis-queue.trycloudflare.com"
+            "Host": "92b90191e8a68fea-78-17-138-114.serveousercontent.com"
           }
         }
       }
@@ -756,7 +756,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "address": "94debebd623d85.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -771,7 +771,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "serverName": "94debebd623d85.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -781,7 +781,7 @@
         "wsSettings": {
           "path": "/vl",
           "headers": {
-            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+            "Host": "94debebd623d85.app.lhr.life"
           }
         }
       }
@@ -792,7 +792,7 @@
       "settings": {
         "servers": [
           {
-            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "address": "94debebd623d85.app.lhr.life",
             "port": 443,
             "password": "9259b03a-a418-447b-b4e3-70072caaba12"
           }
@@ -802,7 +802,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "serverName": "94debebd623d85.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -812,7 +812,7 @@
         "wsSettings": {
           "path": "/tr",
           "headers": {
-            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+            "Host": "94debebd623d85.app.lhr.life"
           }
         }
       }
@@ -823,7 +823,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "triumph-communicate-plates-shaft.trycloudflare.com",
+            "address": "94debebd623d85.app.lhr.life",
             "port": 443,
             "users": [
               {
@@ -839,7 +839,7 @@
         "network": "ws",
         "security": "tls",
         "tlsSettings": {
-          "serverName": "triumph-communicate-plates-shaft.trycloudflare.com",
+          "serverName": "94debebd623d85.app.lhr.life",
           "allowInsecure": false,
           "alpn": [
             "http/1.1"
@@ -849,7 +849,7 @@
         "wsSettings": {
           "path": "/vm",
           "headers": {
-            "Host": "triumph-communicate-plates-shaft.trycloudflare.com"
+            "Host": "94debebd623d85.app.lhr.life"
           }
         }
       }
