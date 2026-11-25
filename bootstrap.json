@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://monte-detected-atmosphere-obligations.trycloudflare.com",
     "https://comments-tobacco-prix-guards.trycloudflare.com",
     "https://hunt-tampa-consequence-hobby.trycloudflare.com",
-    "https://e5f46496158d3447-48-103-171-35.serveousercontent.com",
-    "https://monte-detected-atmosphere-obligations.trycloudflare.com",
-    "https://9d5223fb5794c1.app.lhr.life"
+    "https://adbb6b121d1bf4fc-48-103-171-35.serveousercontent.com",
+    "https://60bdaa53b86e18.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -24,12 +24,14 @@
     "http:114.253.67.30:8888",
     "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://comments-tobacco-prix-guards.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://monte-detected-atmosphere-obligations.trycloudflare.com/tunnel",
   "live_api_bases": [
+    "https://monte-detected-atmosphere-obligations.trycloudflare.com",
     "https://comments-tobacco-prix-guards.trycloudflare.com",
     "https://hunt-tampa-consequence-hobby.trycloudflare.com",
-    "https://e5f46496158d3447-48-103-171-35.serveousercontent.com"
+    "https://adbb6b121d1bf4fc-48-103-171-35.serveousercontent.com",
+    "https://60bdaa53b86e18.app.lhr.life"
   ],
-  "api_url": "https://comments-tobacco-prix-guards.trycloudflare.com",
-  "updated": "2026-11-25T16:42:58Z"
+  "api_url": "https://monte-detected-atmosphere-obligations.trycloudflare.com",
+  "updated": "2026-11-25T16:43:29Z"
 }
