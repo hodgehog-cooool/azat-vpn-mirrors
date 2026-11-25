@@ -26,6 +26,237 @@
     {
       "type": "vless",
       "tag": "AZAT-1-VLESS",
+      "server": "monte-detected-atmosphere-obligations.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "monte-detected-atmosphere-obligations.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vl",
+        "headers": {
+          "Host": "monte-detected-atmosphere-obligations.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "AZAT-1-Trojan",
+      "server": "monte-detected-atmosphere-obligations.trycloudflare.com",
+      "server_port": 443,
+      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "monte-detected-atmosphere-obligations.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tr",
+        "headers": {
+          "Host": "monte-detected-atmosphere-obligations.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "AZAT-1-VMess",
+      "server": "monte-detected-atmosphere-obligations.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "monte-detected-atmosphere-obligations.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vm",
+        "headers": {
+          "Host": "monte-detected-atmosphere-obligations.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "AZAT-2-VLESS",
+      "server": "comments-tobacco-prix-guards.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "comments-tobacco-prix-guards.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vl",
+        "headers": {
+          "Host": "comments-tobacco-prix-guards.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "AZAT-2-Trojan",
+      "server": "comments-tobacco-prix-guards.trycloudflare.com",
+      "server_port": 443,
+      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "comments-tobacco-prix-guards.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tr",
+        "headers": {
+          "Host": "comments-tobacco-prix-guards.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "AZAT-2-VMess",
+      "server": "comments-tobacco-prix-guards.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "comments-tobacco-prix-guards.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vm",
+        "headers": {
+          "Host": "comments-tobacco-prix-guards.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "AZAT-3-VLESS",
+      "server": "hunt-tampa-consequence-hobby.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "hunt-tampa-consequence-hobby.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vl",
+        "headers": {
+          "Host": "hunt-tampa-consequence-hobby.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "AZAT-3-Trojan",
+      "server": "hunt-tampa-consequence-hobby.trycloudflare.com",
+      "server_port": 443,
+      "password": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "tls": {
+        "enabled": true,
+        "server_name": "hunt-tampa-consequence-hobby.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/tr",
+        "headers": {
+          "Host": "hunt-tampa-consequence-hobby.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "AZAT-3-VMess",
+      "server": "hunt-tampa-consequence-hobby.trycloudflare.com",
+      "server_port": 443,
+      "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
+      "security": "auto",
+      "alter_id": 0,
+      "tls": {
+        "enabled": true,
+        "server_name": "hunt-tampa-consequence-hobby.trycloudflare.com",
+        "alpn": [
+          "http/1.1"
+        ],
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/vm",
+        "headers": {
+          "Host": "hunt-tampa-consequence-hobby.trycloudflare.com"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "AZAT-4-VLESS",
       "server": "9b6273a2f5f78405-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -50,7 +281,7 @@
     },
     {
       "type": "trojan",
-      "tag": "AZAT-1-Trojan",
+      "tag": "AZAT-4-Trojan",
       "server": "9b6273a2f5f78405-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -75,7 +306,7 @@
     },
     {
       "type": "vmess",
-      "tag": "AZAT-1-VMess",
+      "tag": "AZAT-4-VMess",
       "server": "9b6273a2f5f78405-48-103-171-35.serveousercontent.com",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -102,7 +333,7 @@
     },
     {
       "type": "vless",
-      "tag": "AZAT-2-VLESS",
+      "tag": "AZAT-5-VLESS",
       "server": "f462d6cf0a0050.app.lhr.life",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -127,7 +358,7 @@
     },
     {
       "type": "trojan",
-      "tag": "AZAT-2-Trojan",
+      "tag": "AZAT-5-Trojan",
       "server": "f462d6cf0a0050.app.lhr.life",
       "server_port": 443,
       "password": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -152,7 +383,7 @@
     },
     {
       "type": "vmess",
-      "tag": "AZAT-2-VMess",
+      "tag": "AZAT-5-VMess",
       "server": "f462d6cf0a0050.app.lhr.life",
       "server_port": 443,
       "uuid": "9259b03a-a418-447b-b4e3-70072caaba12",
@@ -186,7 +417,16 @@
         "AZAT-1-VMess",
         "AZAT-2-VLESS",
         "AZAT-2-Trojan",
-        "AZAT-2-VMess"
+        "AZAT-2-VMess",
+        "AZAT-3-VLESS",
+        "AZAT-3-Trojan",
+        "AZAT-3-VMess",
+        "AZAT-4-VLESS",
+        "AZAT-4-Trojan",
+        "AZAT-4-VMess",
+        "AZAT-5-VLESS",
+        "AZAT-5-Trojan",
+        "AZAT-5-VMess"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -202,7 +442,16 @@
         "AZAT-1-VMess",
         "AZAT-2-VLESS",
         "AZAT-2-Trojan",
-        "AZAT-2-VMess"
+        "AZAT-2-VMess",
+        "AZAT-3-VLESS",
+        "AZAT-3-Trojan",
+        "AZAT-3-VMess",
+        "AZAT-4-VLESS",
+        "AZAT-4-Trojan",
+        "AZAT-4-VMess",
+        "AZAT-5-VLESS",
+        "AZAT-5-Trojan",
+        "AZAT-5-VMess"
       ],
       "default": "auto"
     },
