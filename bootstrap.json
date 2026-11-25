@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://303c293fde60d287-78-17-138-114.serveousercontent.com",
-    "https://c0e85c75879925.app.lhr.life"
+    "https://thursday-talks-confidentiality-proud.trycloudflare.com",
+    "https://mar-automation-luis-queue.trycloudflare.com",
+    "https://8f707af3f39f7a3c-48-103-171-35.serveousercontent.com",
+    "https://7d26283c621ad2.app.lhr.life",
+    "https://triumph-communicate-plates-shaft.trycloudflare.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -24,14 +24,13 @@
     "http:114.253.67.30:8888",
     "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://generally-yarn-llp-chat.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://thursday-talks-confidentiality-proud.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://303c293fde60d287-78-17-138-114.serveousercontent.com",
-    "https://c0e85c75879925.app.lhr.life"
+    "https://thursday-talks-confidentiality-proud.trycloudflare.com",
+    "https://mar-automation-luis-queue.trycloudflare.com",
+    "https://8f707af3f39f7a3c-48-103-171-35.serveousercontent.com",
+    "https://7d26283c621ad2.app.lhr.life"
   ],
-  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
-  "updated": "2026-11-25T02:12:19Z"
+  "api_url": "https://thursday-talks-confidentiality-proud.trycloudflare.com",
+  "updated": "2026-11-25T02:13:16Z"
 }
