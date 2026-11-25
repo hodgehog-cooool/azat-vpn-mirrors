@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://76c7433a33f7cb7c-78-17-138-114.serveousercontent.com",
-    "https://6d1def00dfc008.app.lhr.life"
+    "https://monte-detected-atmosphere-obligations.trycloudflare.com",
+    "https://hunt-tampa-consequence-hobby.trycloudflare.com",
+    "https://comments-tobacco-prix-guards.trycloudflare.com",
+    "https://5ae8fc338c21e24f-48-103-171-35.serveousercontent.com",
+    "https://657ee01f2433d4.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -24,13 +24,11 @@
     "http:114.253.67.30:8888",
     "http:114.244.212.147:8888"
   ],
-  "own_tunnel": "wss://generally-yarn-llp-chat.trycloudflare.com/tunnel",
+  "own_tunnel": "wss://monte-detected-atmosphere-obligations.trycloudflare.com/tunnel",
   "live_api_bases": [
-    "https://generally-yarn-llp-chat.trycloudflare.com",
-    "https://affiliation-attacks-syndicate-humanities.trycloudflare.com",
-    "https://prisoner-vice-barriers-genre.trycloudflare.com",
-    "https://76c7433a33f7cb7c-78-17-138-114.serveousercontent.com"
+    "https://monte-detected-atmosphere-obligations.trycloudflare.com",
+    "https://hunt-tampa-consequence-hobby.trycloudflare.com"
   ],
-  "api_url": "https://generally-yarn-llp-chat.trycloudflare.com",
-  "updated": "2026-11-25T18:26:18Z"
+  "api_url": "https://monte-detected-atmosphere-obligations.trycloudflare.com",
+  "updated": "2026-11-25T18:26:25Z"
 }
