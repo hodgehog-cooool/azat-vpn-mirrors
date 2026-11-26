@@ -1,11 +1,10 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://gateway-unix-boys-inns.trycloudflare.com",
-    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
-    "https://horses-reporting-parish-defendant.trycloudflare.com",
-    "https://57450866b8e16030-78-17-138-114.serveousercontent.com",
-    "https://468b54e1c086ee.app.lhr.life"
+    "https://cooking-map-essentials-glossary.trycloudflare.com",
+    "https://transmitted-securities-hidden-playstation.trycloudflare.com",
+    "https://kitty-laugh-dem-scheme.trycloudflare.com",
+    "https://d647967d22ee0274-48-103-171-35.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +20,11 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://gateway-unix-boys-inns.trycloudflare.com",
-    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
-    "https://horses-reporting-parish-defendant.trycloudflare.com",
-    "https://57450866b8e16030-78-17-138-114.serveousercontent.com",
-    "https://468b54e1c086ee.app.lhr.life"
+    "https://cooking-map-essentials-glossary.trycloudflare.com",
+    "https://transmitted-securities-hidden-playstation.trycloudflare.com",
+    "https://kitty-laugh-dem-scheme.trycloudflare.com",
+    "https://d647967d22ee0274-48-103-171-35.serveousercontent.com"
   ],
-  "api_url": "https://gateway-unix-boys-inns.trycloudflare.com",
-  "updated": "2026-11-26T15:23:31Z"
+  "api_url": "https://cooking-map-essentials-glossary.trycloudflare.com",
+  "updated": "2026-11-26T15:26:41Z"
 }
