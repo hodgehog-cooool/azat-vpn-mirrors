@@ -3,8 +3,8 @@
   "api_bases": [
     "https://cooking-map-essentials-glossary.trycloudflare.com",
     "https://transmitted-securities-hidden-playstation.trycloudflare.com",
-    "https://59f0770d4d58daa0-48-103-171-35.serveousercontent.com",
     "https://kitty-laugh-dem-scheme.trycloudflare.com",
+    "https://59f0770d4d58daa0-48-103-171-35.serveousercontent.com",
     "https://4fe10717fca02b.app.lhr.life"
   ],
   "vpn_endpoints": [
@@ -23,8 +23,9 @@
   "live_api_bases": [
     "https://cooking-map-essentials-glossary.trycloudflare.com",
     "https://transmitted-securities-hidden-playstation.trycloudflare.com",
+    "https://kitty-laugh-dem-scheme.trycloudflare.com",
     "https://59f0770d4d58daa0-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://cooking-map-essentials-glossary.trycloudflare.com",
-  "updated": "2026-11-26T17:09:08Z"
+  "updated": "2026-11-26T17:09:22Z"
 }
