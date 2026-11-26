@@ -2,10 +2,10 @@
   "schema": 1,
   "api_bases": [
     "https://house-judy-boots-willow.trycloudflare.com",
-    "https://retain-null-argument-selecting.trycloudflare.com",
     "https://lights-gibson-field-mississippi.trycloudflare.com",
     "https://485d77e031593045-48-103-171-35.serveousercontent.com",
-    "https://db9082762c48ea.app.lhr.life"
+    "https://db9082762c48ea.app.lhr.life",
+    "https://retain-null-argument-selecting.trycloudflare.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -22,11 +22,10 @@
   "own_tunnel": "",
   "live_api_bases": [
     "https://house-judy-boots-willow.trycloudflare.com",
-    "https://retain-null-argument-selecting.trycloudflare.com",
     "https://lights-gibson-field-mississippi.trycloudflare.com",
     "https://485d77e031593045-48-103-171-35.serveousercontent.com",
     "https://db9082762c48ea.app.lhr.life"
   ],
   "api_url": "https://house-judy-boots-willow.trycloudflare.com",
-  "updated": "2026-11-26T02:51:20Z"
+  "updated": "2026-11-26T02:51:41Z"
 }
