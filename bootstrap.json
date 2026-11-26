@@ -3,8 +3,8 @@
   "api_bases": [
     "https://departmental-carbon-qualities-tractor.trycloudflare.com",
     "https://collector-pro-lauderdale-achievements.trycloudflare.com",
-    "https://91672e2986f0ab1d-48-103-171-35.serveousercontent.com",
     "https://jason-searching-exit-formal.trycloudflare.com",
+    "https://91672e2986f0ab1d-48-103-171-35.serveousercontent.com",
     "https://63eb8bd3bc698c.app.lhr.life"
   ],
   "vpn_endpoints": [
@@ -23,8 +23,9 @@
   "live_api_bases": [
     "https://departmental-carbon-qualities-tractor.trycloudflare.com",
     "https://collector-pro-lauderdale-achievements.trycloudflare.com",
+    "https://jason-searching-exit-formal.trycloudflare.com",
     "https://91672e2986f0ab1d-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://departmental-carbon-qualities-tractor.trycloudflare.com",
-  "updated": "2026-11-26T22:37:11Z"
+  "updated": "2026-11-26T22:37:24Z"
 }
