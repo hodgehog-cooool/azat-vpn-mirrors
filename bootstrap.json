@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://sean-luther-pharmacies-confidence.trycloudflare.com",
     "https://builder-metallica-camp-fruit.trycloudflare.com",
     "https://ordinary-festival-extended-refresh.trycloudflare.com",
     "https://4518b8642200fd3e-48-103-171-35.serveousercontent.com",
-    "https://32e2eb5c61547b.app.lhr.life",
-    "https://sean-luther-pharmacies-confidence.trycloudflare.com"
+    "https://32e2eb5c61547b.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,11 +21,12 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
+    "https://sean-luther-pharmacies-confidence.trycloudflare.com",
     "https://builder-metallica-camp-fruit.trycloudflare.com",
     "https://ordinary-festival-extended-refresh.trycloudflare.com",
     "https://4518b8642200fd3e-48-103-171-35.serveousercontent.com",
     "https://32e2eb5c61547b.app.lhr.life"
   ],
-  "api_url": "https://builder-metallica-camp-fruit.trycloudflare.com",
-  "updated": "2026-11-26T12:08:06Z"
+  "api_url": "https://sean-luther-pharmacies-confidence.trycloudflare.com",
+  "updated": "2026-11-26T12:08:20Z"
 }
