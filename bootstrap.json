@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://gateway-unix-boys-inns.trycloudflare.com",
-    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
-    "https://horses-reporting-parish-defendant.trycloudflare.com",
-    "https://50c20f1a9dc7d417-78-17-138-114.serveousercontent.com",
-    "https://e3ab55f003f066.app.lhr.life"
+    "https://sean-luther-pharmacies-confidence.trycloudflare.com",
+    "https://ordinary-festival-extended-refresh.trycloudflare.com",
+    "https://1b84e2a63bee16a0-48-103-171-35.serveousercontent.com",
+    "https://ac8764fe357f2d.app.lhr.life",
+    "https://builder-metallica-camp-fruit.trycloudflare.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +21,11 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://gateway-unix-boys-inns.trycloudflare.com",
-    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
-    "https://horses-reporting-parish-defendant.trycloudflare.com",
-    "https://50c20f1a9dc7d417-78-17-138-114.serveousercontent.com",
-    "https://e3ab55f003f066.app.lhr.life"
+    "https://sean-luther-pharmacies-confidence.trycloudflare.com",
+    "https://ordinary-festival-extended-refresh.trycloudflare.com",
+    "https://1b84e2a63bee16a0-48-103-171-35.serveousercontent.com",
+    "https://ac8764fe357f2d.app.lhr.life"
   ],
-  "api_url": "https://gateway-unix-boys-inns.trycloudflare.com",
-  "updated": "2026-11-26T09:40:44Z"
+  "api_url": "https://sean-luther-pharmacies-confidence.trycloudflare.com",
+  "updated": "2026-11-26T09:41:33Z"
 }
