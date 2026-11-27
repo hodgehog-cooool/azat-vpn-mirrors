@@ -1,12 +1,6 @@
 {
   "schema": 1,
-  "api_bases": [
-    "https://rap-outside-comply-selection.trycloudflare.com",
-    "https://next-utilities-assessment-conflict.trycloudflare.com",
-    "https://approval-record-testimony-clearly.trycloudflare.com",
-    "https://45570ba1a5d90a8a-48-103-171-35.serveousercontent.com",
-    "https://e957aba42e0c55.app.lhr.life"
-  ],
+  "api_bases": [],
   "vpn_endpoints": [
     "78.17.138.114:51822"
   ],
@@ -20,13 +14,7 @@
   ],
   "relays": [],
   "own_tunnel": "",
-  "live_api_bases": [
-    "https://rap-outside-comply-selection.trycloudflare.com",
-    "https://next-utilities-assessment-conflict.trycloudflare.com",
-    "https://approval-record-testimony-clearly.trycloudflare.com",
-    "https://45570ba1a5d90a8a-48-103-171-35.serveousercontent.com",
-    "https://e957aba42e0c55.app.lhr.life"
-  ],
-  "api_url": "https://rap-outside-comply-selection.trycloudflare.com",
-  "updated": "2026-11-27T18:22:52Z"
+  "live_api_bases": [],
+  "api_url": "",
+  "updated": "2026-11-27T18:27:54Z"
 }
