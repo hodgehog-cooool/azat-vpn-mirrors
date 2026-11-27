@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://patients-cables-sale-string.trycloudflare.com",
-    "https://committed-bufing-passenger-reunion.trycloudflare.com",
-    "https://invoice-necessary-jack-sir.trycloudflare.com",
-    "https://8ccef6148b90315f-48-103-171-35.serveousercontent.com",
-    "https://4cf9ed2c62c6d5.app.lhr.life"
+    "https://gateway-unix-boys-inns.trycloudflare.com",
+    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
+    "https://horses-reporting-parish-defendant.trycloudflare.com",
+    "https://07b96bdebac1f905-78-17-138-114.serveousercontent.com",
+    "https://0f696f88b5ca0f.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +21,11 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://patients-cables-sale-string.trycloudflare.com",
-    "https://committed-bufing-passenger-reunion.trycloudflare.com",
-    "https://invoice-necessary-jack-sir.trycloudflare.com",
-    "https://8ccef6148b90315f-48-103-171-35.serveousercontent.com",
-    "https://4cf9ed2c62c6d5.app.lhr.life"
+    "https://gateway-unix-boys-inns.trycloudflare.com",
+    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
+    "https://horses-reporting-parish-defendant.trycloudflare.com",
+    "https://07b96bdebac1f905-78-17-138-114.serveousercontent.com"
   ],
-  "api_url": "https://patients-cables-sale-string.trycloudflare.com",
-  "updated": "2026-11-27T06:13:16Z"
+  "api_url": "https://gateway-unix-boys-inns.trycloudflare.com",
+  "updated": "2026-11-27T06:15:54Z"
 }
