@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "api_bases": [
+    "https://patients-cables-sale-string.trycloudflare.com",
     "https://committed-bufing-passenger-reunion.trycloudflare.com",
     "https://invoice-necessary-jack-sir.trycloudflare.com",
-    "https://patients-cables-sale-string.trycloudflare.com",
     "https://351638ff6e6240d5-48-103-171-35.serveousercontent.com",
     "https://76bd56108ab5f7.app.lhr.life"
   ],
@@ -21,9 +21,10 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
+    "https://patients-cables-sale-string.trycloudflare.com",
     "https://committed-bufing-passenger-reunion.trycloudflare.com",
     "https://invoice-necessary-jack-sir.trycloudflare.com"
   ],
-  "api_url": "https://committed-bufing-passenger-reunion.trycloudflare.com",
-  "updated": "2026-11-27T06:43:49Z"
+  "api_url": "https://patients-cables-sale-string.trycloudflare.com",
+  "updated": "2026-11-27T06:44:02Z"
 }
