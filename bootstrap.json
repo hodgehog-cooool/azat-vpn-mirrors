@@ -2,9 +2,9 @@
   "schema": 1,
   "api_bases": [
     "https://patients-cables-sale-string.trycloudflare.com",
-    "https://committed-bufing-passenger-reunion.trycloudflare.com",
     "https://invoice-necessary-jack-sir.trycloudflare.com",
     "https://15b0808b9f685e72-48-103-171-35.serveousercontent.com",
+    "https://committed-bufing-passenger-reunion.trycloudflare.com",
     "https://4cf9ed2c62c6d5.app.lhr.life"
   ],
   "vpn_endpoints": [
@@ -22,10 +22,9 @@
   "own_tunnel": "",
   "live_api_bases": [
     "https://patients-cables-sale-string.trycloudflare.com",
-    "https://committed-bufing-passenger-reunion.trycloudflare.com",
     "https://invoice-necessary-jack-sir.trycloudflare.com",
     "https://15b0808b9f685e72-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://patients-cables-sale-string.trycloudflare.com",
-  "updated": "2026-11-27T06:23:36Z"
+  "updated": "2026-11-27T06:24:41Z"
 }
