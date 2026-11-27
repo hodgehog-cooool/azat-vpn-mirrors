@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://gateway-unix-boys-inns.trycloudflare.com",
-    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
-    "https://horses-reporting-parish-defendant.trycloudflare.com",
-    "https://1dd3956180e0c394-78-17-138-114.serveousercontent.com",
-    "https://456bbfcc370091.app.lhr.life"
+    "https://departmental-carbon-qualities-tractor.trycloudflare.com",
+    "https://collector-pro-lauderdale-achievements.trycloudflare.com",
+    "https://d2df0ba25b8bb826-48-103-171-35.serveousercontent.com",
+    "https://1be914df43566e.app.lhr.life",
+    "https://jason-searching-exit-formal.trycloudflare.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +21,11 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://gateway-unix-boys-inns.trycloudflare.com",
-    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
-    "https://horses-reporting-parish-defendant.trycloudflare.com",
-    "https://1dd3956180e0c394-78-17-138-114.serveousercontent.com",
-    "https://456bbfcc370091.app.lhr.life"
+    "https://departmental-carbon-qualities-tractor.trycloudflare.com",
+    "https://collector-pro-lauderdale-achievements.trycloudflare.com",
+    "https://d2df0ba25b8bb826-48-103-171-35.serveousercontent.com",
+    "https://1be914df43566e.app.lhr.life"
   ],
-  "api_url": "https://gateway-unix-boys-inns.trycloudflare.com",
-  "updated": "2026-11-27T01:01:31Z"
+  "api_url": "https://departmental-carbon-qualities-tractor.trycloudflare.com",
+  "updated": "2026-11-27T01:02:13Z"
 }
