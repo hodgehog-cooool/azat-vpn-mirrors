@@ -1,11 +1,10 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://nightlife-median-assure-soma.trycloudflare.com",
-    "https://ladies-every-minute-honor.trycloudflare.com",
-    "https://minute-sleeps-shanghai-cameras.trycloudflare.com",
-    "https://b8558a18c65c36d1-48-103-171-35.serveousercontent.com",
-    "https://14f0e4d598bf0b.app.lhr.life"
+    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
+    "https://accessed-suit-candidates-machinery.trycloudflare.com",
+    "https://done-welding-verified-dallas.trycloudflare.com",
+    "https://289802e853aa4eae-78-17-138-114.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +20,11 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://nightlife-median-assure-soma.trycloudflare.com",
-    "https://ladies-every-minute-honor.trycloudflare.com",
-    "https://minute-sleeps-shanghai-cameras.trycloudflare.com",
-    "https://b8558a18c65c36d1-48-103-171-35.serveousercontent.com",
-    "https://14f0e4d598bf0b.app.lhr.life"
+    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
+    "https://accessed-suit-candidates-machinery.trycloudflare.com",
+    "https://done-welding-verified-dallas.trycloudflare.com",
+    "https://289802e853aa4eae-78-17-138-114.serveousercontent.com"
   ],
-  "api_url": "https://nightlife-median-assure-soma.trycloudflare.com",
-  "updated": "2026-11-27T23:57:53Z"
+  "api_url": "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
+  "updated": "2026-11-27T23:58:12Z"
 }
