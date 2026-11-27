@@ -3,9 +3,9 @@
   "api_bases": [
     "https://patients-cables-sale-string.trycloudflare.com",
     "https://committed-bufing-passenger-reunion.trycloudflare.com",
+    "https://invoice-necessary-jack-sir.trycloudflare.com",
     "https://cac48e881680be73-48-103-171-35.serveousercontent.com",
-    "https://5e878e67e81c7e.app.lhr.life",
-    "https://invoice-necessary-jack-sir.trycloudflare.com"
+    "https://5e878e67e81c7e.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -23,9 +23,10 @@
   "live_api_bases": [
     "https://patients-cables-sale-string.trycloudflare.com",
     "https://committed-bufing-passenger-reunion.trycloudflare.com",
+    "https://invoice-necessary-jack-sir.trycloudflare.com",
     "https://cac48e881680be73-48-103-171-35.serveousercontent.com",
     "https://5e878e67e81c7e.app.lhr.life"
   ],
   "api_url": "https://patients-cables-sale-string.trycloudflare.com",
-  "updated": "2026-11-27T06:00:41Z"
+  "updated": "2026-11-27T06:00:55Z"
 }
