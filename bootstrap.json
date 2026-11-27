@@ -4,8 +4,8 @@
     "https://cambridge-monsters-representative-inches.trycloudflare.com",
     "https://census-showtimes-snowboard-sweet.trycloudflare.com",
     "https://trivia-prot-frog-isp.trycloudflare.com",
-    "https://a924b8a35f234f.app.lhr.life",
-    "https://2e3be3ac2731560b-48-103-171-35.serveousercontent.com"
+    "https://b68ab9d5d037eb50-48-103-171-35.serveousercontent.com",
+    "https://a924b8a35f234f.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -24,8 +24,9 @@
     "https://cambridge-monsters-representative-inches.trycloudflare.com",
     "https://census-showtimes-snowboard-sweet.trycloudflare.com",
     "https://trivia-prot-frog-isp.trycloudflare.com",
+    "https://b68ab9d5d037eb50-48-103-171-35.serveousercontent.com",
     "https://a924b8a35f234f.app.lhr.life"
   ],
   "api_url": "https://cambridge-monsters-representative-inches.trycloudflare.com",
-  "updated": "2026-11-27T11:07:16Z"
+  "updated": "2026-11-27T11:07:29Z"
 }
