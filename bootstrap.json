@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
-    "https://accessed-suit-candidates-machinery.trycloudflare.com",
-    "https://done-welding-verified-dallas.trycloudflare.com",
-    "https://76c663d69b89a1b6-78-17-138-114.serveousercontent.com",
-    "https://c7be53977507cd.app.lhr.life"
+    "https://rap-outside-comply-selection.trycloudflare.com",
+    "https://next-utilities-assessment-conflict.trycloudflare.com",
+    "https://approval-record-testimony-clearly.trycloudflare.com",
+    "https://9d739304615359.app.lhr.life",
+    "https://c67f9dd08b05de1e-48-103-171-35.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +21,11 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
-    "https://accessed-suit-candidates-machinery.trycloudflare.com",
-    "https://done-welding-verified-dallas.trycloudflare.com",
-    "https://76c663d69b89a1b6-78-17-138-114.serveousercontent.com",
-    "https://c7be53977507cd.app.lhr.life"
+    "https://rap-outside-comply-selection.trycloudflare.com",
+    "https://next-utilities-assessment-conflict.trycloudflare.com",
+    "https://approval-record-testimony-clearly.trycloudflare.com",
+    "https://9d739304615359.app.lhr.life"
   ],
-  "api_url": "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
-  "updated": "2026-11-27T20:49:58Z"
+  "api_url": "https://rap-outside-comply-selection.trycloudflare.com",
+  "updated": "2026-11-27T20:51:41Z"
 }
