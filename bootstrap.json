@@ -2,6 +2,8 @@
   "schema": 1,
   "api_bases": [
     "https://rap-outside-comply-selection.trycloudflare.com",
+    "https://next-utilities-assessment-conflict.trycloudflare.com",
+    "https://approval-record-testimony-clearly.trycloudflare.com",
     "https://856add3d2b7a2627-48-103-171-35.serveousercontent.com",
     "https://bedea44d9ffa6e.app.lhr.life"
   ],
@@ -20,9 +22,11 @@
   "own_tunnel": "",
   "live_api_bases": [
     "https://rap-outside-comply-selection.trycloudflare.com",
+    "https://next-utilities-assessment-conflict.trycloudflare.com",
+    "https://approval-record-testimony-clearly.trycloudflare.com",
     "https://856add3d2b7a2627-48-103-171-35.serveousercontent.com",
     "https://bedea44d9ffa6e.app.lhr.life"
   ],
   "api_url": "https://rap-outside-comply-selection.trycloudflare.com",
-  "updated": "2026-11-27T14:16:45Z"
+  "updated": "2026-11-27T14:16:58Z"
 }
