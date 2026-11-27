@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://cambridge-monsters-representative-inches.trycloudflare.com",
-    "https://census-showtimes-snowboard-sweet.trycloudflare.com",
-    "https://trivia-prot-frog-isp.trycloudflare.com",
-    "https://e3d1d23459ee23f1-48-103-171-35.serveousercontent.com",
-    "https://e8703f688832da.app.lhr.life"
+    "https://gateway-unix-boys-inns.trycloudflare.com",
+    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
+    "https://horses-reporting-parish-defendant.trycloudflare.com",
+    "https://ad54f72aef5f1165-78-17-138-114.serveousercontent.com",
+    "https://0fb99722a3ffa6.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,11 +21,12 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://cambridge-monsters-representative-inches.trycloudflare.com",
-    "https://census-showtimes-snowboard-sweet.trycloudflare.com",
-    "https://trivia-prot-frog-isp.trycloudflare.com",
-    "https://e3d1d23459ee23f1-48-103-171-35.serveousercontent.com"
+    "https://gateway-unix-boys-inns.trycloudflare.com",
+    "https://pest-heaven-tennessee-calibration.trycloudflare.com",
+    "https://horses-reporting-parish-defendant.trycloudflare.com",
+    "https://ad54f72aef5f1165-78-17-138-114.serveousercontent.com",
+    "https://0fb99722a3ffa6.app.lhr.life"
   ],
-  "api_url": "https://cambridge-monsters-representative-inches.trycloudflare.com",
-  "updated": "2026-11-27T12:18:25Z"
+  "api_url": "https://gateway-unix-boys-inns.trycloudflare.com",
+  "updated": "2026-11-27T12:19:44Z"
 }
