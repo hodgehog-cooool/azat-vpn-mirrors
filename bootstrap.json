@@ -3,9 +3,9 @@
   "api_bases": [
     "https://recruiting-helena-communist-coordinated.trycloudflare.com",
     "https://resolutions-writing-reflect-cologne.trycloudflare.com",
+    "https://onion-allied-lesson-vacancies.trycloudflare.com",
     "https://7cdf3ac21eb97c55-48-103-171-35.serveousercontent.com",
-    "https://41077db5ccceea.app.lhr.life",
-    "https://onion-allied-lesson-vacancies.trycloudflare.com"
+    "https://41077db5ccceea.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -23,9 +23,10 @@
   "live_api_bases": [
     "https://recruiting-helena-communist-coordinated.trycloudflare.com",
     "https://resolutions-writing-reflect-cologne.trycloudflare.com",
+    "https://onion-allied-lesson-vacancies.trycloudflare.com",
     "https://7cdf3ac21eb97c55-48-103-171-35.serveousercontent.com",
     "https://41077db5ccceea.app.lhr.life"
   ],
   "api_url": "https://recruiting-helena-communist-coordinated.trycloudflare.com",
-  "updated": "2026-11-28T07:39:57Z"
+  "updated": "2026-11-28T07:40:10Z"
 }
