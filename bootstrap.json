@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://recruiting-helena-communist-coordinated.trycloudflare.com",
-    "https://resolutions-writing-reflect-cologne.trycloudflare.com",
-    "https://onion-allied-lesson-vacancies.trycloudflare.com",
-    "https://dc7e41009f3ccf35-48-103-171-35.serveousercontent.com",
-    "https://cda1358e70f2b9.app.lhr.life"
+    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
+    "https://accessed-suit-candidates-machinery.trycloudflare.com",
+    "https://done-welding-verified-dallas.trycloudflare.com",
+    "https://91dd526f052e6b.app.lhr.life",
+    "https://54b23d2d85d25926-78-17-138-114.serveousercontent.com"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +21,11 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://recruiting-helena-communist-coordinated.trycloudflare.com",
-    "https://resolutions-writing-reflect-cologne.trycloudflare.com",
-    "https://onion-allied-lesson-vacancies.trycloudflare.com",
-    "https://dc7e41009f3ccf35-48-103-171-35.serveousercontent.com",
-    "https://cda1358e70f2b9.app.lhr.life"
+    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
+    "https://accessed-suit-candidates-machinery.trycloudflare.com",
+    "https://done-welding-verified-dallas.trycloudflare.com",
+    "https://91dd526f052e6b.app.lhr.life"
   ],
-  "api_url": "https://recruiting-helena-communist-coordinated.trycloudflare.com",
-  "updated": "2026-11-28T05:23:55Z"
+  "api_url": "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
+  "updated": "2026-11-28T05:24:49Z"
 }
