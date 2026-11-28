@@ -4,8 +4,8 @@
     "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
     "https://accessed-suit-candidates-machinery.trycloudflare.com",
     "https://done-welding-verified-dallas.trycloudflare.com",
-    "https://d2634763c645a4.app.lhr.life",
-    "https://c51c612645a8b5fe-78-17-138-114.serveousercontent.com"
+    "https://d9b21fbb18d63e81-78-17-138-114.serveousercontent.com",
+    "https://d2634763c645a4.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -24,8 +24,9 @@
     "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
     "https://accessed-suit-candidates-machinery.trycloudflare.com",
     "https://done-welding-verified-dallas.trycloudflare.com",
+    "https://d9b21fbb18d63e81-78-17-138-114.serveousercontent.com",
     "https://d2634763c645a4.app.lhr.life"
   ],
   "api_url": "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
-  "updated": "2026-11-28T00:12:17Z"
+  "updated": "2026-11-28T00:12:30Z"
 }
