@@ -1,11 +1,10 @@
 {
   "schema": 1,
   "api_bases": [
-    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
-    "https://accessed-suit-candidates-machinery.trycloudflare.com",
-    "https://done-welding-verified-dallas.trycloudflare.com",
-    "https://4216db3821ca027a-78-17-138-114.serveousercontent.com",
-    "https://b7744878c33c00.app.lhr.life"
+    "https://cow-museum-lat-scholarship.trycloudflare.com",
+    "https://composite-salary-perspectives-sector.trycloudflare.com",
+    "https://skirt-por-underground-jackie.trycloudflare.com",
+    "https://8672a303c7e64e.app.lhr.life"
   ],
   "vpn_endpoints": [
     "78.17.138.114:51822"
@@ -21,12 +20,10 @@
   "relays": [],
   "own_tunnel": "",
   "live_api_bases": [
-    "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
-    "https://accessed-suit-candidates-machinery.trycloudflare.com",
-    "https://done-welding-verified-dallas.trycloudflare.com",
-    "https://4216db3821ca027a-78-17-138-114.serveousercontent.com",
-    "https://b7744878c33c00.app.lhr.life"
+    "https://cow-museum-lat-scholarship.trycloudflare.com",
+    "https://composite-salary-perspectives-sector.trycloudflare.com",
+    "https://skirt-por-underground-jackie.trycloudflare.com"
   ],
-  "api_url": "https://resorts-earlier-lottery-instrumentation.trycloudflare.com",
-  "updated": "2026-11-28T15:55:04Z"
+  "api_url": "https://cow-museum-lat-scholarship.trycloudflare.com",
+  "updated": "2026-11-28T15:57:40Z"
 }
