@@ -4,6 +4,7 @@
     "https://nightlife-median-assure-soma.trycloudflare.com",
     "https://ladies-every-minute-honor.trycloudflare.com",
     "https://minute-sleeps-shanghai-cameras.trycloudflare.com",
+    "https://73c747efcf631233-48-103-171-35.serveousercontent.com",
     "https://2319d583797f61.app.lhr.life"
   ],
   "vpn_endpoints": [
@@ -22,8 +23,9 @@
   "live_api_bases": [
     "https://nightlife-median-assure-soma.trycloudflare.com",
     "https://ladies-every-minute-honor.trycloudflare.com",
-    "https://minute-sleeps-shanghai-cameras.trycloudflare.com"
+    "https://minute-sleeps-shanghai-cameras.trycloudflare.com",
+    "https://73c747efcf631233-48-103-171-35.serveousercontent.com"
   ],
   "api_url": "https://nightlife-median-assure-soma.trycloudflare.com",
-  "updated": "2026-11-28T03:20:03Z"
+  "updated": "2026-11-28T03:20:15Z"
 }
